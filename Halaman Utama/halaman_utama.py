@@ -150,7 +150,7 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
-                "nama": "B",
+                "nama": "Hanna Gresia Sigitnaga",
                 "sebagai": "Bu Lurah",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
