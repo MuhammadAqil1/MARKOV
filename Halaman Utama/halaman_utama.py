@@ -164,9 +164,9 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "D",
+                "nama": "khoirul",
                 "sebagai": "Anggota",
-                "nim": "122450000",
+                "nim": "12345345",
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "jalanin dulu aja",
             },
