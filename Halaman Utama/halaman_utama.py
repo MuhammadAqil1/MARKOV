@@ -171,7 +171,7 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "E",
+                "nama": "azza",
                 "sebagai": "Anggota",
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
