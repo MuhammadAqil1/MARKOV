@@ -157,7 +157,7 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
-                "nama": "C",
+                "nama": "devi",
                 "sebagai": "Anggota",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
