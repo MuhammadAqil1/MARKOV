@@ -143,40 +143,47 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Aditya Taufiqurrohman",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450032",
+                "fun_fact": "kalau tidur gabisa tidur bareng",
+                "motto_hidup": "harus tetap sholat",
             },
             {
-                "nama": "Hanna Gresia Sigitnaga",
+                "nama": "Hanna Gresia Sinaga",
                 "sebagai": "Bu Lurah",
+<<<<<<< HEAD
                 "nim": "123450038",
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "Ya apa ya",
+=======
+                "nim": "122450038",
+                "fun_fact": "kalau tidur harus mati lampu",
+                "motto_hidup": "harus tetap greja",
+>>>>>>> f45cbdac878c0453ad529964a7a189c5e9b04414
             },
             {
-                "nama": "C",
+                "nama": "devi",
                 "sebagai": "Anggota",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "D",
+                "nama": "khoirul",
                 "sebagai": "Anggota",
-                "nim": "122450000",
+                "nim": "12345345",
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "E",
+                "nama": "azza",
                 "sebagai": "Anggota",
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
             },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
 
