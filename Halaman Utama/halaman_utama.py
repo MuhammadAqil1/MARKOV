@@ -143,11 +143,11 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "A",
+                "Nama": "Aditya Taufiqurrohman",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450032",
+                "fun_fact": "kalau tidur gabisa tidur bareng",
+                "motto_hidup": "harus tetap sholat",
             },
             {
                 "nama": "B",
@@ -177,6 +177,7 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
             },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
 
