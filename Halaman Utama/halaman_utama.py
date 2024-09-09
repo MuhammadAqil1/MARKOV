@@ -145,9 +145,9 @@ elif menu == "About Us":
             {
                 "nama": "Aditya Taufiqurrohman",
                 "sebagai": "Pak Lurah",
-                "nim": "123450032",
-                "fun_fact": "kalau tidur gabisa tidur bareng",
-                "motto_hidup": "harus tetap sholat",
+                "nim": "122450000",
+                "fun_fact": "nyemilin es bata",
+                "motto_hidup": "Ya apa ya",
             },
             {
                 "nama": "Hanna Gresia Sinaga",
@@ -177,6 +177,20 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
             },
+            { 
+                "nama": "azza",
+                "sebagai": "Anggota",
+                "nim": "122450100",
+                "fun_fact": "nyemilin es bata, kiko",
+                "motto_hidup": "jalanin dulu keles",
+            },
+            {
+                "nama": "Razin Hafid Hamdi",
+                "sebagai": "Anggota",
+                "nim": "123450096",
+                "fun_fact": "nyemilin es bata, kiko",
+                "motto_hidup": "jalanin dulu keles",
+            }
             
         ]
         display_images_with_data(gambar_urls, data_list)
