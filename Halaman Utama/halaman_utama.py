@@ -150,7 +150,7 @@ elif menu == "About Us":
                 "motto_hidup": "harus tetap sholat",
             },
             {
-                "nama": "Hanna Gresia Sigitnaga",
+                "nama": "Hanna Gresia Sinaga",
                 "sebagai": "Bu Lurah",
                 "nim": "122450038",
                 "fun_fact": "kalau tidur harus mati lampu",
