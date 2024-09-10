@@ -212,7 +212,7 @@ elif menu == "About Us":
                 "nim": "123450031",
                 "fun_fact": "Ga suka bubur dan makanan berbau kecap",
                 "motto_hidup": "Lakukan yang terbaik, sisanya biar Tuhan yang mengatur",
-            }
+            },
 {
                 "nama": "Nabyla Sharfina",
                 "sebagai": "Anggota",
