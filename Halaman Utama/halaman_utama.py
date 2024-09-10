@@ -206,7 +206,7 @@ elif menu == "About Us":
                 "fun_fact": "lebih suka bubur di aduk",
                 "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
             },
-             {
+            {
                 "nama": "Natasya",
                 "sebagai": "Anggota",
                 "nim": "123450096",
