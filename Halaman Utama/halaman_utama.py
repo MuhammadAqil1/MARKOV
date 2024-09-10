@@ -181,7 +181,7 @@ elif menu == "About Us":
             {
                 "nama": "naufal",
                 "sebagai": "Anggota",
-                "nim": "122450100",
+                "nim": "123450113",
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
             },
