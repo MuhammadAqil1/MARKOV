@@ -191,9 +191,16 @@ elif menu == "About Us":
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
+            },
+            {
+                "nama": "Razin Hafid Hamdi",
+                "sebagai": "Anggota",
+                "nim": "123450096",
+                "fun_fact": "lebih suka bubur di aduk",
+                "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
             }
 
-            
+
         ]
         display_images_with_data(gambar_urls, data_list)
 
