@@ -135,19 +135,20 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1yGce2FapBrQf-qZGHig0yvTf1JGwpr9P",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
         ]
         data_list = [
             {
                 "nama": "Aditya Taufiqurrohman",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450032",
+                "fun_fact": "kalau tidur gabisa tidur bareng",
+                "motto_hidup": "harus tetap sholat",
             },
             {
                 "nama": "Hanna Gresia Sinaga",
@@ -177,20 +178,14 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
             },
-            { 
-                "nama": "azza",
+            {
+                "nama": "naufal",
                 "sebagai": "Anggota",
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
-            },
-            {
-                "nama": "Razin Hafid Hamdi",
-                "sebagai": "Anggota",
-                "nim": "123450096",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
             }
+
             
         ]
         display_images_with_data(gambar_urls, data_list)
