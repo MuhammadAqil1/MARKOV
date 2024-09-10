@@ -135,7 +135,14 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1yGce2FapBrQf-qZGHig0yvTf1JGwpr9P",
+            "https://drive.google.com/uc?export=view&id=19177V6fvVGn0yYuh4KXHw2Z1GX_xCksm",
+            "https://drive.google.com/uc?export=view&id=1lszi7rS9Z_hfy5j6BqnYVlE795zUUYqW",
+            "https://drive.google.com/uc?export=view&id=1iaZL1_TxVsiY8vkk2uUH7eLjeBmzHS4l",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1IJYNoMdPhx1SUtDT17ac0BdE7nyh4-qj",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=19UH_AssOYVxbLe9Cs0BMDYVqVol4Y0Z5",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -145,23 +152,23 @@ elif menu == "About Us":
             {
                 "nama": "Aditya Taufiqurrohman",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450032",
+                "fun_fact": "kalau tidur gabisa tidur bareng",
+                "motto_hidup": "harus tetap sholat",
             },
             {
                 "nama": "Hanna Gresia Sinaga",
                 "sebagai": "Bu Lurah",
-                "nim": "122450038",
+                "nim": "123450038",
                 "fun_fact": "kalau tidur harus mati lampu",
                 "motto_hidup": "harus tetap greja",
             },
             {
-                "nama": "devi",
+                "nama": "Muhammad Aqil Ramadhan",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450066",
+                "fun_fact": "kalau tidur ganteng banget",
+                "motto_hidup": "jangan menilai seseorang dari penampilannya",
             },
             {
                 "nama": "khoirul",
@@ -177,8 +184,15 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
             },
-            { 
-                "nama": "azza",
+            {
+                "nama": "Muhammad Naufal Ramadhan",
+                "sebagai": "Anggota",
+                "nim": "123450113",
+                "fun_fact": "Tidur harus gelap",
+                "motto_hidup": "Pasti ada jalannya",
+            },
+            {
+                "nama": "salsabila",
                 "sebagai": "Anggota",
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
@@ -188,10 +202,11 @@ elif menu == "About Us":
                 "nama": "Razin Hafid Hamdi",
                 "sebagai": "Anggota",
                 "nim": "123450096",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "fun_fact": "lebih suka bubur di aduk",
+                "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
             }
-            
+
+
         ]
         display_images_with_data(gambar_urls, data_list)
 
