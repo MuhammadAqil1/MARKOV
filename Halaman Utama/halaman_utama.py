@@ -207,11 +207,11 @@ elif menu == "About Us":
                 "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
             },
             {
-                "nama": "Natasya",
+                "nama": "Natasya Lutfyah Ramadhan",
                 "sebagai": "Anggota",
-                "nim": "123450096",
-                "fun_fact": "lebih suka bubur di aduk",
-                "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
+                "nim": "123450031",
+                "fun_fact": "Ga suka bubur dan makanan berbau kecap",
+                "motto_hidup": "Lakukan yang terbaik, sisanya biar Tuhan yang mengatur",
             }
 
 
