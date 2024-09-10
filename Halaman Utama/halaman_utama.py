@@ -179,11 +179,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
             {
-                "nama": "naufal",
+                "nama": "Muhammad Naufal Ramadhan",
                 "sebagai": "Anggota",
                 "nim": "123450113",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "fun_fact": "Tidur harus gelap",
+                "motto_hidup": "Pasti ada jalannya",
             },
             {
                 "nama": "salsabila",
