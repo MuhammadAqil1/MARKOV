@@ -180,9 +180,9 @@ elif menu == "About Us":
             {
                 "nama": "Azzahra Putri Kamilah",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "122450013",
+                "fun_fact": "Makan harus ada cabe",
+                "motto_hidup": "jangan pernah takut gagal",
             },
             {
                 "nama": "Muhammad Naufal Ramadhan",
