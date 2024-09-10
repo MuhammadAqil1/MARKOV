@@ -135,7 +135,7 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1yGce2FapBrQf-qZGHig0yvTf1JGwpr9P",
+            "https://drive.google.com/uc?export=view&id=19177V6fvVGn0yYuh4KXHw2Z1GX_xCksm",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -144,7 +144,7 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "Aditya Tau2fiqurrohman",
+                "nama": "Aditya Taufiqurrohman",
                 "sebagai": "Pak Lurah",
                 "nim": "123450032",
                 "fun_fact": "kalau tidur gabisa tidur bareng",
