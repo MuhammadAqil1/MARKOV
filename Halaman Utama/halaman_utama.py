@@ -211,7 +211,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450031",
                 "fun_fact": "Ga suka bubur dan makanan berbau kecap",
-                "motto_hidup": "Lakukan yang terbaik, sisanya biarkan Tuhan yang mengatur",
+                "motto_hidup": "Lakukan yang terbaik, sisanya biar Tuhan yang mengatur",
             }
 
 
