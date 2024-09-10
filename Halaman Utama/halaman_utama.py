@@ -147,6 +147,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -200,6 +201,13 @@ elif menu == "About Us":
             },
             {
                 "nama": "Razin Hafid Hamdi",
+                "sebagai": "Anggota",
+                "nim": "123450096",
+                "fun_fact": "lebih suka bubur di aduk",
+                "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
+            },
+             {
+                "nama": "Natasya",
                 "sebagai": "Anggota",
                 "nim": "123450096",
                 "fun_fact": "lebih suka bubur di aduk",
