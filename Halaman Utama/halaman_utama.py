@@ -162,7 +162,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450066",
                 "fun_fact": "kalau tidur ganteng banget",
-                "motto_hidup": "jangan menilai orang dari penampilannya",
+                "motto_hidup": "jangan menilai seseorang dari penampilannya",
             },
             {
                 "nama": "khoirul",
@@ -179,11 +179,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
             {
-                "nama": "naufal",
+                "nama": "Muhammad Naufal Ramadhan",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450113",
+                "fun_fact": "Tidur harus gelap",
+                "motto_hidup": "Pasti ada jalannya",
             },
             {
                 "nama": "salsabila",
@@ -191,9 +191,16 @@ elif menu == "About Us":
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
+            },
+            {
+                "nama": "Razin Hafid Hamdi",
+                "sebagai": "Anggota",
+                "nim": "123450096",
+                "fun_fact": "lebih suka bubur di aduk",
+                "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
             }
 
-            
+
         ]
         display_images_with_data(gambar_urls, data_list)
 
