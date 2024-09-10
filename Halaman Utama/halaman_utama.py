@@ -144,7 +144,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=19UH_AssOYVxbLe9Cs0BMDYVqVol4Y0Z5",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -179,11 +179,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "azza",
+                "nama": "Azzahra Putri Kamilah",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450013",
+                "fun_fact": "Makan harus ada cabe",
+                "motto_hidup": "jangan pernah takut gagal",
             },
             {
                 "nama": "Muhammad Naufal Ramadhan",
@@ -193,7 +193,7 @@ elif menu == "About Us":
                 "motto_hidup": "Pasti ada jalannya",
             },
             {
-                "nama": "salsabila",
+                "nama": "salsabilaa",
                 "sebagai": "Anggota",
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
@@ -207,11 +207,18 @@ elif menu == "About Us":
                 "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
             },
             {
-                "nama": "Natasya",
+                "nama": "Natasya Lutfyah Ramadhan",
                 "sebagai": "Anggota",
-                "nim": "123450096",
-                "fun_fact": "lebih suka bubur di aduk",
-                "motto_hidup": "dima bumi dipijak di situ langik di junjuang",
+                "nim": "123450031",
+                "fun_fact": "Ga suka bubur dan makanan berbau kecap",
+                "motto_hidup": "Lakukan yang terbaik, sisanya biar Tuhan yang mengatur",
+            },
+            {
+                "nama": "Nabyla Sharfina",
+                "sebagai": "Anggota",
+                "nim": "123450008",
+                "fun_fact": "Kalau ujian belajarnya h-1",
+                "motto_hidup": "Tetap santai walau jiwa terbantai",
             }
 
 
