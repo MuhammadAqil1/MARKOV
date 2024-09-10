@@ -193,7 +193,7 @@ elif menu == "About Us":
                 "motto_hidup": "Pasti ada jalannya",
             },
             {
-                "nama": "salsabilaaaaaa",
+                "nama": "salsabilaa",
                 "sebagai": "Anggota",
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
