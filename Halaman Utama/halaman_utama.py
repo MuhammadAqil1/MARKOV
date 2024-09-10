@@ -144,7 +144,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=19UH_AssOYVxbLe9Cs0BMDYVqVol4Y0Z5",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a_",
+            "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -211,9 +211,9 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450031",
                 "fun_fact": "Ga suka bubur dan makanan berbau kecap",
-                "motto_hidup": "Lakukan yang terbaik, sisanya biar Tuhan yang mengatur",
-            }
-{
+                "motto_hidup": "Lakukan yang terbaik, sisanya biar Tuhan yang mengatur"
+            },
+            {
                 "nama": "Nabyla Sharfina",
                 "sebagai": "Anggota",
                 "nim": "123450008",
