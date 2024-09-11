@@ -216,6 +216,13 @@ elif menu == "About Us":
                 "nim": "123450008",
                 "fun_fact": "Kalau ujian belajarnya h-1",
                 "motto_hidup": "Tetap santai walau jiwa terbantai",
+            },
+            {
+                "nama": "Sarah Wasti",
+                "sebagai": "Anggota",
+                "nim": "123450057",
+                "fun_fact": "Ga suka perbawangan",
+                "motto_hidup": "Kalau orang lain bisa, kenapa harus aku",
             }
 
 
