@@ -190,11 +190,11 @@ elif menu == "About Us":
                 "motto_hidup": "Pasti ada jalannya",
             },
             {
-                "nama": "salsabilaa",
+                "nama": "Salsabila Putri Maharani",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450070",
+                "fun_fact": "ga syuka kuaci",
+                "motto_hidup": "hidup adalah takdir",
             },
             {
                 "nama": "Razin Hafid Hamdi",
