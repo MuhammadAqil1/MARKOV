@@ -169,11 +169,11 @@ elif menu == "About Us":
                 "motto_hidup": "jangan menilai seseorang dari penampilannya",
             },
             {
-                "nama": "khoirul",
+                "nama": "khoirul muttoharoh",
                 "sebagai": "Anggota",
-                "nim": "12345345",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450021",
+                "fun_fact": "kalau tidur ga bisa gelap",
+                "motto_hidup": "kita bisa karena terbiasa",
             },
             {
                 "nama": "Azzahra Putri Kamilah",
