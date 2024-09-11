@@ -224,6 +224,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450010",
                 "fun_fact": "Lebih suka makan yang berkuah dan kalo tidur gak bisa di tempat yang gelap",
+                "motto_hidup": "Kalau orang lain bisa, kenapa harus aku",
             },
             {
                 "nama": "Sarah Wasti",
