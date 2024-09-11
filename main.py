@@ -39,11 +39,6 @@ Mahasiswa6 = st.Page(
     icon=":material/person:",
 )
 
-Mahasiswa7 = st.Page(
-    "Buku Kating/008_Nabyla Sharfina.py",
-    title="008 - Nabyla Sharfina",
-    icon=":material/person:",
-
 #Perlu diperhatikan perubahannya
 KREASI = st.Page("tools/KREASI.py", title="KREASI", icon=":material/search:")
 KREASII = st.Page("tools/KREASII.py", title="KREASII", icon=":material/search:")

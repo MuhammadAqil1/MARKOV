@@ -144,10 +144,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=19UH_AssOYVxbLe9Cs0BMDYVqVol4Y0Z5",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a",
         ]
         data_list = [
             {
@@ -172,11 +169,11 @@ elif menu == "About Us":
                 "motto_hidup": "jangan menilai seseorang dari penampilannya",
             },
             {
-                "nama": "khoirul",
+                "nama": "khoirul muttoharoh",
                 "sebagai": "Anggota",
-                "nim": "12345345",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450021",
+                "fun_fact": "kalau tidur ga bisa gelap",
+                "motto_hidup": "kita bisa karena terbiasa",
             },
             {
                 "nama": "Azzahra Putri Kamilah",
