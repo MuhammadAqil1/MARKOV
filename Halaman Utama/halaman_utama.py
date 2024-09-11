@@ -145,6 +145,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=19UH_AssOYVxbLe9Cs0BMDYVqVol4Y0Z5",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a",
+            "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a",
         ]
         data_list = [
             {
@@ -216,6 +217,13 @@ elif menu == "About Us":
                 "nim": "123450008",
                 "fun_fact": "Kalau ujian belajarnya h-1",
                 "motto_hidup": "Tetap santai walau jiwa terbantai",
+            },
+            {
+                "nama": "Devi Rahayu",
+                "sebagai": "Anggota",
+                "nim": "123450010",
+                "fun_fact": "Lebih suka makan yang berkuah dan kalo tidur gak bisa di tempat yang gelap",
+                "motto_hidup": "Hidup ini terlalu singkat untuk serius, jadi tertawalah",
             }
 
 
