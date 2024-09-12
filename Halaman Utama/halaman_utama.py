@@ -216,8 +216,8 @@ elif menu == "About Us":
                 "nama": "Nabyla Sharfina",
                 "sebagai": "Anggota",
                 "nim": "123450008",
-                "fun_fact": "Kalau ujian belajarnya h-1",
-                "motto_hidup": "Tetap santai walau jiwa terbantai",
+                "fun_fact": "Kalau ujian belajarnya harus h-1",
+                "motto_hidup": "Selesaikan apa yang sudah kamu mulai",
             },
             {
 
