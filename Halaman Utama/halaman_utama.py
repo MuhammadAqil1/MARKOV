@@ -220,7 +220,6 @@ elif menu == "About Us":
                 "motto_hidup": "Tetap santai walau jiwa terbantai",
             },
             {
-
                 "nama": "Devi Rahayu",
                 "sebagai": "Anggota",
                 "nim": "123450010",
