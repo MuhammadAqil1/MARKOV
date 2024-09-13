@@ -139,14 +139,14 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1WYt0geGbvp_3wk2F3lVW45gkkFlrQgDg", #hanna
             "https://drive.google.com/uc?export=view&id=15FzLpiX_Nn1-QrTIICJuT2Gl-6JSfogs", #aqil
             "https://drive.google.com/uc?export=view&id=1KRup5nHUAZ2AbJKJE9_Ka5zXrAhCyLaY", #mut
-            "https://drive.google.com/uc?export=view&id=1d31GuEALSjNsYtk_KoE-r0oxCSJtU89C",
-            "https://drive.google.com/uc?export=view&id=1IJYNoMdPhx1SUtDT17ac0BdE7nyh4-qj", #naufal
-            "https://drive.google.com/uc?export=view&id=1YKOvVq2xMwBwjuRLb8I-OU-yGC-dFxoE",
+            "https://drive.google.com/uc?export=view&id=1kYOLrLAHZqnHTWbVzZLQ8jr8uiggaCWC", #azza
+            "https://drive.google.com/uc?export=view&id=1m_a0Y9vSuEmzdl3JVx4F_8WpNeaL5yiH", #naufal
+            "https://drive.google.com/uc?export=view&id=1NZ52uDegibjE2xaQM4FAPgTU_BWRDXBm", #salsa
             "https://drive.google.com/uc?export=view&id=1lhW3E40LDqIw0NhqUxtJLaEovmq4c7ws", #Razin
-            "https://drive.google.com/uc?export=view&id=1-2Zf9AK6Fl2W_qoTEIDuLi7N9sYhg-IZ",
-            "https://drive.google.com/uc?export=view&id=1N4NFDmUHqFwhH0zh5TBerwBOio0Hw7MC", #nabyla
-            "https://drive.google.com/uc?export=view&id=1XCvG1XK9FFCLtCDTiZ44FpfhZC6mveW3",
-            "https://drive.google.com/uc?export=view&id=1XKjAYneQg5Kd5J30TIuGlyKX0DIid81X",
+            "https://drive.google.com/uc?export=view&id=1ui2RfdY96e4_eGdrn8GakluKanzo1P-y", #natasha
+            "https://drive.google.com/uc?export=view&id=1XBy5VIc3lJwgPcTb-sHjC_P1wnpRhjCJ", #nabyla
+            "https://drive.google.com/uc?export=view&id=1eLiu-3ikxRjhVET-DdwTPB-5BqmVi8sp", #devi
+            "https://drive.google.com/uc?export=view&id=1cz6Yum17YvbtsahqdIpXFX7AUevZ-5-B", #sarah
         ]
         data_list = [
                 {
