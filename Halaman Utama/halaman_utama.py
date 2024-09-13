@@ -171,7 +171,7 @@ elif menu == "About Us":
                 "motto_hidup": "jangan menilai seseorang dari penampilannya",
             },
             {
-                "nama": "khoirul muttoharoh",
+                "nama": "Khoirul Muttoharoh",
                 "sebagai": "Anggota",
                 "nim": "123450021",
                 "fun_fact": "kalau tidur ga bisa gelap",
