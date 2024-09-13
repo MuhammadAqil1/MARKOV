@@ -135,16 +135,16 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Zve71iFzR4TZgREJabirqaylyd_2iXzM",
-            "https://drive.google.com/uc?export=view&id=1lszi7rS9Z_hfy5j6BqnYVlE795zUUYqW",
-            "https://drive.google.com/uc?export=view&id=1iaZL1_TxVsiY8vkk2uUH7eLjeBmzHS4l",
-            "https://drive.google.com/uc?export=view&id=1r-a4D2WwIxHyR3J3oT9idn0zgswTLPB3",
+            "https://drive.google.com/uc?export=view&id=1Zve71iFzR4TZgREJabirqaylyd_2iXzM", #adit
+            "https://drive.google.com/uc?export=view&id=1WYt0geGbvp_3wk2F3lVW45gkkFlrQgDg", #hanna
+            "https://drive.google.com/uc?export=view&id=15FzLpiX_Nn1-QrTIICJuT2Gl-6JSfogs", #aqil
+            "https://drive.google.com/uc?export=view&id=1KRup5nHUAZ2AbJKJE9_Ka5zXrAhCyLaY", #mut
             "https://drive.google.com/uc?export=view&id=1d31GuEALSjNsYtk_KoE-r0oxCSJtU89C",
-            "https://drive.google.com/uc?export=view&id=1IJYNoMdPhx1SUtDT17ac0BdE7nyh4-qj",
+            "https://drive.google.com/uc?export=view&id=1IJYNoMdPhx1SUtDT17ac0BdE7nyh4-qj", #naufal
             "https://drive.google.com/uc?export=view&id=1YKOvVq2xMwBwjuRLb8I-OU-yGC-dFxoE",
-            "https://drive.google.com/uc?export=view&id=19UH_AssOYVxbLe9Cs0BMDYVqVol4Y0Z5",
+            "https://drive.google.com/uc?export=view&id=1lhW3E40LDqIw0NhqUxtJLaEovmq4c7ws", #Razin
             "https://drive.google.com/uc?export=view&id=1-2Zf9AK6Fl2W_qoTEIDuLi7N9sYhg-IZ",
-            "https://drive.google.com/uc?export=view&id=1lYpd13339cFupk3Fbasj3LFBW3mk47_a",
+            "https://drive.google.com/uc?export=view&id=1N4NFDmUHqFwhH0zh5TBerwBOio0Hw7MC", #nabyla
             "https://drive.google.com/uc?export=view&id=1XCvG1XK9FFCLtCDTiZ44FpfhZC6mveW3",
             "https://drive.google.com/uc?export=view&id=1XKjAYneQg5Kd5J30TIuGlyKX0DIid81X",
         ]
