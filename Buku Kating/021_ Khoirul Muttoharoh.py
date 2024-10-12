@@ -99,7 +99,12 @@ if menu == "Kesekjenan":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1UuDll6EvmsLLI6S18guq2qjdrljxNbND", #Bang Kharisma
             "https://drive.google.com/uc?export=view&id=1lOd0lUoe9szDY62I-vUAa4UtXnO-qShl", #Bang Pandra
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1o1lktcw74fQkhzFVWFxRrzpu3ftN3CnC",
+            "https://drive.google.com/uc?export=view&id=1PERkV1lA5FW_wVRTCguamFVuAVSlYSP1",
+            "https://drive.google.com/uc?export=view&id=1TH5ShZfH-PGMhK8OWmmk69SGb7T9cloA",
+            "https://drive.google.com/uc?export=view&id=1COVpLRyuIaYxsCHDPU0VXS7zY0sWUcrp",
+
+
         ]
         data_list = [
             {
