@@ -97,12 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/file/d/1PTrO8ors28_jtYNbO9Zpt2fse_mnGKme/view?usp=drive_link",#Bang kharisma
-            "https://drive.google.com/file/d/1z03M9vqZjdeii1QIx6Q_-bIEi043bQBd/view?usp=drive_link",#Bang Pandra
-            "https://drive.google.com/file/d/1EB0Dkp1aOFu3WJbyg7mcWq9CQNXFWqRH/view?usp=drive_link",#Kak Meliza
-            "https://drive.google.com/file/d/1NZBdwsk8Pi1dAoBXvs2_QjFg5KdBaiFf/view?usp=drive_link",#Kak PUtri
-            "https://drive.google.com/file/d/1ESOCuUbejJ1JKaj4H4mqpGYHmuT-z3LN/view?usp=drive_link",#Kak Hartiti
-            "https://drive.google.com/file/d/1hN8tBfFsmMoB2tCWvwuNbfiHTKpGpfpg/view?usp=drive_link",#Kak Nadila
+            "https://drive.google.com/uc?export=view&id=1PTrO8ors28_jtYNb09Zpt2fse_mnGKme",
+            "https://drive.google.com/uc?export=view&id=1z03M9vqZjdeii1Qlx6Q _- blEi043bQBd",
+            "https://drive.google.com/uc?export=view&id=1EB0Dkp1aOFu3WJbyg7mcWq9CQNXFWqRH",
+            "https://drive.google.com/uc?export=view&id=1NZBdwsk8Pi1dAoBXvs2_QjFg5KdBaiFf",
+            "https://drive.google.com/uc?export=view&id=1ESOCuUbejJ1JKaj4H4mqpGYHmuT-z3LN",
+            "https://drive.google.com/uc?export=view&id=1hN8tBfFsmMoB2tCWvwuNbfiHTKpGpfpg",
         ]
         data_list = [
             {
