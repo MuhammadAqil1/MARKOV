@@ -108,37 +108,70 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Kandis",
+                "hobbi": "Denger musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "",  
+                "pesan":""
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Azwan",
+                "nim": "121450137",
+                "umur": "21",
+                "asal":"Bukitr Kemuning(Lampung Utara)",
+                "alamat": "Bawen 2",
+                "hobbi": "Bermain gitar dan menyanyi",
+                "sosmed": "@pandrainsni27",
+                "kesan": "",  
+                "pesan":""
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Pagar Alam(Sumatera Selatan)",
+                "alamat": "Kota baru",
+                "hobbi": "Nonton drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh(Sumatera Selatan)",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin bang pandra gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Nadilla Andara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kota Baru",
+                "hobbi": "Membaca",
+                "sosmed": "@ndillaandr26",
+                "kesan": "",  
+                "pesan":"!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -147,9 +180,16 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=14cLBaPk-rxKgOGzDEhKFFIUgKby3gkVn",
+            "https://drive.google.com/uc?export=view&id=1u_e_7IbkR49xNGpUq0k0dypQ5JLg86MI",
+            "https://drive.google.com/uc?export=view&id=1LyOysFPoDo4wx1WFe8A5lCZ3cyE9o_Pl",
+            "https://drive.google.com/uc?export=view&id=1FyYUKw6mOeKvSBFolpNVo7Hz_AUP2jAH",
+            "https://drive.google.com/uc?export=view&id=1ZXxKC6uWaZk6q8FD9Ne53oEXh-TsolFe",
+            "https://drive.google.com/uc?export=view&id=17t4XfB5dODRBv2JKFBUuBnJocJTfbiGZ",
+            "https://drive.google.com/uc?export=view&id=1w3z-k4aVl0siron0PKwDLi3zSCsayQ-m",
+            "https://drive.google.com/uc?export=view&id=1tvgFgrnnD2Xmhn_8P6Qc2i3ZTD97zWBp",
+            "https://drive.google.com/uc?export=view&id=1B2uqKgD9xkijxbyzK-kyyREFwBVv5dwX",
+            "https://drive.google.com/uc?export=view&id=1BnraND5nbYfQOw__sW9C1vmvAVoCfZyb",
         ]
         data_list = [
             {
