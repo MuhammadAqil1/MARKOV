@@ -181,9 +181,16 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/file/d/1aaRfIBYMSd9MK9hKAnrVCIbCgLaML6wZ ",#kak tri
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1aaRfIBYMSd9MK9hKAnrVCIbCgLaML6wZ",#kak tri
+            "https://drive.google.com/uc?export=view&id=1DiLXGB2CUxWzMOPCd5YntKYk5xU7uryh", # kak cahyani
+            "https://drive.google.com/uc?export=view&id=1TytKk1itvXSnUYa5CaWamoAf8MsYWZcY", # kak wulan
+            "https://drive.google.com/uc?export=view&id=1lF7Xj0uCdRDZdoS1-u2_9Svb9tWrQjtD", # kak dini
+            "https://drive.google.com/uc?export=view&id=1vdo2tDYc3i2T_HPtIExRAV1R8bqDAv4k", # kak fitriani
+            "https://drive.google.com/uc?export=view&id=1kHJQT3mdBDM1pqbpMGrmasx6jR4oLYpy", # bang mirzan
+            "https://drive.google.com/uc?export=view&id=1ysktoOsp0f9kDDDRPooqXGwA_PhmnRuJ", # kak dhea
+            "https://drive.google.com/uc?export=view&id=1z1jsrYO4V9l_zOe-SjN0r5imW9ntskN6", # bang fahrul
+            "https://drive.google.com/uc?export=view&id=1nqBAaksg_0b1vG3GlRJdhYquAOzeU_Gz", # kak berlin
+            "https://drive.google.com/uc?export=view&id=1fOQ9sNx28dTXwjuQdSilf0kfVb5k2_d0", # bang jeremia
         ]
         data_list = [
             {
