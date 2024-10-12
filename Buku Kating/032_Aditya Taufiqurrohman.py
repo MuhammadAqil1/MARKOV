@@ -109,70 +109,70 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kharisma Gumilang",
-                "nim": "121450142",
-                "umur": "21",
-                "asal":"Palembang",
+                "nama"  : "Kharisma Gumilang",
+                "nim"   : "121450142",
+                "umur"  : "21",
+                "asal"  :"Palembang",
                 "alamat": "Kandis",
-                "hobbi": "Denger musik",
+                "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "",  
-                "pesan":""
+                "kesan" : "",  
+                "pesan" :""
             },
             {
-                "nama": "Pandra Insani Putra Azwan",
-                "nim": "121450137",
-                "umur": "21",
-                "asal":"Bukitr Kemuning(Lampung Utara)",
+                "nama"  : "Pandra Insani Putra Azwan",
+                "nim"   : "121450137",
+                "umur"  : "21",
+                "asal"  : "Bukit Kemuning, Lampung Utara",
                 "alamat": "Bawen 2",
-                "hobbi": "Bermain gitar dan menyanyi",
+                "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan": "",  
-                "pesan":""
+                "kesan" : "",  
+                "pesan" : ""
             },
             {
-                "nama": "Meliza Wulandari",
-                "nim": "121450065",
-                "umur": "20",
-                "asal":"Pagar Alam(Sumatera Selatan)",
-                "alamat": "Kota baru",
-                "hobbi": "Nonton drakor",
+                "nama"  : "Meliza Wulandari",
+                "nim"   : "121450065",
+                "umur"  : "20",
+                "asal"  : "Pagar Alam, Sumatera Selatan",
+                "alamat": "Kotabaru",
+                "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "",  
-                "pesan":""
+                "kesan" : "",  
+                "pesan" : ""
             },
             {
-                "nama": "Putri Maulida Chairani",
-                "nim": "121450050",
-                "umur": "21",
-                "asal":"Payakumbuh(Sumatera Selatan)",
+                "nama"  : "Putri Maulida Chairani",
+                "nim"   : "121450050",
+                "umur"  : "21",
+                "asal"  : "Payakumbuh, Sumatera Barat",
                 "alamat": "Nangka 4",
-                "hobbi": "Dengerin bang pandra gitaran",
+                "hobbi" : "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "",  
-                "pesan":""
+                "kesan" : "",  
+                "pesan" : ""
             },
             {
-                "nama": "Hartiti Fadilah",
-                "nim": "121450031",
-                "umur": "21",
-                "asal":"Palembang",
+                "nama"  : "Hartiti Fadilah",
+                "nim"   : "121450031",
+                "umur"  : "21",
+                "asal"  : "Palembang",
                 "alamat": "Pemda",
-                "hobbi": "Nyanyi",
+                "hobbi" : "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan": "",  
-                "pesan":""
+                "kesan" : "",  
+                "pesan" : ""
             },
             {
-                "nama": "Nadilla Andara Putri",
-                "nim": "121450003",
-                "umur": "21",
-                "asal":"Metro",
-                "alamat": "Kota Baru",
-                "hobbi": "Membaca",
+                "nama"  : "Nadilla Andara Putri",
+                "nim"   : "121450003",
+                "umur"  : "21",
+                "asal"  : "Metro",
+                "alamat": "KotaBaru",
+                "hobbi" : "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan": "",  
-                "pesan":"!"
+                "kesan" : "",  
+                "pesan" : ""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
