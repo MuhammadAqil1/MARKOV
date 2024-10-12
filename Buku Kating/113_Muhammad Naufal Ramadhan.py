@@ -178,13 +178,21 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            
+            "https://drive.google.com/uc?export=view&id=1SYkCZsxUbBj631in40QaDZT1Trc0qo7A",#DONE
+            "https://drive.google.com/uc?export=view&id=1Sg0xgKC7BnUo-9IAI7stNIrLY22Ama0V",#DONE
+            "https://drive.google.com/uc?export=view&id=1ScnthuYGyGUHFnF94Vq4aq5-TyFJ8dC-",#DONE
+            "https://drive.google.com/uc?export=view&id=1S_VlFRvtm3hM3VAgoxpjBz4v74DxqYuG",#DONE 
+            "https://drive.google.com/uc?export=view&id=1SrnWLYSpj9p72xqYBtI92AfOgV8gzCqA",#DONE
+            "https://drive.google.com/uc?export=view&id=1SMSjSqhLUYK3XQio6vSko0ORkQ-bunUb",#DONE
+            "https://drive.google.com/uc?export=view&id=1Sg2vJdBXj7CiEoWKCAugmoEjkPlhDaju",#DONE
+            "https://drive.google.com/uc?export=view&id=1SaxeY8Xo_Hh5rclt16QVupw4ygkmaRfM",#DONE
+            "https://drive.google.com/uc?export=view&id=1S_BtBdZADmPGuJ_wS0YCI8tgi1d_ImFW",#DONE
+            "https://drive.google.com/uc?export=view&id=1SZAFLLIyI7lmTy2B4Mb4IXcAPBSpk3Hk",#DONE
         ]
         data_list = [
             {
-                "nama": "Kakak D",
+                "nama": "Tri Murniya Ningsih",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -195,7 +203,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak E",
+                "nama": "Annisa Cahyani Surya",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -206,7 +214,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak D",
+                "nama": "Wulan Sabina",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -215,6 +223,83 @@ elif menu == "Baleg":
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Anisa Dini Amalia",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Berliana Enda Putri",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Jeremia Susanto",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
