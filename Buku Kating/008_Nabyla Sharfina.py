@@ -185,7 +185,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1SANy73pBawz7WyFGxhknICHdcOmE-ow8", #kak anisa fitriyani
             "https://drive.google.com/uc?export=view&id=1UgDySMjgkxLZOKR_Up0G0E1Tv3It6gyT", #bang mirzan
             "https://drive.google.com/uc?export=view&id=1xTI2kd7LoMRln24YiWQorBIrKnPifUEc", #kak dhea
-            "https://drive.google.com/uc?export=view&id=1xTI2kd7LoMRln24YiWQorBIrKnPifUEc", #bang fahrul
+            "https://drive.google.com/uc?export=view&id=1OZMMC5ZHpvGrcYkusKT03Zmz6Aiz9o5U", #bang fahrul
             "https://drive.google.com/uc?export=view&id=1_vJjP3GqUMXVkGWw4aJaT7p8PNtQiwCj", #bang berliana
             "https://drive.google.com/uc?export=view&id=1ISjrxlQzfg37DC98e6ipQSr1bophWHtO", #bang jeremi
         ]
