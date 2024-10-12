@@ -113,8 +113,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan" : "",  
-                "pesan" :""
+                "kesan" : "Sangat inspiratif dan menjadi sosok yang memberikan banyak masukan melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Semangat terus buat kedepannya, semoga proses dalam menyelesaikan kegiatannya dapat berjalan dengan lancar! "
             },
             {
                 "nama"  : "Pandra Insani Putra Azwan",
@@ -124,8 +124,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat inspiratif dan menjadi sosok yang dapat memberikan banyak masukan melalui pengalaman yang telah dilakukan ",  
+                "pesan" : "Semangat dalam menjalani hari-harinya"
             },
             {
                 "nama"  : "Meliza Wulandari",
@@ -135,8 +135,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan selalu memberikan semangat dan inspirasi",  
+                "pesan" : "Semoga dilancarkan semua urusannya dalam dunia perkuliahan"
             },
             {
                 "nama"  : "Putri Maulida Chairani",
@@ -146,8 +146,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi" : "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan selalu memberikan semangat dan inspirasi",  
+                "pesan" : "Semoga kegiatannya di dunia perkuliahan maupun di luar perkuliahan selalu dimudahkan"
             },
             {
                 "nama"  : "Hartiti Fadilah",
@@ -157,8 +157,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi" : "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan selalu memberikan semangat dan inspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya"
             },
             {
                 "nama"  : "Nadilla Andara Putri",
@@ -168,8 +168,8 @@ if menu == "Kesekjenan":
                 "alamat": "KotaBaru",
                 "hobbi" : "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan selalu memberikan semangat dan inspirasi",  
+                "pesan" : "Semangat dalam menjalani tugas, tanggung jawab yang diemban, dan semoga lancar kak"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -198,8 +198,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
                 "nama"  : "Annisa Cahyani Surya",
@@ -209,8 +209,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
                 "nama"  : "Wulan Sabina",
@@ -220,8 +220,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
                 "nama"  : "Annisa Dini Amaliya",
@@ -231,8 +231,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
                 "nama"  : "Anisa Fitriyani",
@@ -242,8 +242,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -253,8 +253,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "",  
-                "pesan" :""
+                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -264,8 +264,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -275,8 +275,8 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -286,8 +286,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -297,8 +297,8 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Sangat baik dan sangat mengasyikkan",  
+                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
