@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan" : "",  
-                "pesan" :""
+                "kesan" : "menginspirasi kami semua untuk terus berkembang dan mendorong kami untuk mencapai yang terbaik",  
+                "pesan" :"Teruslah menjadi pemimpin yang inspiratif dan membawa himpunan kita ke pencapaian yang lebih tinggi."
             },
             {
                 "nama"  : "Pandra Insani Putra Azwan",
@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Seru dan terstruktur membantu saya memahami peran lebih dalam.",  
+                "pesan" : "Terus jaga profesionalisme dan semangat dalam mengelola himpunan. "
             },
             {
                 "nama"  : "Meliza Wulandari",
@@ -137,8 +137,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Penjelasannya terstruktur membuat suasana jadi lebih memahami dengan baik.",  
+                "pesan" : "terus pertahankan profesionalisme dan cara kerja yang terorganisir"
             },
             {
                 "nama"  : "Putri Maulida Chairani",
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi" : "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat teratur dalam menyampaikan penjelasan dan membuat suasana jadi nyaman",  
+                "pesan" : "Terus pertahankan keterampilan komunikasimu yang baik"
             },
             {
                 "nama"  : "Hartiti Fadilah",
@@ -159,8 +159,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi" : "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "menunjukkan pemahaman yang baik tentang peran bendahara dan tanggung jawab keuangan.",  
+                "pesan" : "Teruslah berinovasi dalam mengelola keuangan, karena itu sangat penting untuk keberlangsungan himpunan kita"
             },
             {
                 "nama"  : "Nadilla Andara Putri",
@@ -170,8 +170,8 @@ if menu == "Kesekjenan":
                 "alamat": "KotaBaru",
                 "hobbi" : "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat informatif dan menyenangkan tentang pengelolaan keuangan dan selalu siap membantu tim",  
+                "pesan" : "Terus jaga transparansi dan komunikasi yang baik dalam pengelolaan anggaran"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -200,8 +200,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat menginspirasi dan memberikan wawasan mendalam tentang peran badan legislasi. ",  
+                "pesan" : "teruslah menjadi pemimpin yang visioner dan dorong kami untuk lebih aktif berkontribusi."
             },
             {
                 "nama"  : "Annisa Cahyani Surya",
@@ -211,8 +211,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat informatif. Pendekatannya yang sistematis dan jelas membantu saya memahami tugas dan tanggung jawab dalam badan ini.",  
+                "pesan" : "Teruslah berkomitmen dalam memperjuangkan kepentingan anggota himpunan. "
             },
             {
                 "nama"  : "Wulan Sabina",
@@ -222,8 +222,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat informatifmenunjukkan pemahaman yang baik tentang anggaran dan pentingnya transparansi dalam pengelolaan keuangan.",  
+                "pesan" : " Teruslah bekerja dengan teliti dan terbuka, karena itu akan membawa himpunan ke arah yang lebih baik"
             },
             {
                 "nama"  : "Annisa Dini Amaliya",
@@ -233,8 +233,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat menarik dan membuka wawasan saya tentang proses pengambilan keputusan di himpunan.",  
+                "pesan" : "Teruslah mengedepankan transparansi dan partisipasi dalam setiap kebijakan yang diambil."
             },
             {
                 "nama"  : "Anisa Fitriyani",
@@ -244,8 +244,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat informatif dan mendalam relevan dan membuat saya lebih memahami peran penting komisi ini dalam himpunan.",  
+                "pesan" : " Semoga komisi terus berinovasi dan memberikan kontribusi nyata bagi perkembangan himpunan"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -255,8 +255,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "",  
-                "pesan" :""
+                "kesan" : "sangat informatif mendorong saya untuk berpikir lebih dalam tentang kontribusi yang bisa saya berikan.",  
+                "pesan" :"Semoga bisa bersama-sama membangun himpunan yang lebih baik dan lebih inovatif ke depannya."
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -266,8 +266,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat menarik dan informatif yang membantu saya memahami peran dan tanggung jawab yang ada",  
+                "pesan" : "Semoga Komisi 2 terus menjaga transparansi dan komunikasi yang baik"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -277,8 +277,8 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat informatif dan memberikan perspektif baru tentang proses legislasi",  
+                "pesan" : " Teruslah berinovasi dan menjaga komunikasi yang baik"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -288,8 +288,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat informatif dan menarik yang membuat saya merasa nyaman untuk berbagi ide dan pendapat.",  
+                "pesan" : "teruslah berinovasi dan berkolaborasi dalam menciptakan regulasi yang bermanfaat bagi himpunan."
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -299,8 +299,8 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "sangat informatif dan memberikan perspektif baru tentang peran legislasi dalam himpunan.",  
+                "pesan" : "Teruslah berinovasi dalam merumuskan kebijakan yang bermanfaat bagi anggota himpunan"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
