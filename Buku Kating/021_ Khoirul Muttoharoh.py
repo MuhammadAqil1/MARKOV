@@ -139,7 +139,8 @@ if menu == "Kesekjenan":
                 "sosmed": "@wulandarimeliza",
                 "kesan": "",  
                 "pesan":""
-
+            },
+            {
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -149,7 +150,8 @@ if menu == "Kesekjenan":
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "",  
                 "pesan":""
-
+            },
+            {
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
@@ -159,7 +161,8 @@ if menu == "Kesekjenan":
                 "sosmed": "@hrtfdlh",
                 "kesan": "",  
                 "pesan":""
-
+            },
+            {
                 "nama": "Nadilla Andara Putri",
                 "nim": "121450003",
                 "umur": "21",
