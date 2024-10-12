@@ -97,11 +97,47 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1x-M7M5WQKZv7KvXZxZe_yyAC8oLF212Q",##Kahim
+            "https://drive.google.com/uc?export=view&id=1UwbdQo3OVBIGYhOWbTnfnthruSs7wFu2",##Sekjen
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",##Sekretaris kak meliza
+            "https://drive.google.com/uc?export=view&id=17_6MoWlr0u7809BuxfjB5DVJXtyy3La5",##Sekretaris kak putri 
+            "https://drive.google.com/uc?export=view&id=1Mwj1UGpcod1PO3v1xSDhFcgz4JDGwlht",##Bendahara kak hartiti
+            "https://drive.google.com/uc?export=view&id=1HAKWJBEnemtlX3bRtiBKt3ws7zDcw-4S",##Bendahara kak nadilla
         ]
         data_list = [
+            {
+                "nama": "Kharisma Gumilang",
+                "nim": "121450137",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kandis",
+                "hobbi": "Denger musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Salut banget sih, ada  orang yang bisa ngimbangin akademik dan organisasi",  
+                "pesan":"semangat terus kuliahnya bang kalau semoga sukses selalu !!!"# 1
+            },
+            {
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Kakak C",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
             {
                 "nama": "Kakak E",
                 "nim": "122450000",

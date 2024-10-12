@@ -111,7 +111,7 @@ if menu == "Home":
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id=1XzbVVIqowAq2KO5jnPON04-79KXA92nW"
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=14szud7E5OwQMj4BytYDNXw5HeXiwQHLu"
         layout(foto_kelompok)
         st.markdown(
             """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
