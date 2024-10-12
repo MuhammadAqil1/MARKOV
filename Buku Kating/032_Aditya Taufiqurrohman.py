@@ -17,6 +17,7 @@ def streamlit_menu():
             "Senator",
             "Departemen PSDA",
             "Departemen MIKFES",
+            "Departemen MEDKRAF",
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
