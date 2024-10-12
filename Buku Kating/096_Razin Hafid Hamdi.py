@@ -109,67 +109,67 @@ if menu == "Kesekjenan":
                 "nama": "Kharisma Gumilang",
                 "nim": "121450142",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Kandis",
                 "hobbi": "Denger musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "abang Keren abisss",  
+                "pesan": "Semoga abang tetap menjaga semangat dan antusiasme dalam segala hal yang dilakukan"
             },
             {
                 "nama": "Pandra Insani Putra Azwan",
                 "nim": "121450137",
                 "umur": "21",
-                "asal":"Bukitr Kemuning(Lampung Utara)",
+                "asal":"Bukit Kemuning (Lampung Utara)",
                 "alamat": "Bawen 2",
                 "hobbi": "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "pengalaman yang abang ceritakan sangat menginspirasi",  
+                "pesan": "Selalu dimudahkan segala sesuatu"
             },
             {
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
-                "asal":"Pagar Alam(Sumatera Selatan)",
+                "asal": "Pagar Alam (Sumatera Selatan)",
                 "alamat": "Kota baru",
                 "hobbi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "pengalaman yag kakak ceritakan sangat menginspirasi",  
+                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
-                "asal":"Payakumbuh(Sumatera Selatan)",
+                "asal": "Payakumbuh (Sumatera Barat)",
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Pemda",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan "
             },
             {
                 "nama": "Nadilla Andara Putri",
                 "nim": "121450003",
                 "umur": "21",
-                "asal":"Metro",
+                "asal": "Metro",
                 "alamat": "Kota Baru",
                 "hobbi": "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -178,9 +178,16 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1xRrbHeHAkVuL1TeTvuLpXp3MCqFJqqpq",
+            "https://drive.google.com/uc?export=view&id=1xjPPuhgeGi2EgB21kLVSXnDXXww1e0kC",
+            "https://drive.google.com/uc?export=view&id=1xQ7n4Hw3extNnr3F14UOWiz1v6DlID83",
+            "https://drive.google.com/uc?export=view&id=1xK4PvHBWapVhlkSr41tyjUtzqE6xrcU4",
+            "https://drive.google.com/uc?export=view&id=1xFub_YxLeJVHHso5Ah9ABBqGluBlZJ1y",
+            "https://drive.google.com/uc?export=view&id=1xRHPRnwAwbueZ-l6vnkLf62ICn2S13Lw",
+            "https://drive.google.com/uc?export=view&id=1xf7pRpTaJSevirLT0F6bbAlHfydimuR9",
+            "https://drive.google.com/uc?export=view&id=1xbafHzpWhWYckSosBQ9ZJnSCZKIYrD6U",
+            "https://drive.google.com/uc?export=view&id=1xMCyjRsS5koATh6hfwu_DssScwCK6oGR",
+            "https://drive.google.com/uc?export=view&id=1azGGQxAwR-VcSlkP4_az859r9b_uXkVT",
         ]
         data_list = [
             {
@@ -191,8 +198,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Annisa Cahyani Surya",
@@ -202,8 +209,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Wulan Sabina",
@@ -213,8 +220,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Annisa Dini Amaliya",
@@ -224,8 +231,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Anisa Fitriyani",
@@ -235,8 +242,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -246,8 +253,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "",  
-                "pesan" :""
+                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -257,8 +264,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -268,8 +275,8 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -279,19 +286,19 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
             {
                 "nama"  : "Jeremia Susanto",
                 "nim"   : "122450022",
                 "umur"  : "20",
-                "asal"  : " Bandar Lampung",
+                "asal"  : "Bandar Lampung",
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
+                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
