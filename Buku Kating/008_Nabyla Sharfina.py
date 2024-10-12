@@ -98,11 +98,11 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1BPQhRXxpa-CnuFpI5cloVJWiFyeDK5E4", #bang kharisma
-            "https://drive.google.com/uc?export=view&id=1NzJbPeZS0FecvWicDR6CqLZNIbbEP1Kv", #bang pandra
-            "https://drive.google.com/uc?export=view&id=17ouSsmD4f5ei28WNE1aoaA5rochFa-iB", #kak meliza
-            "https://drive.google.com/uc?export=view&id=1Ipn8Rfsd6EhnFeJg9Ne5O5XAjpyz7Onm", #kak putri
-            "https://drive.google.com/uc?export=view&id=1QoyoUnj0oWc_38bM5CHSYN1pJgOTMq2R", #kak hartiti
-            "https://drive.google.com/uc?export=view&id=1_ayMdwlkVTXz04uOu9U28nL1uYUfvZMh", #kak nadilla
+            "https://drive.google.com/uc?export=view&id=1YT_MPGMhzpA2QqjpRL92xf3Wjtgl39gA", #bang pandra
+            "https://drive.google.com/uc?export=view&id=1CxyB1IrUtH1Z7XTCeAmjWTlkNqbwAXRv", #kak meliza
+            "https://drive.google.com/uc?export=view&id=1kxXgGra4FqZ1ZxisD4gFq2l5pEP68Vma", #kak putri
+            "https://drive.google.com/uc?export=view&id=1HfsZTVQDr7t5Xu2Av68SbZdhBbiXH4jV", #kak hartiti
+            "https://drive.google.com/uc?export=view&id=14bp6YfgEGNGO6_45rcpWwdy-YrdzlvVM", #kak nadilla
         ]
         data_list = [
             {
