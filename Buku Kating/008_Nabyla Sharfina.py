@@ -97,13 +97,16 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1BPQhRXxpa-CnuFpI5cloVJWiFyeDK5E4", #bang kharisma
+            "https://drive.google.com/uc?export=view&id=1YT_MPGMhzpA2QqjpRL92xf3Wjtgl39gA", #bang pandra
+            "https://drive.google.com/uc?export=view&id=1CxyB1IrUtH1Z7XTCeAmjWTlkNqbwAXRv", #kak meliza
+            "https://drive.google.com/uc?export=view&id=1kxXgGra4FqZ1ZxisD4gFq2l5pEP68Vma", #kak putri
+            "https://drive.google.com/uc?export=view&id=1HfsZTVQDr7t5Xu2Av68SbZdhBbiXH4jV", #kak hartiti
+            "https://drive.google.com/uc?export=view&id=14bp6YfgEGNGO6_45rcpWwdy-YrdzlvVM", #kak nadilla
         ]
         data_list = [
             {
-                "nama": "Kakak E",
+                "nama": "Kharisma Gumilang",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -114,7 +117,7 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak B",
+                "nama": "Pandra Insani Putra Azwar",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -125,7 +128,40 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak C",
+                "nama": "Meliza Wulandari",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+             {
+                "nama": "Putri Maulida Chairani",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+             {
+                "nama": "Hartiti Fadilah",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+             {
+                "nama": "Nadilla Andhara Putri",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -142,13 +178,20 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1juF4DIWryeLBRt44cGpRsvbNsVpaZojS", #kak tri
+            "https://drive.google.com/uc?export=view&id=1LRl8KHE2tA0cAkaLsGhAtYUoxIunWuwe", #kak anissa cahyani surya
+            "https://drive.google.com/uc?export=view&id=1uAEV7ih9YUW0IvvwKvMfscvMrIN2xLjY", #kak wulan sabina
+            "https://drive.google.com/uc?export=view&id=1lr8pdc79Wy6MWI9B3ib4LbPb2uZp1Nvw", #kak anisa dini amalia
+            "https://drive.google.com/uc?export=view&id=1SANy73pBawz7WyFGxhknICHdcOmE-ow8", #kak anisa fitriyani
+            "https://drive.google.com/uc?export=view&id=1UgDySMjgkxLZOKR_Up0G0E1Tv3It6gyT", #bang mirzan
+            "https://drive.google.com/uc?export=view&id=1xTI2kd7LoMRln24YiWQorBIrKnPifUEc", #kak dhea
+            "https://drive.google.com/uc?export=view&id=1OZMMC5ZHpvGrcYkusKT03Zmz6Aiz9o5U", #bang fahrul
+            "https://drive.google.com/uc?export=view&id=1_vJjP3GqUMXVkGWw4aJaT7p8PNtQiwCj", #bang berliana
+            "https://drive.google.com/uc?export=view&id=1ISjrxlQzfg37DC98e6ipQSr1bophWHtO", #bang jeremi
         ]
         data_list = [
             {
-                "nama": "Kakak D",
+                "nama": "Tri Murniya Ningsih",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -159,7 +202,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak E",
+                "nama": "Annisa Cahyani Surya",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -170,7 +213,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak D",
+                "nama": "Wulan Sabina",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -179,6 +222,83 @@ elif menu == "Baleg":
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Anisa Dini Amalia",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Berliana Enda Putri",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Jeremia Susanto",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)

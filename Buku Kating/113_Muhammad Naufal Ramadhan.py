@@ -97,13 +97,38 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/file/d/1PTrO8ors28_jtYNbO9Zpt2fse_mnGKme/view?usp=drive_link",#Bang kharisma
+            "https://drive.google.com/file/d/1z03M9vqZjdeii1QIx6Q_-bIEi043bQBd/view?usp=drive_link",#Bang Pandra
+            "https://drive.google.com/file/d/1EB0Dkp1aOFu3WJbyg7mcWq9CQNXFWqRH/view?usp=drive_link",#Kak Meliza
+            "https://drive.google.com/file/d/1NZBdwsk8Pi1dAoBXvs2_QjFg5KdBaiFf/view?usp=drive_link",#Kak PUtri
+            "https://drive.google.com/file/d/1ESOCuUbejJ1JKaj4H4mqpGYHmuT-z3LN/view?usp=drive_link",#Kak Hartiti
+            "https://drive.google.com/file/d/1hN8tBfFsmMoB2tCWvwuNbfiHTKpGpfpg/view?usp=drive_link",#Kak Nadila
         ]
         data_list = [
             {
-                "nama": "Kakak E",
+                "nama": "Kharisma Gumilang",
+                "nim": "121450137",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kandis",
+                "hobbi": "Denger musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Keren",  
+                "pesan":"Semangat bang"# 1
+            },
+            {
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Seru",  
+                "pesan":"semangat bang"# 1
+            },
+            {
+                "nama": "Meliza Wulandari",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -114,7 +139,7 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak B",
+                "nama": "Putri Maulida Chairani",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -125,7 +150,18 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak C",
+                "nama": "Hartiti Fadilah",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
