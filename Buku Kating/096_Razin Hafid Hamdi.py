@@ -1025,7 +1025,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1KsGU2uDIlaXYRaGHffgzT_bpDN-pqwQd", #kak izza dn 
             "https://drive.google.com/uc?export=view&id=1KbarKt6nz5LPM3KB-ipZLMORiBd5XQub", #kak zuhrah dn 
             "https://drive.google.com/uc?export=view&id=1Kqay263YzMPdQfDeRZD129l9up1wWLpL", #bang raid dn 
-            "https://drive.google.com/uc?export=view&id=1slu-o22MSwKg_BP5JDOUdvjbzAyaWNS7", #kak tria 
+            "https://drive.google.com/uc?export=view&id=1KaZpD2i9trKuvrG1FDoJeDALPj4aY-9O", #kak tria dn
         ]
         data_list = [
             {
