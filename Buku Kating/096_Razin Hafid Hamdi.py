@@ -801,15 +801,15 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1Ww7ASpdqAyTlouwF6mAGTf0WbY_7XMcZ", #kak rahma dn
             "https://drive.google.com/uc?export=view&id=1vur5YKOeG_2rvrbvCO62QthTj57WhoM4", #kak try yani dn
             "https://drive.google.com/uc?export=view&id=1nd9HvBU-YheRE2tw5bOWxuA6ZIteCxLw", #bang kaisar dn
-            "https://drive.google.com/uc?export=view&id=1XxRetWr1ZjdcFqSriDJuk43QtXuRVANp", #kak dwi dn
+            "https://drive.google.com/uc?export=view&id=1o_mPAD9C9ZLRkFlMoPNGgipRRo4reihF", #kak dwi dn
             "https://drive.google.com/uc?export=view&id=1o2ccX2CxyEJXDLXgcbmnz0OnbagzAlHD", #bang gym dn
-            "https://drive.google.com/uc?export=view&id=1B13zqETppi_ZwEHiyZ8naXmBh7xI1C09", #kak nasywa 
+            "https://drive.google.com/uc?export=view&id=1oFDlt28u4JyTRJOJAGR0fP3ciWDzHv2P", #kak nasywa dn
             "https://drive.google.com/uc?export=view&id=1oQO9hr1jt2awHetHyiBvlSUJBT5gYZb0", #kak priska dn
             "https://drive.google.com/uc?export=view&id=1nVhnCUcwfTUV4Ka4gVIVM--k6yGhUhOO", #bang arsal dn
             "https://drive.google.com/uc?export=view&id=1oKdzl2ZrxqBy8bwN6DQccS_jkSStTorQ", #bang abit dn
             "https://drive.google.com/uc?export=view&id=1n62r1WS79pdWmrjWkibt4Bok2UwQ0qLX", #bang akmal dn
             "https://drive.google.com/uc?export=view&id=1nzSqWj5o1eGb2fNuqT07o2EZbXO7J3rh", #bang hermawan dn
-            "https://drive.google.com/uc?export=view&id=1fq239NPmX37uzdRH_2hRVWC98bQ50eLe", #kak nisa 
+            "https://drive.google.com/uc?export=view&id=1XxRetWr1ZjdcFqSriDJuk43QtXuRVANp", #kak nisa dn
         ]
         data_list = [
             {
@@ -1422,15 +1422,15 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1gwODKlGn-bWqQ-AfR45fb27S4CHcPnNM", #bang andrian dn
-            "https://drive.google.com/uc?export=view&id=1MirF2tx9NssFV1UFa2tNQ2gG9mw4WUOn", #kak adisty dn
-            "https://drive.google.com/uc?export=view&id=1CMKEgT0NBXWQdVAeaaQFYCYhc73JcbcX", #kak nabilla dn
-            "https://drive.google.com/uc?export=view&id=1IIr-42u5BtuTtt-8JH4IR7ZxQk1zQwPr", #bang danang dn
+            "https://drive.google.com/uc?export=view&id=1pc74lNi5aNSRmPrhiIjLvmeJixfXgC2R", #bang andrian dn
+            "https://drive.google.com/uc?export=view&id=1pCNAryY9N4_Mf0HeeHyS5XARkmDmOo3P", #kak adisty dn
+            "https://drive.google.com/uc?export=view&id=1pHkwF3p5Gp-ItWl4sfg9vuJa2RjfIYA-", #kak nabilla dn
+            "https://drive.google.com/uc?export=view&id=1pP9LFPBQjIQYAO_gu6gALEaNeNkWec06", #bang danang dn
             "https://drive.google.com/uc?export=view&id=1OJWzKE6lG69lKci3LV7JmBodagbw-bAN", #bang farrel dn
-            "https://drive.google.com/uc?export=view&id=1GEDlwY32JX7DCOpbeH8y8w59nt9X2Lbw", #kak nabilah dn
-            "https://drive.google.com/uc?export=view&id=19qXG0V2VIiOpsjaD7i-B9bX5uYvWLu6Y", #kak alvia dn
-            "https://drive.google.com/uc?export=view&id=1VOs5vQAQmZcmWSwTcNzU4FN5qKLPyFRl", #bang dhafin dn
-            "https://drive.google.com/uc?export=view&id=1pmG_A7PQkp8wNFQes-5_FplfMVlGBa8X", #kak elia dn
+            "https://drive.google.com/uc?export=view&id=1pRp03Cgz2DItjwdTvcAtwi_qXbpk1yN-", #kak nabilah dn
+            "https://drive.google.com/uc?export=view&id=1pB2jnFMVEZFpfEYKmHZP8xbFAiKheypn", #kak alvia dn
+            "https://drive.google.com/uc?export=view&id=1p7vC7lbPxmFVaPAElQv42zBAXNixGI0E", #bang dhafin dn
+            "https://drive.google.com/uc?export=view&id=1oxOoFFY0_whch5PiLJcjthjrVLiir6wg", #kak elia dn
 
 
         ]
