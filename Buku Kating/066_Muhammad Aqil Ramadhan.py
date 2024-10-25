@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen Medkraf",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -304,4 +306,234 @@ elif menu == "Baleg":
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
+elif menu == "Senator":
+    def senator():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
+            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+        ]
+        data_list = [
+            {
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
+
+elif menu == "Departemen PSDA":
+    def psda():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
+            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+        ]
+        data_list = [
+            {
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    psda()
+
+elif menu == "Departemen MIKFES":
+    def mikfes():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
+            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+        ]
+        data_list = [
+            {
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    mikfes()
+
+elif menu == "Departemen Eksternal":
+    def eksternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
+            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+        ]
+        data_list = [
+            {
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    eksternal()
+
+elif menu == "Departemen Internal":
+    def internal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
+            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+        ]
+        data_list = [
+            {
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    internal()
+
+elif menu == "Departemen SSD":
+    def ssd():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
+            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+        ]
+        data_list = [
+            {
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    ssd()
+
+elif menu == "Departemen MEDKRAF":
+    def medkraf():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
+            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+        ]
+        data_list = [
+            {
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    medkraf()
 # Tambahkan menu lainnya sesuai kebutuhan
