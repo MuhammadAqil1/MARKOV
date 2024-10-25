@@ -1,21 +1,28 @@
 import streamlit as st
 import time
 
-# Menentukan teks yang akan ditampilkan sebagai running text
-text = "MARKOVV KERENNNN "
-speed = 0.2  # Kecepatan perpindahan teks dalam detik
+# Judul aplikasi
+st.title("Animasi Tulisan 'MARKOV' Bergerak")
 
-# Menampilkan judul di aplikasi Streamlit
-st.title("Running Text")
+# Menetapkan variabel untuk posisi teks
+position = 0
+direction = 1  # 1 untuk ke kanan, -1 untuk ke kiri
+speed = 0.1  # Mengatur kecepatan pergerakan teks
 
-# Loop untuk menggerakkan teks
+# Membuat placeholder untuk menampilkan teks
+text_placeholder = st.empty()
+
+# Loop animasi untuk menggerakkan teks
 while True:
-    for i in range(len(text)):
-        # Menampilkan teks yang diatur menjadi running text
-        st.write(text[i:] + text[:i])
-        
-        # Delay untuk membuat efek pergerakan
-        time.sleep(speed)
-        
-        # Mengosongkan tampilan agar teks bergerak
-        st.empty()
+    # Memperbarui posisi teks
+    position += direction
+
+    # Cek batas kanan dan kiri
+    if position >= 50 or position <= 0:
+        direction *= -1  # Ubah arah gerak
+
+    # Menampilkan teks dengan posisi yang diperbarui
+    text_placeholder.markdown(f"<h1 style='text-align: center; margin-left: {position}px;'>MARKOV</h1>", unsafe_allow_html=True)
+
+    # Menunggu beberapa saat sebelum mengupdate posisi lagi
+    time.sleep(speed)
