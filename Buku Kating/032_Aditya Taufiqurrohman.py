@@ -311,8 +311,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=1Ej4ehUAodDUbxec9wBKHIJHhRL6YNlun",#lutfi
+            "https://drive.google.com/uc?export=view&id=1EuTVdC5HAoIZlDR3Z-W69OkW2r8X5bwE",#bintang
         ]
         data_list = [
              {
@@ -344,8 +344,28 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=17kdJhs0bLcFO_zKcGFpN6FgmVbV9eDHP",#lutfi
+            "https://drive.google.com/uc?export=view&id=1967V3pVY_CKGvSSmViASFj8yPb8Izc8X",#bintang
+            "https://drive.google.com/uc?export=view&id=1CQ5cjlw9g1eNSSMs23NNs9zLd5RFoLJ_",#lutfi
+            "https://drive.google.com/uc?export=view&id=1n6OWLz-g3wEvghPQf2r1pBuhHiupyY5G",#bintang
+            "https://drive.google.com/uc?export=view&id=1NJRfoOnS6x9kNKZfqwCCfhpIjQ3mPCB4",#lutfi
+            "https://drive.google.com/uc?export=view&id=1NwVkGd0dFKaqzTC5vlngiUv_fm7R_0Ij",#bintang
+            "https://drive.google.com/uc?export=view&id=1SLrvPgh32VTDfTGv0a1ep2L02GHO6eaC",#lutfi
+            "https://drive.google.com/uc?export=view&id=1r2-hd00ieM7cGXHySr_T_kNESjZM4U_n",#bintang
+            "https://drive.google.com/uc?export=view&id=1HXWMoecrvbGw0WryTTyjIQdo8w73UNh4",#lutfi
+            "https://drive.google.com/uc?export=view&id=1LT_au-QkY57A0P7uIl1UGSJ6b9SlEiHv",#bintang
+            "https://drive.google.com/uc?export=view&id=1pgx6-nQlptKFh1O0w_H8iQ7JQDwPXUs8",#lutfi
+            "https://drive.google.com/uc?export=view&id=1fAyy_u6yUqODRmxn_0EuU7m8tNFJOnBv",#bintang
+            "https://drive.google.com/uc?export=view&id=156kL0yOCQPfkQGvB_Kke8kawKPlrRQhd",#lutfi
+            "https://drive.google.com/uc?export=view&id=17GbtBSmX5P0EnYlM_RwSx3j-neKjlw1O",#bintang
+            "https://drive.google.com/uc?export=view&id=1B825apMA1gz9aXSh_sE-qFnVJlCKcPvm",#lutfi
+            "https://drive.google.com/uc?export=view&id=1kSRzYHLsHRCBgGMX8HcZeDoYzc_l6OV6",#bintang
+            "https://drive.google.com/uc?export=view&id=1ocBcV5S_aMWSBTR7zgNeRptxlo0Qvrda",#lutfi
+            "https://drive.google.com/uc?export=view&id=1RLfU3bFmPfi2TY-x4_MDDXlk3cUrMRRw",#bintang
+            "https://drive.google.com/uc?export=view&id=1Tr6tLF-_KnpdXMXotf4hCDpalzmfIieP",#lutfi
+            "https://drive.google.com/uc?export=view&id=1sfVTvq-BX1m5VwbhNc55v6Jsk3a-GB5P",#bintang
+            "https://drive.google.com/uc?export=view&id=18Hu6kNnQLzXqiyDl0yugP_Lg1TYdhstp",#lutfi
+            "https://drive.google.com/uc?export=view&id=1KqqoiTxo5swvfqIYuKEPc_Go8p-Dt1FB",#bintang
         ]
         data_list = [
             {
