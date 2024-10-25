@@ -615,19 +615,19 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1qTlCByOTepmYAmHMNqSTOiiNzInqlgZG", #bang rafi dn
-            "https://drive.google.com/uc?export=view&id=1YybaYByUKEuuUL_oYi4AUrDb3UgzXwRt", #kak anisa dn
-            "https://drive.google.com/uc?export=view&id=1fgEAzLWz2mySdrV73UxJP7JLRgogS-Um", #bang ahmad dn
-            "https://drive.google.com/uc?export=view&id=1TUSHT9s2WGO50TIBbfHAJzenaFyo5w8N", #bang fadhil dn
-            "https://drive.google.com/uc?export=view&id=1ZTHuRKoMclZ3oHGd9Jm1mzWPIPnnQfME", #kak dina dn
-            "https://drive.google.com/uc?export=view&id=1Wnqx5QeUR2XaCIxnYZi36fbBp81__GNm", #kak dinda dn
-            "https://drive.google.com/uc?export=view&id=16JS_tzUVR4mOdPsPPhO09WCuppomxex5", #kak marleta dn
-            "https://drive.google.com/uc?export=view&id=1zqlMDd3VWPHESPFwO_Xwhv7n9V6dxtl5", #kak rut junita dn
-            "https://drive.google.com/uc?export=view&id=1GK9egTOkasL0t5yz6jDBPY4tFq9SgKSU", #kak syadza dn
-            "https://drive.google.com/uc?export=view&id=1AF1AE_DpTLkT992P8_S4_ycXikNO_zUy", #bang eggi dn
-            "https://drive.google.com/uc?export=view&id=1Rb2r7WJRdXMV5jhgNsZukQlrDr7EiXhR", #kak febiya dn
-            "https://drive.google.com/uc?export=view&id=1W7paDYSuMDswqUl2Fk0CY0yxYW4nc64S", #kak happy syahrul dn
-            "https://drive.google.com/uc?export=view&id=1gIWl2NPjh-QMHNNKYBRFb36y1U431kG5", #bang randa dn
+            "https://drive.google.com/uc?export=view&id=1MF5ZMgVLcSbrNWMlLyPfi3ug2JRWvmBj", #bang rafi dn1
+            "https://drive.google.com/uc?export=view&id=1MVtJ_jhRqL5tXcPqK3EpavbQiRjzgNft", #kak anisa dn1
+            "https://drive.google.com/uc?export=view&id=1EqiZPIr9vqhl1qMh0v75OLLxFiZPxPZk", #bang ahmad dn1
+            "https://drive.google.com/uc?export=view&id=12H9xuWYW-Vb3VN9pPVlrUE_JHBzp11Is", #bang fadhil 1
+            "https://drive.google.com/uc?export=view&id=1r2uzj8zvD-21nS40Mb2uGjv-2vpSNRIq", #kak dina dn1
+            "https://drive.google.com/uc?export=view&id=1eiREMtdmOHorGvwWDRFM4oQvrZm9fIJU", #kak dinda dn1
+            "https://drive.google.com/uc?export=view&id=1p6a1U1yypun_NECjgRHMdW1lOdNe7N2O", #kak marleta dn1
+            "https://drive.google.com/uc?export=view&id=17u3fjdcv3fnqkJEgc01UGGu56AYa6ZM3", #kak rut junita dn1
+            "https://drive.google.com/uc?export=view&id=1sIg1fgG8BnsrNEOd-31o9xUmez_aLNgq", #kak syadza dn1
+            "https://drive.google.com/uc?export=view&id=15QWpw3XXSDNfk11oxKF946snWmfFEWpj", #bang eggi dn1
+            "https://drive.google.com/uc?export=view&id=19YP52Rie8WORQXYv5DNrieNqt9XIPzpr", #kak febiya dn1
+            "https://drive.google.com/uc?export=view&id=1cOj0q6n23FZKSZlB5s50eDroflLGrIqO", #kak happy syahrul dn1
+            "https://drive.google.com/uc?export=view&id=1WN3aocjwXZqfLtihhHaaeSfH2D1tSfCY", #bang randa dn1
 
         ]
         data_list = [
