@@ -344,21 +344,21 @@ elif menu == "Departemen PSDA":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17knRcfMgnccG5WAY0JQnzKAo23V8z1GS", #bang erickson dn
             "https://drive.google.com/uc?export=view&id=1kN9Y4E2Hk0Jx0La-Pylgv7r23SAAZcv0", #kak abeth dn
-            "https://drive.google.com/uc?export=view&id=1JbjqcU2E91CsuIbEvvRI6BLDiTJxfYMS", #kak afifah dn
-            "https://drive.google.com/uc?export=view&id=12HdNUkcFXGT3CAONJlf-4AqZqbDSKNqx", #kak allya dn
-            "https://drive.google.com/uc?export=view&id=1MVLT1sbvYVtiAlTqWB6aqgMcSI2AcDhS", #kak hanum dn
-            "https://drive.google.com/uc?export=view&id=1J6CVKp0CYL5I8p6K9TEgsypI1ztX12bk", #bang ferdy dn
-            "https://drive.google.com/uc?export=view&id=1qx5KlepNw953QeN9kF_9lWOc3DEGbFsW", #bang deri dn
-            "https://drive.google.com/uc?export=view&id=1LvAOHqsbNJAptJzHUNJsfktamM5B9HSU", #kak oktavia dn
-            "https://drive.google.com/uc?export=view&id=18BpvVqXnB3h8RSPN2Vh3QvRfbp4nPoaw", #bang deyvan dn
-            "https://drive.google.com/uc?export=view&id=1XLcy62n3HK9frz97BQCJf34hQZtblx0f", #bang ibnu dn
-            "https://drive.google.com/uc?export=view&id=1b4XGem3phWmN0gsSME4_hSKPPNkZyjry", #bang jo dn
-            "https://drive.google.com/uc?export=view&id=1PK3QE7FBMwJs1VgrIDPrA5LLypXGMWRm", #bang kemas dn
-            "https://drive.google.com/uc?export=view&id=1bcMsgifyFq8WSFzUkRZ3VZ2HBD-KO_zt", #bang leonard dn
-            "https://drive.google.com/uc?export=view&id=1vYFGbQj_W0rj4eO4X6dllnkkQzkIxmN4", #kak presilia dn
-            "https://drive.google.com/uc?export=view&id=1wj6rscJxqPlzNaRXmMSqUIHU9dUvTWut", #kak rafa dn
-            "https://drive.google.com/uc?export=view&id=1kaBHVdIVeLj_ACDyyfsRa-ubzx5sQQqh", #bang sahid dn
-            "https://drive.google.com/uc?export=view&id=1milred8s9zpeSu3hVZWcGxdKbU3CoiGv", #kak vanes dn
+            "https://drive.google.com/uc?export=view&id=1-96TJaz4Joe1RoD54b-PQ1Y7QERpCHSI", #kak afifah dn
+            "https://drive.google.com/uc?export=view&id=1UVBzCijvrYUYZRGy-Z-imOr9LGGdVYWI", #kak allya dn
+            "https://drive.google.com/uc?export=view&id=1ndhByE0NevjpyAHjpfY-LJoR0rvO1h9Z", #kak hanum dn
+            "https://drive.google.com/uc?export=view&id=1GKSGCPF1-e2zT0nEOKjJO_T6-kriHnJt", #bang ferdy dn
+            "https://drive.google.com/uc?export=view&id=1UVBzCijvrYUYZRGy-Z-imOr9LGGdVYWI", #bang deri dn
+            "https://drive.google.com/uc?export=view&id=1VfbiWTKvSXPEx1-z9GRw8BlXTwY3YZv7", #kak oktavia dn
+            "https://drive.google.com/uc?export=view&id=1pPcrp1sXTsZ3Aw0e939CszslDi95VmW_", #bang deyvan dn
+            "https://drive.google.com/uc?export=view&id=1sjMUIiKbAy44sIG-Z-RJh0SpYZCLcMhe", #bang ibnu dn
+            "https://drive.google.com/uc?export=view&id=1tjaS90B1NKR8aVNElSOJiWX_DX6wj0BG", #bang jo dn
+            "https://drive.google.com/uc?export=view&id=1DjpYmpgCv2XJFEZ26m4Oontk5pjcahI8", #bang kemas dn
+            "https://drive.google.com/uc?export=view&id=1ghTkV5tZAk5igWLUHtVkoSVePPx-L242", #bang leonard dn
+            "https://drive.google.com/uc?export=view&id=1EDmWXCguBcBzniwdK2c4cf_RWIm7iyC7", #kak presilia dn
+            "https://drive.google.com/uc?export=view&id=18T8gVZHdynnMr1-8OPLiOvRTW0GFCsBW", #kak rafa dn
+            "https://drive.google.com/uc?export=view&id=-IwArtyy6kgBzzdUfv2En1V4fnNb7xo46", #bang sahid dn
+            "https://drive.google.com/uc?export=view&id=182FSXmYwyvqNsDlmpeXdofqahkWtyCWu", #kak vanes dn
             "https://drive.google.com/uc?export=view&id=1O7WYXuWmmRMOOgYtjouVWyako4UbPDT4", #bang ateng dn
             "https://drive.google.com/uc?export=view&id=1Cuye_195FP63_XdmxNjcKUNm4mv-ZL_Z", #bang gede dn
             "https://drive.google.com/uc?export=view&id=117BVRl9KSVNgTrlxA_frkDEFLpwsNQp6", #kak jaclin dn
@@ -789,8 +789,8 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1Z-7-eYoVSdfknByQE8lhC5vt8MPoWmOd", #kak rahma dn
             "https://drive.google.com/uc?export=view&id=1lq1O8GMpQ0ugluy8yhiB3ZChuBrHWC8B", #kak try yani dn
             "https://drive.google.com/uc?export=view&id=1E9hNxa0KFUyRa-2_tP2TKlpl_yBzPRJn", #bang kaisar dn
-            "https://drive.google.com/uc?export=view&id=1SYm0crhDrAvQ66Ucz9J3UIRnZfgw_g7x", #kak dwi dn
-            "https://drive.google.com/uc?export=view&id=1YlwJFXiaeBtaNXjt0-RgnxJJuz3ah6t7", #bang gym dn
+            "https://drive.google.com/uc?export=view&id=1_1aGgJrGmb8R6eBFWqhRXUdoMctDLFSA", #kak dwi dn
+            "https://drive.google.com/uc?export=view&id=1rHz-JXKjg1l_8zUHaJXUcgudVl2Nfeuk", #bang gym dn
             "https://drive.google.com/uc?export=view&id=1B13zqETppi_ZwEHiyZ8naXmBh7xI1C09", #kak nasywa dn
             "https://drive.google.com/uc?export=view&id=1nA5rAUgwnpytmU538qbJa2miI66Q0302", #kak priska dn
             "https://drive.google.com/uc?export=view&id=14gAVE2X0A4uyurfLSWzAqqKo-wKUik2v", #bang arsal dn
