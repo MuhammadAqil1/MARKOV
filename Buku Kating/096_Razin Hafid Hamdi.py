@@ -1034,7 +1034,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Tangerang",
                 "alamat": "Jatimulyo",
-                "hobi": "Bangun pagi",
+                "hobbi": "Bangun pagi",
                 "sosmed": "@yogyyyyyy",
                 "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
@@ -1045,7 +1045,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobi": "Jalan - Jalan",
+                "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
@@ -1056,7 +1056,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way kandis",
-                "hobi": "belajar",
+                "hobbi": "belajar",
                 "sosmed": "@nazwanbilla",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
@@ -1067,7 +1067,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Batam, Kep. Riau",
                 "alamat": "Belwis",
-                "hobi": "main game",
+                "hobbi": "main game",
                 "sosmed": "@bastiansilaban_",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
@@ -1078,7 +1078,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Sumatera Barat",
                 "alamat": "Korpri",
-                "hobi": "dengerin musik",
+                "hobbi": "dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
@@ -1089,7 +1089,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwis",
-                "hobi": "Main golf bareng kadiv",
+                "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
@@ -1100,7 +1100,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "jadi humas",
+                "hobbi": "jadi humas",
                 "sosmed": "@nateee__15",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
@@ -1111,7 +1111,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Jakarta Timur",
                 "alamat": "Belwis",
-                "hobi": "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
@@ -1122,7 +1122,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way Kandis",
-                "hobi": "Main sepak takraw",
+                "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
@@ -1133,7 +1133,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Sumatera Utara",
                 "alamat": "Pemda",
-                "hobi": "Jogging",
+                "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
                 "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
@@ -1144,7 +1144,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "Main Bowling",
+                "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
@@ -1155,7 +1155,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "Bikin portofolio",
+                "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
@@ -1166,7 +1166,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandung",
                 "alamat": "Way Huwi",
-                "hobi": "Bertani",
+                "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
                 "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
@@ -1177,7 +1177,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Muara Enim",
                 "alamat": "Korpri",
-                "hobi": "Tepuk Semangat",
+                "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
@@ -1188,7 +1188,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobi": "Q Time",
+                "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
@@ -1199,7 +1199,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Sumatera Barat",
                 "alamat": "Sukarame",
-                "hobi": "Nonton youtube, main game",
+                "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
                 "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
@@ -1210,7 +1210,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Teluk Betung",
-                "hobi": "Main Rubik",
+                "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
@@ -1221,7 +1221,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobi": "Mengaji",
+                "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
@@ -1232,7 +1232,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobi": "telat",
+                "hobbi": "telat",
                 "sosmed": "@rayths_",
                 "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
@@ -1243,7 +1243,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Way Kanan",
                 "alamat": "Sukarame",
-                "hobi": "Baca Buku",
+                "hobbi": "Baca Buku",
                 "sosmed": "@tria_y062",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
