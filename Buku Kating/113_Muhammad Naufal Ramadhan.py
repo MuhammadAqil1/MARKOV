@@ -997,12 +997,12 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1sWOBFSt1-F1zoryil5Fx3MVQ4ISFFQbJ", #bang yogy dn
             "https://drive.google.com/uc?export=view&id=1oOIMQ0G-VwkwZ__1bC9Xeo2DH5uh3EMH", #kak ramadhita dn
-            "https://drive.google.com/uc?export=view&id=1aKHj8SOTuifQKCh0Cfc07i6U7mpLCtRN", #kak nazwa dn
+            "https://drive.google.com/uc?export=view&id=1Nyz-GQvzqXEK7dTe5UWIpI5WZPh48bl6", #kak nazwa dn1
             "https://drive.google.com/uc?export=view&id=1yo8Y_EeHC8G9r-FeV55-9960M8VY7vVA", #bang bastian dn
             "https://drive.google.com/uc?export=view&id=1IRloQPTpKQ0zqdYOH0RrXFgxeQ7MlkU8", #kak dea dn
-            "https://drive.google.com/uc?export=view&id=1wd9pPTXFBx7EFKeEWuQ_LICOp1waDYpe", #kak esteria dn
+            "https://drive.google.com/uc?export=view&id=1O0TZkX-i992YhjytYTijrywfPdbSrPlb", #kak esteria dn1
             "https://drive.google.com/uc?export=view&id=19PFCwdrENV4r_lKjj1gbg7uN6SQVLv0v", #kak natasya ega dn
-            "https://drive.google.com/uc?export=view&id=1tcJ9ylebQVAtHJfka1aoYdmf91hRs5Mj", #kak novelia dn
+            "https://drive.google.com/uc?export=view&id=1NmThtVbH0oCzKqh4TubWXUQIZQ9g5594", #kak novelia dn1
             "https://drive.google.com/uc?export=view&id=15hDSaPPfJpbErrvlASkZLaKI-D8MpUHR", #kak jasmine dn
             "https://drive.google.com/uc?export=view&id=1RiVFJJA5Rp-BK9pQW57qzpvgnJxm8PCz", #bang tobias dn
             "https://drive.google.com/uc?export=view&id=1QSt1-YwV664MAtOfVkvYBsEXDJ1JGGr-", #kak yohana dn
