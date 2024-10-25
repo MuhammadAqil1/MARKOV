@@ -31,6 +31,7 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
             "people-fill",
+            "people-fill",
         ],
         default_index=0,
         orientation="horizontal",
@@ -116,8 +117,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan" : "",  
-                "pesan" :""
+                "kesan" : "Asik dan berkarisma",  
+                "pesan" :"semangat terus bang"
             },
             {
                 "nama"  : "Pandra Insani Putra Azwan",
@@ -127,8 +128,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "asik sama kayak bang gumilang",  
+                "pesan" : "semngat terus bang"
             },
             {
                 "nama"  : "Meliza Wulandari",
@@ -138,8 +139,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik",  
+                "pesan" : "semangat kak"
             },
             {
                 "nama"  : "Putri Maulida Chairani",
@@ -149,8 +150,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi" : "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik",  
+                "pesan" : "semangat kak"
             },
             {
                 "nama"  : "Hartiti Fadilah",
@@ -160,8 +161,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi" : "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik",  
+                "pesan" : "semangat kak"
             },
             {
                 "nama"  : "Nadilla Andara Putri",
@@ -171,8 +172,8 @@ if menu == "Kesekjenan":
                 "alamat": "KotaBaru",
                 "hobbi" : "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "semagat",  
+                "pesan" : "baik"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -201,8 +202,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Annisa Cahyani Surya",
@@ -212,8 +213,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Wulan Sabina",
@@ -223,8 +224,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Annisa Dini Amaliya",
@@ -234,8 +235,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Anisa Fitriyani",
@@ -245,8 +246,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -256,8 +257,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "",  
-                "pesan" :""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -267,8 +268,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -278,8 +279,8 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -289,8 +290,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -300,8 +301,8 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
