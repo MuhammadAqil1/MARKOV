@@ -1411,15 +1411,15 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1gwODKlGn-bWqQ-AfR45fb27S4CHcPnNM", #bang andrian dn
-            "https://drive.google.com/uc?export=view&id=1MirF2tx9NssFV1UFa2tNQ2gG9mw4WUOn", #kak adisty dn
-            "https://drive.google.com/uc?export=view&id=1CMKEgT0NBXWQdVAeaaQFYCYhc73JcbcX", #kak nabilla dn
-            "https://drive.google.com/uc?export=view&id=1IIr-42u5BtuTtt-8JH4IR7ZxQk1zQwPr", #bang danang dn
-            "https://drive.google.com/uc?export=view&id=1OJWzKE6lG69lKci3LV7JmBodagbw-bAN", #bang farrel dn
-            "https://drive.google.com/uc?export=view&id=1GEDlwY32JX7DCOpbeH8y8w59nt9X2Lbw", #kak nabilah dn
-            "https://drive.google.com/uc?export=view&id=19qXG0V2VIiOpsjaD7i-B9bX5uYvWLu6Y", #kak alvia dn
-            "https://drive.google.com/uc?export=view&id=1VOs5vQAQmZcmWSwTcNzU4FN5qKLPyFRl", #bang dhafin dn
-            "https://drive.google.com/uc?export=view&id=1pmG_A7PQkp8wNFQes-5_FplfMVlGBa8X", #kak elia dn
+            "https://drive.google.com/uc?export=view&id=1LtywQ9qgVgmaD6OPCJYrGL89QR1nXtVO", #bang andrian dn1
+            "https://drive.google.com/uc?export=view&id=1LAv7XVfdw3TwR626deCiJSXSbLpemRCk", #kak adisty dn1
+            "https://drive.google.com/uc?export=view&id=1LHTZeil281-_PxDlxUPo4vDfQDBmGhIC", #kak nabilla dn1
+            "https://drive.google.com/uc?export=view&id=1LmyuAx683K7_HAtSdntdFRwuM_pzJMcI", #bang danang dn1
+            "https://drive.google.com/uc?export=view&id=1KhDjfsBJSV-rHq7lOlfFwVMWAOa5_We4", #bang farrel dn1
+            "https://drive.google.com/uc?export=view&id=1LfJ2rX0AGjmPmuRrSfGO9pt0bRzUj_3R", #kak nabilah dn1
+            "https://drive.google.com/uc?export=view&id=1L0uo639Do7Z66AwJQ1RwxuSl6e_z3i42", #kak alvia dn1
+            "https://drive.google.com/uc?export=view&id=1Ks9I3-O771sW1GK3eX_A9KIOR1Xx_5wb", #bang dhafin dn1
+            "https://drive.google.com/uc?export=view&id=1KqdRaY4iUrG2fmBedSCtJ-qxMtXbJqxw", #kak elia dn1
 
 
         ]
