@@ -98,43 +98,81 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ZlQjABG1Xr8MLxG-lEa3lJUC5R0Fjp9S", #Bang Kharisma
+            "https://drive.google.com/uc?export=view&id=1fHsCUH0lw_4B7dCl9BvDGWCGfq1vylHq", #Bang Pandra
+            "https://drive.google.com/uc?export=view&id=1GWVkqfKujDPW4wrzhmQg8w8e9uslCGic", #Kak Meliza
+            "https://drive.google.com/uc?export=view&id=1ye2Fu7cxo7NPDKLpKFEXXWZ2xMRlZKxA", #Kak putri
+            "https://drive.google.com/uc?export=view&id=1BDU2eFVWzUQWtBgQSN5xxAv7rP_uwerS", #Kak Hartiti
+            "https://drive.google.com/uc?export=view&id=1C_CykRvfMhaB28Nje_IJhMCCcQ-6Or_l", #Kak Nadila
+
+
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Kharisma Gumilang",
+                "nim"   : "121450142",
+                "umur"  : "21",
+                "asal"  :"Palembang",
+                "alamat": "Kandis",
+                "hobbi" : "Mendengerkan musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan" : "Memiliki pembawaan yang beriwibawa dan menujukkan semangat kepemimpinan yang tinggi sangat menginspirasi kami. Pembawaan yang tenang namun tegas membuat kami merasa termotivasi untuk terus berkembang",  
+                "pesan" : "Semoga tetap menjadi teladan yang menginspirasi, mendorong kami untuk terus maju dan berkontribusi lebih baik dalam himpunan. Teruslah memimpin dengan semangat membawa himpunan kita menuju kesuksesan yang lebih besar dan semoga himpunan semakin berkembang dan sukses dalam menjalankan peran"
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Pandra Insani Putra Azwan",
+                "nim"   : "121450137",
+                "umur"  : "21",
+                "asal"  : "Bukit Kemuning, Lampung Utara",
+                "alamat": "Bawen 2",
+                "hobbi" : "Bermain gitar dan menyanyi",
+                "sosmed": "@pandrainsni27",
+                "kesan" : "Seru dan memiliki kepribadian yang humoris, sehingga percakapan menjadi lebih menyenangkan. Mampu mengarahkan pembicaraan dengan jelas dan efektif. Cara komunikasinya santai namun fokus nmemberikan wawasan yang bermakna",  
+                "pesan" : "Semoga tetap membawa semangat positif dan profesionalisme dalam setiap langkah, semoga terus sukses dalam menjalankan peran"
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Meliza Wulandari",
+                "nim"   : "121450065",
+                "umur"  : "20",
+                "asal"  : "Pagar Alam, Sumatera Selatan",
+                "alamat": "Kotabaru",
+                "hobbi" : "Nonton drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan" : "Menjelaskan setiap informasi yang disampaikan mudah dipahami, terasa terorganisir dan jelas, membuat suasana menjadi lebih tenang dan kondusif untuk memahami berbagai aspek penting, memberikan pemahaman yang mendalam tentang organisasi dan tugas-tugas di dalamnya",  
+                "pesan" : "Tetaplah menjadi sosok yang terorganisir dan terus ciptakan suasana yang membuat orang lain merasa nyaman dalam belajar dan berkembang, semoga sukses selalu dalam menjalankan peran"
+            },
+            {
+                "nama"  : "Putri Maulida Chairani",
+                "nim"   : "121450050",
+                "umur"  : "21",
+                "asal"  : "Payakumbuh, Sumatera Barat",
+                "alamat": "Nangka 4",
+                "hobbi" : "Dengerin bang pandra gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan" : "Dalam menyampaikan penjelasan, membuat setiap informasi yang diberikan menjadi mudah dimengerti. Dengan cara penyampaiannya yang jelas dan runtut, setiap penjelasan yang disampaikan mendukung diskusi yang lebih produktif",  
+                "pesan" : "Semoga terus mempertahankan keteraturan dalam menyampaikan setiap hal apapun dan sukses selalu dalam menjalankan peran"
+            },
+            {
+                "nama"  : "Hartiti Fadilah",
+                "nim"   : "121450031",
+                "umur"  : "21",
+                "asal"  : "Palembang",
+                "alamat": "Pemda",
+                "hobbi" : "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan" : "Memberikan pemahaman yang jelas dan baik tentang peran dan tanggung jawabnya dalam mengelola keuangan. Menyampaikan informasi secara sistematis dan jelas, yang memudahkan untuk memahami setiap aspek terkait",  
+                "pesan" : "Semoga terus mengembangkan kemampuan dalam mengelola tanggung jawab keuangan, tetap semangat dalam menjalankan peran sebagai bendahara"
+            },
+            {
+                "nama"  : "Nadilla Andara Putri",
+                "nim"   : "121450003",
+                "umur"  : "21",
+                "asal"  : "Metro",
+                "alamat": "KotaBaru",
+                "hobbi" : "Membaca",
+                "sosmed": "@ndillaandr26",
+                "kesan" : "Memiliki kemampuan yang baik dalam menjelaskan pengelolaan keuangan dengan cara yang menyenangkan dan mampu menyampaikan informasi dengan jelas, sehingga mudah memahami setiqp detail dan memiliki cara yang mudah dipahami dalam menyampaikannya",  
+                "pesan" : "Terus semangat dan sukses selalu dalam menjalankan tugas dan peran sebagai bendahara."
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -143,46 +181,129 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1_mdNF1SpMg29xJFiwGyiXKyeQvlaqCmG",
+            "https://drive.google.com/uc?export=view&id=1MgehzNtmsUJNeebolQmZGDrtWfdlYeeQ",
+            "https://drive.google.com/uc?export=view&id=1sYY0pATziru0ZkdUpDU8pyTaYoHhdFGg",
+            "https://drive.google.com/uc?export=view&id=1ujAwGUTf_BNIxr5NTVEtnQnk2vZRWfhE",
+            "https://drive.google.com/uc?export=view&id=1F8AULbROOjD2Y3dGiUhQekViGku_bQbU",
+            "https://drive.google.com/uc?export=view&id=1AtbcFNxPURITtS9-44HOWxPa__6zLKNw",
+            "https://drive.google.com/uc?export=view&id=1-Z9IN0RcbgrQE8fc9CwLg4oXvukK2Z0u",
+            "https://drive.google.com/uc?export=view&id=16SK3SFoGfobggD6AY7OGrTB5jpq13B-4",
+            "https://drive.google.com/uc?export=view&id=1SfRFO2iBTp59L_bJTtbh6865mR--d5hM",
+            "https://drive.google.com/uc?export=view&id=1XLn43dhEr1arVpFlRs3_9_zUdnBYiCCH",
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama"  : "Tri Murniya Ningsih",
+                "nim"   : "121450038",
+                "umur"  : "21",
+                "asal"  : "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan" : "Selalu tampil humble dan ceria serta menunjukkan pembawaan yang positif. Menjelaskan wawasannya yang mendalam tentang peran badan legislasi benar-benar menginspirasi kami untuk lebih memahami pentingnya peran dalam himpunan",  
+                "pesan" : "Semoga terus menjadi teladan dengan pembawaanya yang positif, membuat suasana diskusi semakin menarik dan bermanfaat dan semangat dan sukses selalu dalam menjalankan peran dan tanggung jawabnya"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Annisa Cahyani Surya",
+                "nim"   : "121450114",
+                "umur"  : "21",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi" : "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan" : "Selalu komunikatif dan informatif dalam menjelaskan perannya. Penjelasannya yang jelas membantu saya memahami tugas dan tanggung jawab yang ada di badan ini",  
+                "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Wulan Sabina",
+                "nim"   : "121450150",
+                "umur"  : "21",
+                "asal"  : "Medan",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Nonton Drakor",
+                "sosmed": "@wlnsbn0",
+                "kesan" : "Memberikan pemahaman yang baik mengenai proses pengelolaan keuangan dengan lebih baik, dengan sikap terbuka dan komunikatifnya membuat diskusi menjadi lebih efektif dan menyenangkan",  
+                "pesan" : "Teruslah menunjukkan kepedulian dan komitmen dalam menjalankan peran dan tugas, semangat dan sukses selalu untuk kedepannya"
+            },
+            {
+                "nama"  : "Annisa Dini Amaliya",
+                "nim"   : "121450081",
+                "umur"  : "21",
+                "asal"  : "Tanggerang",
+                "alamat": "Jati Agung",
+                "hobbi" : "Nonton Dracin",
+                "sosmed": "@anisadini10",
+                "kesan" : "Memiliki kepribadian yang menarik dan inspiratif, cara menjelaskan dan memberikan wawasan mengenai pentingnya partisipasi aktif dalam setiap langkah pengambilan keputusan mudah dipahami",  
+                "pesan" : "Terus mendorong keterlibatan anggota dalam proses pengambilan keputusan dan terus berbagi insight dan pengalamannya, semangat selalu dalam menjalankan peran di himpunan ini"
+            },
+            {
+                "nama"  : "Anisa Fitriyani",
+                "nim"   : "121450150",
+                "umur"  : "21",
+                "asal"  : "Medan",
+                "alamat": "Raden Saleh",
+                "hobbi" : "Nonton Drakor",
+                "sosmed": "@wlnsbn0",
+                "kesan" : "Informatif dalam menjelaskan tentang berbagai aspek tugas dan tanggung jawab di komisi ini, sehingga dapat memahami dengan jelas peran penting yang dimiliki oleh komisi ini dalam pengambilan keputusan di himpunan",  
+                "pesan" : "Terus menjalankan upaya untuk menyebarluaskan informasi yang mendalam tentang peran dan fungsi di komisi ini, agar lebih banyak anggota himpunan dapat memahami pentingnya keterlibatan dalam setiap proses yang ada, semangat teru kak untuk kedepannya"
+            },
+            {
+                "nama"  : "Mirzan Yusuf Rabbani",
+                "nim"   : "122450118",
+                "umur"  : "20",
+                "asal"  : "Jakarta",
+                "alamat": "Korpri",
+                "hobbi" : "Main Kucing",
+                "sosmed": "@myrrinn",
+                "kesan" : "Sosok yang tenang tidak begitu banyak bicara tetapi memiliki cara tersendiri dalam meninggalkan kesan mendalam ke kami. Dengan sikap humblenya, meski jarang berbicara namun setiap interaksinya selalu positif",  
+                "pesan" : "Semangat menjalani perkuliahannya kak dan semangat untuk menjalani peran di himpunan ini"
+            },
+            {
+                "nama"  : "Dhea Amelia Putri",
+                "nim"   : "122450004",
+                "umur"  : "20",
+                "asal"  : "Sukabumi, Jawa Barat",
+                "alamat": "Natar",
+                "hobbi" : "Suka Ikut Tes SKD",
+                "sosmed": "@dhea_wedding",
+                "kesan" : "Sosok yang menarik dan memberikan penjelasan yang jelas dan membantu saya memahami peran dan juga tanggung jawabnya di komisi ini. Selain itu sosok yang mengasyikkan membuat setiap diskusi terasa menyenangkan dan mudah dipahami",  
+                "pesan" : "Teruslah menjadi pribadi yang menyenangkan, dan tetap semangat kak dalam menjalankan tugas"
+            },
+            {
+                "nama"  : "Muhammad Fahrul Aditya",
+                "nim"   : "121450156",
+                "umur"  : "22",
+                "asal"  : "Surakarta, Jawa Tengah",
+                "alamat": "Pahoman",
+                "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
+                "sosmed": "@fhrul.pdf",
+                "kesan" : "Sangat menarik, seru, mengasyikkan, dan selalu berhasil menciptakan suasana yang penuh tawa dengan humorisnya. Dibalik kesan seru itu, selalu memberikan penjelasan yang jelas serta mudah dipahami. Setiap interaksi dengannya selalu meninggalkan kesan yang positif",  
+                "pesan" : "Semoga terus sukses dalam memimpin komisi ini dengan baik dan semangat dalan menjalankan peran dan tugasnya"
+            },
+            {
+                "nama"  : "Berlianda Enda Putri",
+                "nim"   : "122450065",
+                "umur"  : "21",
+                "asal"  : "Sumatera Barat",
+                "alamat": "Way Huwi",
+                "hobbi" : "Main Game",
+                "sosmed": "@berlyyanda",
+                "kesan" : "Sosok yang baik, dan menarik. Bisa menciptakan suasana yang terbuka dan mendukung dalam setiap diskusi atau menjelaskan sesuatu",  
+                "pesan" : "Terus menjadi pribadi yang hangat dan baik. Semoga sukses selalu dalam setiap langkah kak dan semnagat menjalani perkuliahannya dan peran di komisi ini"
+            },
+            {
+                "nama"  : "Jeremia Susanto",
+                "nim"   : "122450022",
+                "umur"  : "20",
+                "asal"  : " Bandar Lampung",
+                "alamat": "Kemiling",
+                "hobbi" : "Marah-marah",
+                "sosmed": "@jeremia_s_",
+                "kesan" : "Sosok yang baik dan mengasyikkan, setiap kali berbicara suasana terasa menyenangkan karena bisa mengikuti pembicaraan dengan baik, dan membuat diskusi menjadi seru",  
+                "pesan" : "Terus menjadi pribadi yang ramah dan menyenangkan, dan semangat menjalani peran dan tugas di komisi ini"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
-
 # Tambahkan menu lainnya sesuai kebutuhan
