@@ -476,8 +476,15 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=16M7mgyemT-sq1342aQTHHZks9YBo9fyR",#Andrian
+            "https://drive.google.com/uc?export=view&id=15wF7gbUI2bLwmtFgWsqIuSRdevECZmQv",#Adisty
+            "https://drive.google.com/uc?export=view&id=15wFJRrElcZMHuk8LSi-pD-CKFIMR3O8S",#NABILA
+            "https://drive.google.com/uc?export=view&id=15xffZAK1VATRCfNlGUCZXfldvMym1Gwm",#Danang
+            "https://drive.google.com/uc?export=view&id=15njS9GXw3wli0xLdugjeHDFfdB87YH-s",#farel
+            "https://drive.google.com/uc?export=view&id=16-7x13vWiBlUaHPs808-HzLQvB1k6K0R",#Nabilah
+            "https://drive.google.com/uc?export=view&id=15teyLrsKdLTmNgoq_lJNaDWUZ4Fazm8Z",#Elia
+            "https://drive.google.com/uc?export=view&id=15v2PzPwdCTeQdEbe2jnyxu79nAY3fQtq",#Dhafin
+            "https://drive.google.com/uc?export=view&id=15vu3x39CzBg4LTzm2FFMyFQ6-xix32Dp",#Alvia 
         ]
         data_list = [
             {
