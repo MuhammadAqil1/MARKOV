@@ -436,15 +436,70 @@ elif menu == "Departemen Internal":
         data_list = [
             
             {
-                "nama"  : "",
-                "nim"   : "",
-                "umur"  : "",
-                "asal"  : "",
-                "alamat": "",
-                "hobbi" : "",
-                "sosmed": "",
-                "kesan" : "",  
-                "pesan" : ""
+                "nama"  : "Dimas Rizky Ramadhani",
+                "nim"   : "121450027",
+                "umur"  : "20",
+                "asal"  : "Tanggerang Selatan",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi" : "Memancing keributan",
+                "sosmed": "@dimzrky_",
+                "kesan" : "kakaknya baik",  
+                "pesan" : "semoga lancar kuliahnya"
+            },
+            {
+                "nama"  : "Catherine Firdhasari Maulina Sinaga",
+                "nim"   : "121450071",
+                "umur"  : "20",
+                "asal"  : "Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi" : "Baca Novel",
+                "sosmed": "@cathrine.sinaga",
+                "kesan" : "kakaknya ramah",  
+                "pesan" : "semoga kuliahnya lancar"
+            },
+            {
+                "nama"  : "M.Akbar Resdika",
+                "nim"   : "121450066",
+                "umur"  : "20",
+                "asal"  : "Lampung Barat (Way Tenun)",
+                "alamat": "Labuhan Dalam (Untung)",
+                "hobbi" : "Suka kucing tapi gak suka ngurusnya",
+                "sosmed": "@akbar_restika",
+                "kesan" : "Selalu komunikatif dan informatif dalam menjelaskan perannya. Penjelasannya yang jelas membantu saya memahami tugas dan tanggung jawab yang ada di badan ini",  
+                "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
+            },
+            {
+                "nama"  : "Renta Siahaan",
+                "nim"   : "122450070",
+                "umur"  : "21",
+                "asal"  : "Sumatera Utara",
+                "alamat": "Gerbang Barat",
+                "hobbi" : "Membaca dan Memancing",
+                "sosmed": "@renita.shn",
+                "kesan" : "Selalu komunikatif dan informatif dalam menjelaskan perannya. Penjelasannya yang jelas membantu saya memahami tugas dan tanggung jawab yang ada di badan ini",  
+                "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
+            },
+            {
+                "nama"  : "Salwa Farhanatussaidah",
+                "nim"   : "122450055",
+                "umur"  : "20",
+                "asal"  : "Pesawaran",
+                "alamat": "Airan",
+                "hobbi" : "Nonton",
+                "sosmed": "@slwfhn_694",
+                "kesan" : "Selalu komunikatif dan informatif dalam menjelaskan perannya. Penjelasannya yang jelas membantu saya memahami tugas dan tanggung jawab yang ada di badan ini",  
+                "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
+            },
+            {
+                "nama"  : "Rendra Eka Prayoga",
+                "nim"   : "122450112",
+                "umur"  : "20",
+                "asal"  : "Bekasi",
+                "alamat": "Belwis",
+                "hobbi" : "Mancing Ikan Mas",
+                "sosmed": "@rendraepr",
+                "kesan" : "Selalu komunikatif dan informatif dalam menjelaskan perannya. Penjelasannya yang jelas membantu saya memahami tugas dan tanggung jawab yang ada di badan ini",  
+                "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
             },
             {
                 "nama"  : "Yosia Retare Banurea",
@@ -453,7 +508,7 @@ elif menu == "Departemen Internal":
                 "asal"  : "Dairi, Sumatera Utara",
                 "alamat": "Perum Griya Indah",
                 "hobbi" : "Tidur",
-                "sosmed": " @yosiabanurea",
+                "sosmed": "@yosiabanurea",
                 "kesan" : "baik dan asik diajak ngobrol",  
                 "pesan" : "semoga harapan baik selalu ada untuk kakak "
             },
@@ -462,7 +517,7 @@ elif menu == "Departemen Internal":
                 "nim"   : "121450069",
                 "umur"  : "23",
                 "asal"  : "Lampung Barat",
-                "alamat": " Labuhan Ratu",
+                "alamat": "Labuhan Ratu",
                 "hobbi" : "Futsal",
                 "sosmed": "@ari_sigit17",
                 "kesan" : "ramah diajak ngobrol",  
@@ -480,7 +535,7 @@ elif menu == "Departemen Internal":
                 "pesan" : "Jangan lupa untuk jaga kesehatan dan semangat"
             },
             {
-                "nama"  : "Azizah Kusuma Putri",
+                "nama"  : "Azizah Kusumah Putri",
                 "nim"   : "122450068",
                 "umur"  : "21",
                 "asal"  : "Lampung Selatan",
