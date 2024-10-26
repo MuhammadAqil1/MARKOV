@@ -377,8 +377,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobbi" : "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "pemimpin yang penuh perhatian dan inspiratif. Keahlian Anda dalam mengelola seluruh anggota dengan baik membuat departemen terasa lebih solid dan terarah",  
+                "pesan" : "Terima kasih atas bimbingan dan dukungannya selama ini. Semoga ke depannya semakin sukses dalam mengembangkan departemen ini dan dapat terus menjadi teladan bagi kami semua."
             },
             {
                 "nama"  : "Elisabeth Claudia Simanjuntak",
@@ -388,8 +388,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "selalu cekatan dalam menjalankan tugas dan memastikan setiap pekerjaan di departemen ini berjalan lancar",  
+                "pesan" : "Terima kasih telah menjaga ketertiban administrasi dan komunikasi dalam departemen. Semoga terus berkembang dan sukses dalam tanggung jawab yang semakin besar di masa depan."
             },
             {
                 "nama"  : "Nisrina Nur Afifah",
@@ -399,8 +399,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Nabok orang",
                 "sosmed": "@afifahhnsrn",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Keterampilan dalam merancang program kaderisasi yang menarik membuat suasana kaderisasi lebih bermakna dan membangun.",  
+                "pesan" : "Terima kasih atas waktu dan energi yang diberikan. Semoga dapat terus menciptakan program-program yang berkesan dan mampu menumbuhkan semangat organisasi pada setiap anggota"
             },
             {
                 "nama"  : "Allya Nurul Islami Pasha",
@@ -410,7 +410,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gang Perwira, Belwis",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@allyaislami_",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Kerja keras dan perhatian dalam mendampingi kami, memberikan banyak pengaruh positif",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -421,8 +421,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Tidur",
                 "sosmed": "@farahanumafifahh",
-                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Pendampingan membuat kami merasa didukung dan dihargai selama proses kaderisasi. ",  
+                "pesan" : "Terima kasih atas kerja keras dalam membimbing kami. Semoga kaderisasi ini terus melahirkan generasi baru yang solid dan berintegritas."
             },
             {
                 "nama"  : "Ferdy Kevin Naibaho",
@@ -432,8 +432,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan Senopati Raya 18",
                 "hobbi" : "Dengerin Rocky Gerung",
                 "sosmed": "@ferdy_kevin",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Setiap kegiatan kaderisasi memberikan kami pengalaman berharga dan membangun kedekatan antar anggota. Kalian berhasil menciptakan suasana yang edukatif dan menyenangkan ",  
+                "pesan" : "Teruslah semangat dan berikan yang terbaik dalam melahirkan anggota-anggota yang berkualitas. Kalian luar biasa!"
             },
             {
                 "nama"  : "M. Deriansyah Okutra",
@@ -443,7 +443,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan Pagar Alam",
                 "hobbi" : "Bercerita horror",
                 "sosmed": "@dransyh_",
-                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "kesan" : "Program yang di susun sangat variatif dan memberikan wawasan yang berharga bagi kami. Kami merasa banyak belajar dari proses ini",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
             {
