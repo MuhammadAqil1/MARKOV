@@ -11,7 +11,7 @@ st.title("Visualisasi Data Science Interaktif")
 @st.cache_data
 def generate_data():
     np.random.seed(42)
-    dates = pd.date_range(start='2023-01-01', end='2023-12-31', freq='D')
+    dates = pd.date_range(start='2023-01-01', end='2023-12-31', freq='W')
     data = pd.DataFrame({
         'Tanggal': dates,
         'Penjualan': np.random.randint(100, 1000, size=len(dates)),
@@ -25,22 +25,26 @@ data = generate_data()
 # Sidebar untuk pemilihan visualisasi
 visualization = st.sidebar.selectbox(
     "Pilih Visualisasi",
-    ["Tren Penjualan", "Korelasi Penjualan vs Pengunjung", "Distribusi Penjualan per Kategori"]
+    ["Tren Penjualan Sepanjang Tahun (Mingguan)", "Korelasi Penjualan vs Pengunjung (Harian)", "Distribusi Penjualan per Kategori (Boxplot)"]
 )
 
 # Visualisasi berdasarkan pilihan
-if visualization == "Tren Penjualan":
+if visualization == "Tren Penjualan Sepanjang Tahun (Mingguan)":
     st.subheader("Tren Penjualan Sepanjang Tahun")
-    fig, ax = plt.subplots(figsize=(12, 6))
+    fig, ax = plt.subplots(figsize=(12, 6), dpi = 200)
     sns.lineplot(data=data, x='Tanggal', y='Penjualan', ax=ax)
     ax.set_xlabel("Tanggal")
     ax.set_ylabel("Penjualan")
     st.pyplot(fig)
 
-elif visualization == "Korelasi Penjualan vs Pengunjung":
+elif visualization == "Korelasi Penjualan vs Pengunjung (Harian)":
     st.subheader("Korelasi antara Penjualan dan Jumlah Pengunjung")
+    
+    # Membuat data harian
+    data_harian = generate_data().resample('D').interpolate()
+    
     fig, ax = plt.subplots(figsize=(10, 8))
-    sns.scatterplot(data=data, x='Pengunjung', y='Penjualan', hue='Kategori', ax=ax)
+    sns.scatterplot(data=data_harian, x='Pengunjung', y='Penjualan', hue='Kategori', ax=ax)
     ax.set_xlabel("Jumlah Pengunjung")
     ax.set_ylabel("Penjualan")
     st.pyplot(fig)
