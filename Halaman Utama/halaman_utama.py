@@ -102,24 +102,22 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Kami memilih "MARKOV" sebagai nama kelompok karena terinspirasi oleh Andrey Markov, seorang matematikawan yang berperan besar dalam pengembangan ilmu probabilitas melalui konsep Markov Chains atau Rantai Markov.
+              Rantai Markov adalah model matematika yang menggambarkan proses di mana keadaan masa depan hanya bergantung pada keadaan saat ini, tanpa perlu melihat ke masa lalu.
+                Pendekatan ini banyak diterapkan dalam berbagai disiplin ilmu, termasuk kecerdasan buatan, statistik, pemrosesan bahasa alami, dan bahkan ekonomi.
+                  Dengan demikian, nama "MARKOV" melambangkan konsistensi, adaptabilitas, dan pola pikir yang berorientasi pada solusi yang logis dan inovatif. 
+                  Kami berharap semangat yang tertanam dalam prinsip Rantai Markov ini akan mendorong kelompok kami untuk terus berkembang, bersikap tangguh, dan selalu siap menghadapi tantangan masa kini dengan strategi yang bijaksana dan progresif.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
         foto_kelompok = "https://drive.google.com/uc?export=view&id=14szud7E5OwQMj4BytYDNXw5HeXiwQHLu"
         layout(foto_kelompok)
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Kami memilih "MARKOV" sebagai nama kelompok karena terinspirasi oleh Andrey Markov, seorang matematikawan yang berperan besar dalam pengembangan ilmu probabilitas melalui konsep Markov Chains atau Rantai Markov.
+              Rantai Markov adalah model matematika yang menggambarkan proses di mana keadaan masa depan hanya bergantung pada keadaan saat ini, tanpa perlu melihat ke masa lalu.
+                Pendekatan ini banyak diterapkan dalam berbagai disiplin ilmu, termasuk kecerdasan buatan, statistik, pemrosesan bahasa alami, dan bahkan ekonomi.
+                  Dengan demikian, nama "MARKOV" melambangkan konsistensi, adaptabilitas, dan pola pikir yang berorientasi pada solusi yang logis dan inovatif. 
+                  Kami berharap semangat yang tertanam dalam prinsip Rantai Markov ini akan mendorong kelompok kami untuk terus berkembang, bersikap tangguh, dan selalu siap menghadapi tantangan masa kini dengan strategi yang bijaksana dan progresif.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
