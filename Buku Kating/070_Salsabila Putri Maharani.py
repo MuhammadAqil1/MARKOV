@@ -17,6 +17,7 @@ def streamlit_menu():
             "Senator",
             "Departemen PSDA",
             "Departemen MIKFES",
+            "Departemen MEDKRAF",
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
@@ -348,8 +349,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1O6ITsKwWppLfJ0412kLZAzwb7ySqsV0h", #kak afifah dn
             "https://drive.google.com/uc?export=view&id=10CYzoZXloeK2-i6cKqWlXAUkr4EiPm4Z", #kak allya dn
             "https://drive.google.com/uc?export=view&id=1rwDEOsqyus-1br76uBRZ_HAM-qpnvvCC", #kak hanum dn
-            "https://drive.google.com/uc?export=view&id=1wnySYGd0MO5v-01lIbkrFgrvOPJuKCTc", #bang dery dn
-            "https://drive.google.com/uc?export=view&id=17zW3V8Qe862o8L_ICOi3IixakruaHJY6", #bang ferdy dn
+            "https://drive.google.com/uc?export=view&id=17zW3V8Qe862o8L_ICOi3IixakruaHJY6", #bang dery dn
+            "https://drive.google.com/uc?export=view&id=1wnySYGd0MO5v-01lIbkrFgrvOPJuKCTc", #bang ferdy dn
             "https://drive.google.com/uc?export=view&id=1r7nqJnRL_WeEYytkyGgGTU3Kqapdz6uD", #kak oktavia dn
             "https://drive.google.com/uc?export=view&id=1SF3UPg85jQNXorEWHKQ1Q3CfsKw5tglp", #bang deyvan dn
             "https://drive.google.com/uc?export=view&id=1w7VyqFLXGkZZNg9WpGSMH3S3iAJQfqmN", #bang ibnu dn
@@ -794,7 +795,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1q0F6qesq_aYA2Z1FfGglYVoA-mQBL7cc", #bang gym dn
             "https://drive.google.com/uc?export=view&id=17_cRmRoO3eyDuKgO6K8CfU6_KvcCNW5A", #kak nasywa dn
             "https://drive.google.com/uc?export=view&id=1r4xMUGTN5sqQr8-MfM4GwsFBn4PIHygO", #kak priska dn
-            "https://drive.google.com/uc?export=view&id=12aPCNRPwkt8nG6ORc2vG-n6wQKGMCvqe", #bang arsal dn
+            "https://drive.google.com/uc?export=view&id=1eUlUImY5MyEAxY5CFsfAd4YroQ1iZxG6", #bang arsal dn
             "https://drive.google.com/uc?export=view&id=1xFO98SDwFrVQVy58v6TMgZlTN1dq2BHq", #bang abit dn
             "https://drive.google.com/uc?export=view&id=1ogD-gKZgcWLcpT4IQKgjxhj48fYU3WEM", #bang akmal dn
             "https://drive.google.com/uc?export=view&id=1q0F6qesq_aYA2Z1FfGglYVoA-mQBL7cc", #bang hermawan dn
@@ -997,18 +998,20 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1UEYgfO1iP_Yq_YC_zglPbsa2jmk2-_VR", #bang yogy dn
             "https://drive.google.com/uc?export=view&id=1UEhvEHYUI6glOv2NKv-_6Bvj5twDebqg", #kak ramadhita dn
-            "https://drive.google.com/uc?export=view&id=1UEhvEHYUI6glOv2NKv-_6Bvj5twDebqg", #kak nazwa dn
+            "https://drive.google.com/uc?export=view&id=1UHBPAuvadE-s0QuEHwvbrhqYz8ZbIlza", #kak nazwa dn
             "https://drive.google.com/uc?export=view&id=1UMjAVp9fQdQdScpRqxkkYjvK2QBMIS3c", #bang bastian dn
             "https://drive.google.com/uc?export=view&id=1UTHwXE78k6l5AhbvI80ysSzas6ZDp3x4", #kak dea dn
             "https://drive.google.com/uc?export=view&id=1UNYgn3FJMs0PoQpqlm7YZNVBAFuCxmeA", #kak esteria dn
             "https://drive.google.com/uc?export=view&id=1URbXC45Gb3ab_Hg5ihGvcK9BkSc6z6DI", #kak natasya ega dn
+            "https://drive.google.com/uc?export=view&id=1Uf0A7nfO0z1Bumi-ifA2LbSKPeSnJuYE", #kak novelia dn
             "https://drive.google.com/uc?export=view&id=1UgT6d-kn6EZvq5EkWLl0UFgzFB4dmfm0", #kak jasmine dn
             "https://drive.google.com/uc?export=view&id=1Uk2muWXJwAzL0TQpiHZRul-iG6BQ8-0e", #bang tobias dn
             "https://drive.google.com/uc?export=view&id=1FJoJiSJ13b3aDbidC0zgr2f0ttpoRsuY", #kak yohana dn
             "https://drive.google.com/uc?export=view&id=1bHbRSfd_YprUO-c2Ax3dcOM1PjjqN7cT", #bang rizki dn
             "https://drive.google.com/uc?export=view&id=1UPzUg-IcC9vUcJfdV2PvcE7C_qzLeofI", #bang arafi dn
-            "https://drive.google.com/uc?export=view&id=1r5QBFh8hIrYS5CqO58G1nNR1BrQJD8q0", #kak chalifia dn
-            "https://drive.google.com/uc?export=view&id=1URbXC45Gb3ab_Hg5ihGvcK9BkSc6z6DI", #bang irvan dn
+            "https://drive.google.com/uc?export=view&id=1UlRpXH8PRCr4ySR5yIokYKZoaKb7Saxb", #kak uyi dn
+            "https://drive.google.com/uc?export=view&id=1FJoJiSJ13b3aDbidC0zgr2f0ttpoRsuY", #kak chalifia dn
+            "https://drive.google.com/uc?export=view&id=1UmP7DcTrCOraC1TRxWZ-NzftQJEtB1D9", #bang irvan dn
             "https://drive.google.com/uc?export=view&id=1UNfCi9_JwE9t2xhDcXh1RmidqjHK__7B", #kak izza dn
             "https://drive.google.com/uc?export=view&id=1Ucr4u2a7t80c2cSCnwVITkoknuXo7Xkq", #kak zuhrah dn
             "https://drive.google.com/uc?export=view&id=1UmP7DcTrCOraC1TRxWZ-NzftQJEtB1D9", #bang raid dn
@@ -1017,110 +1020,110 @@ elif menu == "Departemen Eksternal":
         data_list = [
             {
                 "nama"  : "Yogy Sae Tama",
-                "nim"   : "121450041",
-                "umur"  : "21 Tahun",
-                "asal"  : "Tangerang",
+                "nim": "121450041",
+                "umur": "21 Tahun",
+                "asal": "Tangerang",
                 "alamat": "Jatimulyo",
-                "hobbi"  : "Bangun pagi",
+                "hobbi": "Bangun pagi",
                 "sosmed": "@yogyyyyyy",
                 "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
                 "nama"  : "Ramadhita Atifa Hendri",
-                "nim"   : "121450131",
-                "umur"  : "21 Tahun",
-                "asal"  : "Bandar Lampung",
+                "nim": "121450131",
+                "umur": "21 Tahun",
+                "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobbi"  : "Jalan - Jalan",
+                "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
                 "nama"  : "Nazwa Nabilla",
-                "nim"   : "121450122",
-                "umur"  : "21 Tahun",
-                "asal"  : "Jakarta Selatan",
+                "nim": "121450122",
+                "umur": "21 Tahun",
+                "asal": "Jakarta Selatan",
                 "alamat": "Way kandis",
-                "hobbi"  : "belajar",
+                "hobbi": "Belajar",
                 "sosmed": "@nazwanbilla",
                 "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
                 "nama"  : "Bastian Heskia Silaban",
-                "nim"   : "122450130",
-                "umur"  : "21 Tahun",
-                "asal"  : "Batam, Kep. Riau",
+                "nim": "122450130",
+                "umur": "21 Tahun",
+                "asal": "Batam, Kepulauan Riau",
                 "alamat": "Belwis",
-                "hobbi"  : "main game",
+                "hobbi": "Main game",
                 "sosmed": "@bastiansilaban_",
                 "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
                 "nama"  : "Dea Mutia Risani",
-                "nim"   : "122450099",
-                "umur"  : "20 Tahun",
-                "asal"  : "Sumatera Barat",
+                "nim": "122450099",
+                "umur": "20 Tahun",
+                "asal": "Sumatera Barat",
                 "alamat": "Korpri",
-                "hobbi"  : "dengerin musik",
+                "hobbi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
             },
             {
                 "nama"  : "Esteria Rohanauli Sidauruk",
-                "nim"   : "122450025",
-                "umur"  : "19 Tahun",
-                "asal"  : "Jakarta Selatan",
+                "nim": "122450025",
+                "umur": "19 Tahun",
+                "asal": "Jakarta Selatan",
                 "alamat": "Belwis",
-                "hobbi"  : "Main golf bareng kadiv",
+                "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
                 "kesan" : "Sangat menginspirasi dalam kehidupan ",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
                 "nama"  : "Natasya Ega Lina",
-                "nim"   : "122450024",
-                "umur"  : "19 Tahun",
-                "asal"  : "Jakarta Selatan",
-                "alamat": "Belwais",
-                "hobbi"  : "jadi humas",
+                "nim": "122450024",
+                "umur": "19 Tahun",
+                "asal": "Jakarta Selatan",
+                "alamat": "Belwis",
+                "hobbi": "Jadi humas",
                 "sosmed": "@nateee__15",
                 "kesan" : "Sangat baik dan sangat mengasyikkan ",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
             {
                 "nama"  : "Novelia Adinda",
-                "nim"   : "122450104",
-                "umur"  : "21 Tahun",
-                "asal"  : "Jakarta Timur",
+                "nim": "122450104",
+                "umur": "21 Tahun",
+                "asal": "Jakarta Timur",
                 "alamat": "Belwis",
-                "hobbi"  : "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
                 "nama"  : "Ratu Keisha Jasmine Deanova",
-                "nim"   : "122450106",
-                "umur"  : "20 Tahun",
-                "asal"  : "Jakarta Selatan",
+                "nim": "122450106",
+                "umur": "20 Tahun",
+                "asal": "Jakarta Selatan",
                 "alamat": "Way Kandis",
-                "hobbi"  : "Main sepak takraw",
+                "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
                 "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
                 "nama"  : "Tobias David Manogari",
-                "nim"   : "122450091",
-                "umur"  : "20 Tahun",
-                "asal"  : "Sumatera Utara",
+                "nim": "122450091",
+                "umur": "20 Tahun",
+                "asal": "Sumatera Utara",
                 "alamat": "Pemda",
-                "hobbi"  : "Jogging",
+                "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
                 "kesan" : "Sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
@@ -1238,6 +1241,5 @@ elif menu == "Departemen Eksternal":
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()  
-      
 
 # Tambahkan menu lainnya sesuai kebutuhan
