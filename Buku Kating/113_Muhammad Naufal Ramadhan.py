@@ -346,7 +346,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1ax_Ps7YnaAcP7U06G_0VWPB8iof2Y0z4", #bang erickson 2
             "https://drive.google.com/uc?export=view&id=1S-ezfEWT4GgVR7Bbq5hTznrQdXgKm7xB", #kak abeth 2
             "https://drive.google.com/uc?export=view&id=1xRt8cHOxsdhOz7T758eCegNEqpssCqEw", #kak afifah 2
-            "https://drive.google.com/uc?export=view&id=12HdNUkcFXGT3CAONJlf-4AqZqbDSKNqx", #kak allya dn
+            "https://drive.google.com/uc?export=view&id=1x5NC5e7fMQmfa6zjmSegMlj-FWrtMZjr", #kak allya 2
             "https://drive.google.com/uc?export=view&id=1LUV2WM5CBZ9_Y8EERXgUhCoEfJoQQV-7", #kak hanum 2
             "https://drive.google.com/uc?export=view&id=1EyD2sD7QqKxMT_P-OWaajj5C3q5lPzte", #bang ferdy 2
             "https://drive.google.com/uc?export=view&id=1X7CYYhvor76gOmCbwrz2XdZPYhebMCPX", #bang deri 2
@@ -361,7 +361,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1iQJwMSRBtSCAvfkgcDBK90EtG0YAzEV2", #bang sahid 2
             "https://drive.google.com/uc?export=view&id=1TDrmQMAV5UdoEBTEyprJ1RnACdQ0Y-ig", #kak vanes 2
             "https://drive.google.com/uc?export=view&id=1S9WrV9ittS8LUANRpZBHz4yX5sGf_XRp", #bang ateng 2
-            "https://drive.google.com/uc?export=view&id=1Cuye_195FP63_XdmxNjcKUNm4mv-ZL_Z", #bang gede dn
+            "https://drive.google.com/uc?export=view&id=1gAhXLlEUJviDj9ftlaSpG6xAHwkEXs7K", #bang gede 2
             "https://drive.google.com/uc?export=view&id=1Ct4qSoD_GhLx66trRuToegZReRx2nUeO", #kak jaclin 2
             "https://drive.google.com/uc?export=view&id=1M0R8EL1tphDOqvYzt-0zesCsS-cqG_bD", #bang rafly 2
             "https://drive.google.com/uc?export=view&id=1pohCvKKc9v7zAiQ3u0V0i5n_GTOgNnJ0", #kak dini 2
