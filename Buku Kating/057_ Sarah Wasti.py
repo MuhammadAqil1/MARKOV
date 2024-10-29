@@ -346,8 +346,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1317np3cGoLXKwb4hTgWxGUCKFXH_zifP", #kak abeth dn
             "https://drive.google.com/uc?export=view&id=19HXwQ17-H-zxOWmvy4ofKxTn2cd6ER13", #kak afifah dn
             "https://drive.google.com/uc?export=view&id=19B2VS3abmnrClvfdLapqfkHC4ijGv1g2", #kak allya dn
-            "https://drive.google.com/uc?export=view&id=1MVLT1sbvYVtiAlTqWB6aqgMcSI2AcD", #kak hanum dn
-            "https://drive.google.com/uc?export=view&id=1J6CVKp0CYL5I8p6K9TEgsypI1ztXbk", #bang ferdy dn
+            "https://drive.google.com/uc?export=view&id=18ynFqgoQvLtkhYF0IyNHL3CCGSnHNfEg", #kak hanum dn
+            "https://drive.google.com/uc?export=view&id=18zGbuZLe2ZXTOfKaGYEjK2rx5R207iPw", #bang ferdy dn
             "https://drive.google.com/uc?export=view&id=18zwo5YLJpFvwfKD6QbMmcUSMt9KRkLsc", #bang deri dn
             "https://drive.google.com/uc?export=view&id=18vUVGasuQGoseCzdb60TIX8MDBJPno7y", #kak oktavia dn
             "https://drive.google.com/uc?export=view&id=18iBGTdpxm5O9Gzq9j_m0O1NxEmy3OJ-i", #bang deyvan dn
@@ -357,12 +357,11 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=18650__CX7w3w93FrE-2MJfZXnjr5VYPl", #bang leonard dn
             "https://drive.google.com/uc?export=view&id=17zQAMk5LOcE7vOvtVdtvEYQ2pFyI6KQr", #kak presilia dn
             "https://drive.google.com/uc?export=view&id=18GdFd1GQeVcNvjxwGgPBvGKEOMa_a5AE", #kak rafa dn
-            "https://drive.google.com/uc?export=view&id=1kaBHVdIVeLj_ACDyyfsRa-ubzx5sQQq", #bang sahid dn
+            "https://drive.google.com/uc?export=view&id=18GbgQya1pc6mSMBr1hbknyWIjxn9jc_A", #bang sahid dn
             "https://drive.google.com/uc?export=view&id=183S3i_Mg8yFnYRVQC15VvJ9mQotN7cKP", #kak vanes dn
-            "https://drive.google.com/uc?export=view&id=1O7WYXuWmmRMOOgYtjouVWyako4UbPDT", #bang ateng dn
-            "https://drive.google.com/uc?export=view&id=1Cuye_195FP63_XdmxNjcKUNm4mv-ZZ", #bang gede dn
-            "https://drive.google.com/uc?export=view&id=19saoChO8I3FoQ0gNlaO98EB3Ldn5vAHG", #kak jaclin dn
-            "https://drive.google.com/uc?export=view&id=15mRebkS_CnjYrdvccCxfQKzqcZEL_9-", #bang rafly dn
+            "https://drive.google.com/uc?export=view&id=19PyAvkJlPXtevYTNr4Lztv2Khb8XFNhw", #bang ateng dn
+            "https://drive.google.com/uc?export=view&id=19rqKEL2LvSjwDILmKVKVZ5zYkhQ7cgm2", #kak jaclin dn
+            "https://drive.google.com/uc?export=view&id=19N9RjDPtdzbtpx2mb1IQPAR9YeXnQ-yr", #bang rafly dn
             "https://drive.google.com/uc?export=view&id=19saoChO8I3FoQ0gNlaO98EB3Ldn5vAHG", #kak dini dn
 
         ]
@@ -566,17 +565,6 @@ elif menu == "Departemen PSDA":
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
-                "nama"  : "Gede Moena",
-                "nim"   : "121450014",
-                "umur"  : "21",
-                "asal"  : "Bekasi",
-                "alamat": "Korpri Raya",
-                "hobbi" : "Belajar dan main game",
-                "sosmed": "@gedemoenaa",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
-            },
-            {
                 "nama"  : "Jaclin Alcavella",
                 "nim"   : "122450015",
                 "umur"  : "19",
@@ -616,33 +604,20 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1qTlCByOTepmYAmHMNqSTOiiNzInqlgZ", #bang rafi dn
-            "https://drive.google.com/uc?export=view&id=1YybaYByUKEuuUL_oYi4AUrDb3UgzXwt", #kak anisa dn
-            "https://drive.google.com/uc?export=view&id=1fgEAzLWz2mySdrV73UxJP7JLRgogSUm", #bang ahmad dn
-            "https://drive.google.com/uc?export=view&id=1TUSHT9s2WGO50TIBbfHAJzenaFyow8N", #bang fadhil dn
-            "https://drive.google.com/uc?export=view&id=1ZTHuRKoMclZ3oHGd9Jm1mzWPIPnQfME", #kak dina dn
-            "https://drive.google.com/uc?export=view&id=1Wnqx5QeUR2XaCIxnYZi36fbBp8__GNm", #kak dinda dn
-            "https://drive.google.com/uc?export=view&id=16JS_tzUVR4mOdPsPPhO09WCupomxex5", #kak marleta dn
-            "https://drive.google.com/uc?export=view&id=1zqlMDd3VWPHESPFwO_Xwhv7nV6dxtl5", #kak rut junita dn
-            "https://drive.google.com/uc?export=view&id=1GK9egTOkasL0t5yz6jDBPY4Fq9SgKSU", #kak syadza dn
-            "https://drive.google.com/uc?export=view&id=1AF1AE_DpTLkT992P8_S4_yXikNO_zUy", #bang eggi dn
-            "https://drive.google.com/uc?export=view&id=1Rb2r7WJRdXMV5jhgNsZuklrDr7EiXhR", #kak febiya dn
-            "https://drive.google.com/uc?export=view&id=1W7paDYSuMDswqUl2Fk0C0yxYW4nc64S", #kak happy syahrul dn
-            "https://drive.google.com/uc?export=view&id=1gIWl2NPjh-QMHNNKYBRb36y1U431kG5", #bang randa dn
+            "https://drive.google.com/uc?export=view&id=1Hbo0qAGTd4HffVVAJmPgUITABetAGSta", #kak anisa dn
+            "https://drive.google.com/uc?export=view&id=1HGhcMhE_--xP55CfUBIHOTe5_w1-04QY", #bang ahmad dn
+            "https://drive.google.com/uc?export=view&id=1HU4PAGuR7OZxKM9VF1M-4UFyxluvJlTa", #bang fadhil dn
+            "https://drive.google.com/uc?export=view&id=1HUG0GwuywRv-ELRPhWYo3Hkv4o4NEQKm", #kak dina dn
+            "https://drive.google.com/uc?export=view&id=1HdrrEeseiuh6jLtSR7St_cgM8u5MYGng", #kak dinda dn
+            "https://drive.google.com/uc?export=view&id=1HWMoNkzyFfJuE14nTkMcu9mrf1DElMgM", #kak marleta dn
+            "https://drive.google.com/uc?export=view&id=1Hm8-P6pXiHDKQS_wyawAhdypb5WeW8oO", #kak rut junita dn
+            "https://drive.google.com/uc?export=view&id=1Hegb855X9PNZiPUhzWR7ENb66Bq3PZip", #kak syadza dn
+            "https://drive.google.com/uc?export=view&id=1HeH8oXF5QhsnBo86_JLvFjC5W5w45Ka9", #kak febiya dn
+            "https://drive.google.com/uc?export=view&id=1HSX_Mdw8AHtMO-GDLLouRGOqU3Mc07ch", #kak happy syahrul dn
+            "https://drive.google.com/uc?export=view&id=1HTagRSousqsesIXAp7JVWgLWzaiH3Qjo", #bang randa dn
 
         ]
         data_list = [
-            {
-                "nama"  : "Rafi Fadhlillah",
-                "nim"   : "121450143",
-                "umur"  : "21",
-                "asal"  : "Lubuk Linggau",
-                "alamat": "Jalan Nangka 4",
-                "hobbi" : "Olahraga",
-                "sosmed": "@rafadhilillahh13",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
-            },
             {
                 "nama"  : "Annisa Novantika",
                 "nim"   : "121450005",
@@ -732,17 +707,6 @@ elif menu == "Departemen MIKFES":
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
-                "nama"  : "Eggi satria",
-                "nim"   : "122450032",
-                "umur"  : "20",
-                "asal"  : "Sukabumi",
-                "alamat": "Korpri",
-                "hobbi" : "Ngoding WISATA",
-                "sosmed": "@egistr",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
-            },
-            {
                 "nama"  : "Febiya Jomy Pratiwi",
                 "nim"   : "122450074",
                 "umur"  : "20",
@@ -791,11 +755,11 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=14GMJ0OGre2CDZUGnvA5jhrjIKMBtQ7cF", #kak rahma dn
             "https://drive.google.com/uc?export=view&id=1ELFjZ2_kMnXxJPmU7me-6WWVHe3e_vTK", #kak try yani dn
             "https://drive.google.com/uc?export=view&id=1ETtJjULpaUtR8djdYLgo1_44gL52iZC-", #bang kaisar dn
-            "https://drive.google.com/uc?export=view&id=1EY_2XJRBZ3RhLw6XmsQsQTiXbfj6qpBR", #kak dwi dn
+            "https://drive.google.com/uc?export=view&id=1Dxnyf0RZIVokRPOPrQ7kZr-dRn52Oyze", #kak dwi dn
             "https://drive.google.com/uc?export=view&id=1ERkAQj0G-Znq1BYKWiWen03El64JU956", #bang gym dn
-            "https://drive.google.com/uc?export=view&id=1B13zqETppi_ZwEHiyZ8naXmBh7xI1C0", #kak nasywa dn
+            "https://drive.google.com/uc?export=view&id=1EY_2XJRBZ3RhLw6XmsQsQTiXbfj6qpBR", #kak nasywa dn
             "https://drive.google.com/uc?export=view&id=1EG8SrWwNq-81Jl_PhyaUrftzAb-5Vqfo", #kak priska dn
-            "https://drive.google.com/uc?export=view&id=1EnkLXwUAlRGieym8ZJjJc8yI5FR3po2L", #bang arsal dn
+            "https://drive.google.com/uc?export=view&id=1Ef5FXmWWT0wj9T5nCEd65aoyh5Qr3trl", #bang arsal dn
             "https://drive.google.com/uc?export=view&id=1EnkLXwUAlRGieym8ZJjJc8yI5FR3po2L", #bang abit dn
             "https://drive.google.com/uc?export=view&id=1EhD2-zwHU-FHi5FvmKSiuyahIGgyyHaD", #bang akmal dn
             "https://drive.google.com/uc?export=view&id=1EkD-jdKuwzenCXVY3LFnA8aFZxdQU8HT", #bang hermawan dn
@@ -996,26 +960,25 @@ elif menu == "Departemen MEDKRAF":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1sWOBFSt1-F1zoryil5Fx3MVQ4ISFFQbJ", #bang yogy dn
-            "https://drive.google.com/uc?export=view&id=1oOIMQ0G-VwkwZ__1bC9Xeo2DH5uh3EMH", #kak ramadhita dn
-            "https://drive.google.com/uc?export=view&id=1aKHj8SOTuifQKCh0Cfc07i6U7mpLCtRN", #kak nazwa dn
-            "https://drive.google.com/uc?export=view&id=1yo8Y_EeHC8G9r-FeV55-9960M8VY7vVA", #bang bastian dn
-            "https://drive.google.com/uc?export=view&id=1IRloQPTpKQ0zqdYOH0RrXFgxeQ7MlkU8", #kak dea dn
-            "https://drive.google.com/uc?export=view&id=1wd9pPTXFBx7EFKeEWuQ_LICOp1waDYpe", #kak esteria dn
-            "https://drive.google.com/uc?export=view&id=19PFCwdrENV4r_lKjj1gbg7uN6SQVLv0v", #kak natasya ega dn
-            "https://drive.google.com/uc?export=view&id=1tcJ9ylebQVAtHJfka1aoYdmf91hRs5Mj", #kak novelia dn
-            "https://drive.google.com/uc?export=view&id=15hDSaPPfJpbErrvlASkZLaKI-D8MpUHR", #kak jasmine dn
-            "https://drive.google.com/uc?export=view&id=1RiVFJJA5Rp-BK9pQW57qzpvgnJxm8PCz", #bang tobias dn
-            "https://drive.google.com/uc?export=view&id=1QSt1-YwV664MAtOfVkvYBsEXDJ1JGGr-", #kak yohana dn
-            "https://drive.google.com/uc?export=view&id=14PsVGxbFgzivV34_5h5zasCsWy5PHVk5", #bang rizki dn
-            "https://drive.google.com/uc?export=view&id=1_jhcd9O11tq7Qj-SuLbyZ9kVuFbmmY7z", #bang arafi dn
-            "https://drive.google.com/uc?export=view&id=12WU7Pg9za_lrxhxNmBEG53Ea411MkJfu", #kak uyi dn
-            "https://drive.google.com/uc?export=view&id=1cOrwwVrrwtXhEuNBoc8GMsio0RrGDja0", #kak chalifia dn
-            "https://drive.google.com/uc?export=view&id=1E6GXxvBauz1qyPwN48S9-uJXwczBa-JK", #bang irvan dn
-            "https://drive.google.com/uc?export=view&id=1vQxJkLeFBN8PwwSBAdvZ9YdYlV51f34F", #kak izza dn
-            "https://drive.google.com/uc?export=view&id=1E85NscnViNz3uH-MIRtgUDSUHyjcGNJ1", #kak zuhrah dn
-            "https://drive.google.com/uc?export=view&id=1BaPPwXFONK7OyxP7Ur6YmWc7sNdjVO_9", #bang raid dn
-            "https://drive.google.com/uc?export=view&id=1slu-o22MSwKg_BP5JDOUdvjbzAyaWNS7", #kak tria dn
+            "https://drive.google.com/uc?export=view&id=16sdGgLRlge4iPT2_DnkR6AgJD7pkij7y", #bang yogy dn
+            "https://drive.google.com/uc?export=view&id=16pzCxl4NGJYR8FN1qDcJV_zlsQaqte8w", #kak ramadhita dn
+            "https://drive.google.com/uc?export=view&id=17-3vbBVgnMyWVunpnmoKkJ-2Cz9_OnHD", #kak nazwa dn
+            "https://drive.google.com/uc?export=view&id=16yN0tJYcGj6E95T1xZdNeIQrr4erGNgU", #bang bastian dn
+            "https://drive.google.com/uc?export=view&id=173sRsfB_gjdutcgsjM4U0oUJLKpKlvZy", #kak dea dn
+            "https://drive.google.com/uc?export=view&id=17-pmeEWHtyaGrrHfqrrKFKax_39-x9yI", #kak esteria dn
+            "https://drive.google.com/uc?export=view&id=17309Qi7sVDFxBMbzj4Sj0mYOXXICFxXm", #kak natasya ega dn
+            "https://drive.google.com/uc?export=view&id=16zghz-S7zeIHT0ELOjBrOM6ZllF1QCKd", #kak novelia dn
+            "https://drive.google.com/uc?export=view&id=16p7rmYQ5g9vovwaF_9p4oUP2VPNAIJqD", #kak jasmine dn
+            "https://drive.google.com/uc?export=view&id=16zJ8JfLRK8ZuNTMPQPtE2WNoO5e12nJu", #bang tobias dn
+            "https://drive.google.com/uc?export=view&id=174UbMIUTcj-J8onBo5LBzk1087ne52J9", #kak yohana dn
+            "https://drive.google.com/uc?export=view&id=17OqnEatY-K892dqejHSaW6sJhUKZSNNl", #bang rizki dn
+            "https://drive.google.com/uc?export=view&id=16pr-bZlwHw07t1ntxlHEnS2wIObxuFa9", #bang arafi dn
+            "https://drive.google.com/uc?export=view&id=17DcqG0kUgDOchmktI6wxg16-i9AHJtOQ", #kak uyi dn
+            "https://drive.google.com/uc?export=view&id=1768qC5FG1FS3cYefADL2DZI7SmBu1Tvf", #kak chalifia dn
+            "https://drive.google.com/uc?export=view&id=16slsqUPL8qmfeeHc1kAkknMLrOhvj10X", #bang irvan dn
+            "https://drive.google.com/uc?export=view&id=16wrCcLUKtl2w2VfJSu7_ETmtgPDMud7W", #kak izza dn
+            "https://drive.google.com/uc?export=view&id=16w2E3zZsagZZ1w9A1OtLm2Q4b036GJLw", #kak zuhrah dn
+            "https://drive.google.com/uc?export=view&id=16v_jGDyIk2MSoSQoNOFsG2tdWqsec_eU", #kak tria dn
         ]
         data_list = [
             {
@@ -1217,17 +1180,6 @@ elif menu == "Departemen Eksternal":
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
-                "nama"  : "Raid Muhammad Naufal",
-                "nim": "122450027",
-                "umur": "20 Tahun",
-                "asal": "Lampung Tengah",
-                "alamat": "Sukarame",
-                "hobbi": "telat",
-                "sosmed": "@rayths_",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
-            },
-            {
                 "nama"  : "Tria Yunanni",
                 "nim": "122450062",
                 "umur": "20 Tahun",
@@ -1246,18 +1198,18 @@ elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1DOBrhmwwjyXqCuVi28tXwMdcWtNqTe0r", #bang dimas dn
-            "https://drive.google.com/uc?export=view&id=1lF2zy1jd3HyREyo8-xZNblynw5tUwyZh", #kak catherine dn
+            "https://drive.google.com/uc?export=view&id=1BuaiyOhaN5h3hFeDw3fIbj0JA4fOM-pd", #kak catherine dn
             "https://drive.google.com/uc?export=view&id=1hZSTS0WazaRgCGBRa2zdzkODuKtcSDZn", #bang akbar dn
             "https://drive.google.com/uc?export=view&id=1DUQGPmMEJWYB7z5UNqQJBAIaSM8SOvVE", #kak rani dn
             "https://drive.google.com/uc?export=view&id=1QISrxIp1Lzp4AUkNGBXFFDNtnrwI6WF9", #bang rendra dn
             "https://drive.google.com/uc?export=view&id=1DXQqfYU56qlGWgLA2BXoEusKwyDtuP_k", #kak salwa dn
             "https://drive.google.com/uc?export=view&id=1DMnFR1VA4gcHE9mx4bdZcc0cJCNDlIYt", #bang yosia dn
             "https://drive.google.com/uc?export=view&id=1xEAUB1Tnx652juGlve8J-jVsBDuBZwxD", #bang ari dn
-            "https://drive.google.com/uc?export=view&id=1pTcPeRLCemnj8cQtaJemPaNbOXnhT9A8", #kak azizah dn
+            "https://drive.google.com/uc?export=view&id=1DjJJ8pOtAEhL_J1XWesqi83RbMHfDKqR", #kak azizah dn
             "https://drive.google.com/uc?export=view&id=1DjdahvMPIhLDa9z0cwvlAkPIuoksJNVk", #kak meira dn
-            "https://drive.google.com/uc?export=view&id=1A_9Hi4pNFXJ7bD5T0RKy0T0gRL9FJX8B", #bang rendi dn
-            "https://drive.google.com/uc?export=view&id=1n08un1kU2ZBtERgp5hFU84-iokYg0-pp", #kak renta dn
-            "https://drive.google.com/uc?export=view&id=1Dd4-wVXEmxWDf6-AH41LvhDRsD_Pff6U", #bang josua dn
+            "https://drive.google.com/uc?export=view&id=1Dd4-wVXEmxWDf6-AH41LvhDRsD_Pff6U", #bang rendi dn
+            "https://drive.google.com/uc?export=view&id=1lF2zy1jd3HyREyo8-xZNblynw5tUwyZh", #kak renta dn
+            "https://drive.google.com/uc?export=view&id=1n08un1kU2ZBtERgp5hFU84-iokYg0-pp", #bang josua dn
 
         ]
         data_list = [
@@ -1412,15 +1364,13 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1gwODKlGn-bWqQ-AfR45fb27S4CHcPnNM", #bang andrian dn
-            "https://drive.google.com/uc?export=view&id=1MirF2tx9NssFV1UFa2tNQ2gG9mw4WUOn", #kak adisty dn
-            "https://drive.google.com/uc?export=view&id=1CMKEgT0NBXWQdVAeaaQFYCYhc73JcbcX", #kak nabilla dn
-            "https://drive.google.com/uc?export=view&id=1IIr-42u5BtuTtt-8JH4IR7ZxQk1zQwPr", #bang danang dn
-            "https://drive.google.com/uc?export=view&id=1OJWzKE6lG69lKci3LV7JmBodagbw-bAN", #bang farrel dn
-            "https://drive.google.com/uc?export=view&id=1GEDlwY32JX7DCOpbeH8y8w59nt9X2Lbw", #kak nabilah dn
-            "https://drive.google.com/uc?export=view&id=19qXG0V2VIiOpsjaD7i-B9bX5uYvWLu6Y", #kak alvia dn
-            "https://drive.google.com/uc?export=view&id=1VOs5vQAQmZcmWSwTcNzU4FN5qKLPyFRl", #bang dhafin dn
-            "https://drive.google.com/uc?export=view&id=1pmG_A7PQkp8wNFQes-5_FplfMVlGBa8X", #kak elia dn
+            "https://drive.google.com/uc?export=view&id=16dN0wFBDhjGdgQX1vht1wFOQRYVX8aQy", #bang andrian dn
+            "https://drive.google.com/uc?export=view&id=16hEUxpNpsBmPlSK_4uvf5voGRSK0uWda", #kak adisty dn
+            "https://drive.google.com/uc?export=view&id=16mGz1gkpXHr44fG_2wgrqa7gFt-nGxVT", #kak nabilla dn
+            "https://drive.google.com/uc?export=view&id=16nBt4S4lEwpU2cZ9yxTkXSwLA_Ip79wb", #bang danang dn
+            "https://drive.google.com/uc?export=view&id=16a75WKcBYUGk7PYqWDzi2jMqWXRha_36", #kak nabilah dn
+            "https://drive.google.com/uc?export=view&id=16gyHYrLSFnXtwWXN9QwBP1JF0LG-jM28", #bang dhafin dn
+            "https://drive.google.com/uc?export=view&id=16dajxX5XG1hZGOmD5IWrSvEbyK0DVZ5j", #kak elia dn
 
 
         ]
@@ -1470,17 +1420,6 @@ elif menu == "Departemen SSD":
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
-                "nama"  : "Farrel Julio Akbar",
-                "nim"   : "122450110",
-                "umur"  : "20",
-                "asal"  : "Bogor",
-                "alamat": "Lapas",
-                "hobbi" : "Kayang",
-                "sosmed": "@farel_julio",
-                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
-            },
-            {
                 "nama"  : "Nabilah Andika Fitriati",
                 "nim"   : "121450139",
                 "umur"  : "20",
@@ -1490,17 +1429,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@nabilahanftr",
                 "kesan" : "Sangat menginspirasi dalam kehidupan ",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
-            },
-            {
-                "nama"  : "Alvia Asrinda Br.Gintng",
-                "nim"   : "122450077",
-                "umur"  : "20",
-                "asal"  : "Binjai",
-                "alamat": "Korpri",
-                "hobbi" : "Nonton Winda",
-                "sosmed": "@alviagnting",
-                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
             {
                 "nama"  : "Dhafin Razaqa Luthfi",
