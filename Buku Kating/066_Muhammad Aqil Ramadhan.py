@@ -782,7 +782,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1okC4w0wm44ED8DSftQdv0A-xdWaN3099", #kak dwi dn
             "https://drive.google.com/uc?export=view&id=1o3qlJUh5cz8BIoHIMS9U0UdgdDuyag8Q", #bang gym dn
             "https://drive.google.com/uc?export=view&id=1oHYT3TuRjeDFMiTw8WAxHW5KCzJgynHM", #kak nasywa dn
-            "https://drive.google.com/uc?export=view&id=1nA5rAUgwnpytmU538qbJa2miI66Q0302", #kak priska dn
+            "https://drive.google.com/uc?export=view&id=1oT0VGQgA2zn4vdsmTcxt9E_pqQAJdV9o", #kak priska dn
             "https://drive.google.com/uc?export=view&id=1nVxMrtGcWwn-bGpLMMi5qo5mJq2IO6-M", #bang arsal dn
             "https://drive.google.com/uc?export=view&id=1oMCF7hDGLogqBdEs1uBFQ2_ohf-VAxQg", #bang abit dn
             "https://drive.google.com/uc?export=view&id=1oFKT-b5xP-5QI8nM3TQsDywbR9PH2OOE", #bang akmal dn
