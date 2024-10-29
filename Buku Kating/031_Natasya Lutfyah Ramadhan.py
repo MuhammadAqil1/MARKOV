@@ -1240,7 +1240,7 @@ elif menu == "Departemen Eksternal":
                 },
                 ]
         display_images_with_data(gambar_urls, data_list)
-        internal()
+    eksternal()
 
 elif menu == "Departemen Internal":
     def internal():
