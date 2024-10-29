@@ -1294,13 +1294,13 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1ApZzc4DEQMFafGPuo57KM_7px0Qfqm1q",#bintang
             "https://drive.google.com/uc?export=view&id=1HT-fg3Ic2o18x6A5B7_cFRuNID43vdwQ",#lutfi
             "https://drive.google.com/uc?export=view&id=1NQKCsM7SaK09YQFKuIEiSV12JTRtlcVm",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
+            "https://drive.google.com/uc?export=view&id=1TZXk2gB1IhWjY8eeiDtwuVwaokZzevy0",#lutfi
+            "https://drive.google.com/uc?export=view&id=1gmtggIPZ266BDNiuj1_8LwfMHRrx0fBP",#bintang
+            "https://drive.google.com/uc?export=view&id=1SHUWOwtU0DeUyFeXuza9OJdPA_yPPI2K",#bintang
+            "https://drive.google.com/uc?export=view&id=1yWT8enIzGFDpGEZe61wXHDokFbDV1CGM",#lutfi
+            "https://drive.google.com/uc?export=view&id=14uFiS6DxekPq8Jn_sunNcXckzyVUGB6Y",#bintang
+            "https://drive.google.com/uc?export=view&id=1vKFKHuUNXTxLyaJvPglSfqKJTt1cryib",#lutfi
+            "https://drive.google.com/uc?export=view&id=1iGaf7fVB8kEruP299akuiCzlVX5gPDoH",#bintang
         ]
         data_list = [
             {
