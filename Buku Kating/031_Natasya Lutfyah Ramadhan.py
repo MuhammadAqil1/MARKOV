@@ -11,17 +11,19 @@ st.markdown("<h1 class='centered-title'>BUKU KATING</h1>", unsafe_allow_html=Tru
 def streamlit_menu():
     selected = option_menu(
         menu_title=None,
-        options=[
+         options=[
             "Kesekjenan",
             "Baleg",
             "Senator",
             "Departemen PSDA",
             "Departemen MIKFES",
+            "Departemen MEDKRAF",
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -1021,10 +1023,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Tangerang",
                 "alamat": "Jatimulyo",
-                "hobi": "Bangun pagi",
+                "hobbi": "Bangun pagi",
                 "sosmed": "@yogyyyyyy",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Ramadhita Atifa Hendri",#                "jabatan": "Sekretaris Departemen"
@@ -1032,10 +1034,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobi": "Jalan - Jalan",
+                "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Nazwa Nabila",#                "jabatan": "Kepala Divisi Hubungan Luar"
@@ -1043,10 +1045,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way kandis",
-                "hobi": "belajar",
+                "hobbi": "belajar",
                 "sosmed": "@nazwanbilla",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Bastian Heskia Silaban",#                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1054,10 +1056,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Batam, Kep. Riau",
                 "alamat": "Belwis",
-                "hobi": "main game",
+                "hobbi": "main game",
                 "sosmed": "@bastiansilaban_",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Dea Mutia Risani", #                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1065,10 +1067,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Sumatera Barat",
                 "alamat": "Korpri",
-                "hobi": "dengerin musik",
+                "hobbi": "dengerin musik",
                 "sosmed": "@deaa.rsn",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Esteria Rohanauli Sidauruk",#                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1076,10 +1078,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwis",
-                "hobi": "kirim bc-an",
+                "hobbi": "kirim bc-an",
                 "sosmed": "@esteriars",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Natasya Ega Lina",#                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1087,10 +1089,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "jadi humas",
+                "hobbi": "jadi humas",
                 "sosmed": "@nateee__15",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Novelia Adinda",#                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1098,10 +1100,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Jakarta Timur",
                 "alamat": "Belwis",
-                "hobi": "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",#                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1109,10 +1111,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way Kandis",
-                "hobi": "Main sepak takraw",
+                "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Tobias David Manogari",#                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1120,10 +1122,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Sumatera Utara",
                 "alamat": "Pemda",
-                "hobi": "Jogging",
+                "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Yohana Manik",#                "jabatan": "Staff Divisi Hubungan Luar"
@@ -1131,10 +1133,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "Main Bowling",
+                "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Rizky Adrian Bennovry",#                "jabatan": "Kepala Divisi Pengabdian Masyarakat"
@@ -1142,10 +1144,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "Bikin portofolio",
+                "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Arafi Ramadhan Maulana",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1153,10 +1155,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandung",
                 "alamat": "Way Huwi",
-                "hobi": "Bertani",
+                "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Asa Do'a Uyi",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1164,10 +1166,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Muara Enim",
                 "alamat": "Korpri",
-                "hobi": "Tepuk Semangat",
+                "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Chalifia Wananda",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1175,10 +1177,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobi": "Q Time",
+                "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Irvan Alfaritzi",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1186,10 +1188,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Sumatera Barat",
                 "alamat": "Sukarame",
-                "hobi": "Nonton youtube, main game",
+                "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Izza Lutfia",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1197,10 +1199,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Teluk Betung",
-                "hobi": "Main Rubik",
+                "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1208,10 +1210,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobi": "belajar",
+                "hobbi": "belajar",
                 "sosmed": "@alyaavanevi",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Raid Muhammad Naufal",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1219,11 +1221,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobi": "telat",
+                "hobbi": "telat",
                 "sosmed": "@rayths_",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
             },
             {
                 "nama": "Tria Yunanni",#                "jabatan": "Staff Divisi Pengabdian Masyarakat"
@@ -1231,14 +1232,14 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Way Kanan",
                 "alamat": "Sukarame",
-                "hobi": "Baca Buku",
+                "hobbi": "Baca Buku",
                 "sosmed": "@tria_y062",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kalian keren banget, tiap orang bawa vibe dan energi positif masing-masing! Tim jadi makin solid berkat kontribusi kalian semua",
+                "pesan": "Keep up the good work, jangan lupa seru-seruan dan saling support! Semangat terus buat kita semua! 🎉",
                 },
                 ]
         display_images_with_data(gambar_urls, data_list)
-        internal()
+    eksternal()
 
 elif menu == "Departemen Internal":
     def internal():
@@ -1295,12 +1296,12 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama"  : "Rani Puspita sari",
-                "nim"   : "122450033",
+                "nim"   : "122450030",
                 "umur"  : "20",
-                "asal"  : "Sumatera Barat",
-                "alamat": "Gang Perwira, Belwis",
-                "hobbi" : "Nonton Dracin",
-                "sosmed": "@allyaislami_",
+                "asal"  : "Kota Metro",
+                "alamat": "Rajabasa",
+                "hobbi" : "Dengar musik",
+                "sosmed": "@ranniu",
                 "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },

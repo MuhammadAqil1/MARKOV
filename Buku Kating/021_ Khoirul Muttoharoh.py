@@ -17,11 +17,13 @@ def streamlit_menu():
             "Senator",
             "Departemen PSDA",
             "Departemen MIKFES",
+            "Departemen MEDKRAF",
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -309,8 +311,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1lJSsyKQlAd7JC-D6gUtJx6jgT5JpxUdR", #kak lutfi
-            "https://drive.google.com/uc?export=view&id=1-IgZEwoHqxGgG325qtEEzBCu8w_UeWql", #bang bintang
+            "https://drive.google.com/uc?export=view&id=16mxlsEJGzu2yeLfMce8NM9dDrcM3TTA0", #kak lutfi
+            "https://drive.google.com/uc?export=view&id=15vA3yIh7K_L2C7Fwmhen49TT1FfofkfN", #bang bintang
         ]
         data_list = [
             {
@@ -375,8 +377,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobbi" : "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "pemimpin yang penuh perhatian dan inspiratif. Keahlian Anda dalam mengelola seluruh anggota dengan baik membuat departemen terasa lebih solid dan terarah",  
+                "pesan" : "Terima kasih atas bimbingan dan dukungannya selama ini. Semoga ke depannya semakin sukses dalam mengembangkan departemen ini dan dapat terus menjadi teladan bagi kami semua."
             },
             {
                 "nama"  : "Elisabeth Claudia Simanjuntak",
@@ -386,8 +388,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "selalu cekatan dalam menjalankan tugas dan memastikan setiap pekerjaan di departemen ini berjalan lancar",  
+                "pesan" : "Terima kasih telah menjaga ketertiban administrasi dan komunikasi dalam departemen. Semoga terus berkembang dan sukses dalam tanggung jawab yang semakin besar di masa depan."
             },
             {
                 "nama"  : "Nisrina Nur Afifah",
@@ -397,8 +399,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Nabok orang",
                 "sosmed": "@afifahhnsrn",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Keterampilan dalam merancang program kaderisasi yang menarik membuat suasana kaderisasi lebih bermakna dan membangun.",  
+                "pesan" : "Terima kasih atas waktu dan energi yang diberikan. Semoga dapat terus menciptakan program-program yang berkesan dan mampu menumbuhkan semangat organisasi pada setiap anggota"
             },
             {
                 "nama"  : "Allya Nurul Islami Pasha",
@@ -408,7 +410,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gang Perwira, Belwis",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@allyaislami_",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Kerja keras dan perhatian dalam mendampingi kami, memberikan banyak pengaruh positif",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -419,8 +421,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Tidur",
                 "sosmed": "@farahanumafifahh",
-                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Pendampingan membuat kami merasa didukung dan dihargai selama proses kaderisasi. ",  
+                "pesan" : "Terima kasih atas kerja keras dalam membimbing kami. Semoga kaderisasi ini terus melahirkan generasi baru yang solid dan berintegritas."
             },
             {
                 "nama"  : "Ferdy Kevin Naibaho",
@@ -430,8 +432,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan Senopati Raya 18",
                 "hobbi" : "Dengerin Rocky Gerung",
                 "sosmed": "@ferdy_kevin",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Setiap kegiatan kaderisasi memberikan kami pengalaman berharga dan membangun kedekatan antar anggota. Kalian berhasil menciptakan suasana yang edukatif dan menyenangkan ",  
+                "pesan" : "Teruslah semangat dan berikan yang terbaik dalam melahirkan anggota-anggota yang berkualitas. Kalian luar biasa!"
             },
             {
                 "nama"  : "M. Deriansyah Okutra",
@@ -441,7 +443,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan Pagar Alam",
                 "hobbi" : "Bercerita horror",
                 "sosmed": "@dransyh_",
-                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "kesan" : "Program yang di susun sangat variatif dan memberikan wawasan yang berharga bagi kami. Kami merasa banyak belajar dari proses ini",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
             {
@@ -1022,7 +1024,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Tangerang",
                 "alamat": "Jatimulyo",
-                "hobi": "Bangun pagi",
+                "hobbi": "Bangun pagi",
                 "sosmed": "@yogyyyyyy",
                 "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
@@ -1033,7 +1035,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobi": "Jalan - Jalan",
+                "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
@@ -1044,7 +1046,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way kandis",
-                "hobi": "belajar",
+                "hobbi": "belajar",
                 "sosmed": "@nazwanbilla",
                 "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
@@ -1055,7 +1057,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Batam, Kep. Riau",
                 "alamat": "Belwis",
-                "hobi": "main game",
+                "hobbi": "main game",
                 "sosmed": "@bastiansilaban_",
                 "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
@@ -1066,7 +1068,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Sumatera Barat",
                 "alamat": "Korpri",
-                "hobi": "dengerin musik",
+                "hobbi": "dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
@@ -1077,7 +1079,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwis",
-                "hobi": "Main golf bareng kadiv",
+                "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
                 "kesan" : "Sangat menginspirasi dalam kehidupan ",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
@@ -1088,7 +1090,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "jadi humas",
+                "hobbi": "jadi humas",
                 "sosmed": "@nateee__15",
                 "kesan" : "Sangat baik dan sangat mengasyikkan ",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
@@ -1099,7 +1101,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Jakarta Timur",
                 "alamat": "Belwis",
-                "hobi": "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
@@ -1110,7 +1112,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way Kandis",
-                "hobi": "Main sepak takraw",
+                "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
                 "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
@@ -1121,7 +1123,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Sumatera Utara",
                 "alamat": "Pemda",
-                "hobi": "Jogging",
+                "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
                 "kesan" : "Sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
@@ -1132,7 +1134,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19 Tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "Main Bowling",
+                "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
                 "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
@@ -1143,7 +1145,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "Bikin portofolio",
+                "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
@@ -1154,7 +1156,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandung",
                 "alamat": "Way Huwi",
-                "hobi": "Bertani",
+                "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
                 "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
@@ -1165,7 +1167,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Muara Enim",
                 "alamat": "Korpri",
-                "hobi": "Tepuk Semangat",
+                "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
                 "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
@@ -1176,7 +1178,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobi": "Q Time",
+                "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
                 "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
@@ -1187,7 +1189,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21 Tahun",
                 "asal": "Sumatera Barat",
                 "alamat": "Sukarame",
-                "hobi": "Nonton youtube, main game",
+                "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
                 "kesan" : "Sangat menginspirasi dalam kehidupan ",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
@@ -1198,7 +1200,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Teluk Betung",
-                "hobi": "Main Rubik",
+                "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
                 "kesan" : "Sangat baik dan sangat mengasyikkan ",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
@@ -1209,7 +1211,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobi": "Mengaji",
+                "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
                 "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
@@ -1220,7 +1222,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobi": "telat",
+                "hobbi": "telat",
                 "sosmed": "@rayths_",
                 "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
@@ -1231,7 +1233,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20 Tahun",
                 "asal": "Way Kanan",
                 "alamat": "Sukarame",
-                "hobi": "Baca Buku",
+                "hobbi": "Baca Buku",
                 "sosmed": "@tria_y062",
                 "kesan" : "Sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
