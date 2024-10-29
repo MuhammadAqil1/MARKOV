@@ -782,8 +782,26 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=1MKtctC3jixEbWoZnQTz-jc-uGFwRSMBh",#lutfi
+            "https://drive.google.com/uc?export=view&id=1MMn9N0SQRYEA0o0bxj5en3rvzljgdOoE",#bintang
+            "https://drive.google.com/uc?export=view&id=1rb1cTKH6UQ-Rc7SdWt0HH9QMo6TH6FpP",#lutfi
+            "https://drive.google.com/uc?export=view&id=1NRJfFwtA38TlIWMjeuKv-F7G8GeBRI7s",#lutfi
+            "https://drive.google.com/uc?export=view&id=1O2A6WP_bERCmf6dodkVxg9qruCB-WEbV",#bintang
+            "https://drive.google.com/uc?export=view&id=1Nyuikt8VXNBN1x2oWIcAEHcDSMtf8D2E",#lutfi
+            "https://drive.google.com/uc?export=view&id=1OAfRzRBrh3BX92fZgEGiq98dtKGLz6pS",#bintang
+            "https://drive.google.com/uc?export=view&id=1Nm06scA2E9_PszDgt1kZBiN5UMQu5Tsm",#lutfi
+            "https://drive.google.com/uc?export=view&id=1OD6lOVAkoJ9P553avWTNSccXcxvkpJo2",#bintang
+            "https://drive.google.com/uc?export=view&id=1NjZdUk7wAMSNAzeBTyXlls4-HAHfZQUO",#lutfi
+            "https://drive.google.com/uc?export=view&id=1P1SEW2wq70o_AW5gZFAaD28tZDfnH6Fq",#bintang
+            "https://drive.google.com/uc?export=view&id=1P1qO4feaE2zNzAlC0X23UxFW4wkLWVLt",#lutfi
+            "https://drive.google.com/uc?export=view&id=1MPE0yiCej3huEZ4AJvOObUOKainbVodK",#bintang
+            "https://drive.google.com/uc?export=view&id=1Oq0Qi25AzmbSVJ1Sf97W_PdxMdEn9PEW",#lutfi
+            "https://drive.google.com/uc?export=view&id=1PAJF2J0-IN1bYSNm2S4BbdvxgmSuR_cO",#bintang
+            "https://drive.google.com/uc?export=view&id=1NAOT44m_h1RS1Kd_q1rJvgSwdT6BUYtv",#lutfi
+            "https://drive.google.com/uc?export=view&id=1M9dFrcpcFLXyAqLuWdkCWygepFzEGnbf",#bintang
+            "https://drive.google.com/uc?export=view&id=1N1a4yly9b2ooboBdJqOlzrhEbxRtzmpA",#lutfi
+            "https://drive.google.com/uc?export=view&id=1Miin5UmcTBbpTNk6IIvjIDQ2SC65cZHV",#bintang
+            "https://drive.google.com/uc?export=view&id=1MqrXvKpBpqLaL2fUQb-oU5txn_S-OKXv",#bintang
         ]
         data_list = [
             {
