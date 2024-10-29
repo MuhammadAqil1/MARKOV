@@ -1031,18 +1031,19 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
-            "https://drive.google.com/uc?export=view&id=",#lutfi
-            "https://drive.google.com/uc?export=view&id=",#bintang
+            "https://drive.google.com/uc?export=view&id=",#Dimas
+            "https://drive.google.com/uc?export=view&id=1vuhYo8mx7zCMgT4e7c-IoB8fFf3s7mxH",#bintang
+            "https://drive.google.com/uc?export=view&id=1nGl3QdYjD5Fl13MSVFbNDa_kZcTHofRq",#lutfi
+            "https://drive.google.com/uc?export=view&id=1DyNjoMh-VxYFuBdwGQpF_IRaFCEeEa8t",#bintang
+            "https://drive.google.com/uc?export=view&id=1NdEXHI_foLP0vUA0Wxiw9Z_Qsyr_eodV",#lutfi
+            "https://drive.google.com/uc?export=view&id=1WrM6QbEP3jEJxDur2xGxHfol7nyN2-pt",#lutfi
+            "https://drive.google.com/uc?export=view&id=1egkMTpCDKebUSXZSP0YM--YKwsPrOaAQ",#bintang
+            "https://drive.google.com/uc?export=view&id=185h7ert59BDruNz2kGdTV4LH-11wOvVG",#yosia
+            "https://drive.google.com/uc?export=view&id=1oTQ8hctE2ny4oqJU0GjA9cVsLjjgevU_",#bintang
+            "https://drive.google.com/uc?export=view&id=1hpiqO8ucKASOv8_ujlYds5RiH39UU5uv",#lutfi
+            "https://drive.google.com/uc?export=view&id=1XpdXlXX1MOCWwyj-OQmOVMLBRNoTZLbL",#azizah
+            "https://drive.google.com/uc?export=view&id=1n7cpuPFvL_SImLm3Iq_7iH_VoANmj2bK",#meira
+            "https://drive.google.com/uc?export=view&id=1dtMAeI8_iYJCWGjuD5A1c2Cu3OFVej5O",#bintang
         ]
         data_list = [
             {
@@ -1079,6 +1080,17 @@ elif menu == "Departemen Internal":
                 "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
             },
             {
+                "nama"  : "Rani Puspita Sari",
+                "nim"   : "122450030",
+                "umur"  : "20",
+                "asal"  : "KOta Metro",
+                "alamat": "Rajabasa",
+                "hobbi" : "Dengar musik",
+                "sosmed": "@ranniu",
+                "kesan" : "Selalu komunikatif dan informatif dalam menjelaskan perannya. Penjelasannya yang jelas membantu saya memahami tugas dan tanggung jawab yang ada di badan ini",  
+                "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
+            },
+            {
                 "nama"  : "Renta Siahaan",
                 "nim"   : "122450070",
                 "umur"  : "21",
@@ -1086,8 +1098,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi" : "Membaca dan Memancing",
                 "sosmed": "@renita.shn",
-                "kesan" : "Selalu komunikatif dan informatif dalam menjelaskan perannya. Penjelasannya yang jelas membantu saya memahami tugas dan tanggung jawab yang ada di badan ini",  
-                "pesan" : "Teruslah semangat dalam menjalankan tugas dan perannya, semoga terus informatif dan komunikatif selalu dalam memberikan penjelasan"
+                "kesan" : "--",  
+                "pesan" : "--"
             },
             {
                 "nama"  : "Salwa Farhanatussaidah",
