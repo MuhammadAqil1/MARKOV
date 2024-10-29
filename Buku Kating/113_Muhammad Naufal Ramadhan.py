@@ -11,17 +11,19 @@ st.markdown("<h1 class='centered-title'>BUKU KATING</h1>", unsafe_allow_html=Tru
 def streamlit_menu():
     selected = option_menu(
         menu_title=None,
-        options=[
+         options=[
             "Kesekjenan",
             "Baleg",
             "Senator",
             "Departemen PSDA",
             "Departemen MIKFES",
+            "Departemen MEDKRAF",
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
