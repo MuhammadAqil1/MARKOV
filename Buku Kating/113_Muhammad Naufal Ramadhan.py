@@ -1246,19 +1246,19 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1txdHsmKrEwVGkKJF7DZiTDqQHoRaNPK0", #bang dimas dn
-            "https://drive.google.com/uc?export=view&id=1x4IwnZxnwCZkekqXZsHZnDO6pm55S8fr", #kak catherine dn
-            "https://drive.google.com/uc?export=view&id=1oLVtYjMqotS-DXtBwiPj1viFBCiE-Jdc", #bang akbar dn
-            "https://drive.google.com/uc?export=view&id=1rK8NJtN6iDFdHZRlihDigY5315ZwoQ_3", #kak rani dn
-            "https://drive.google.com/uc?export=view&id=1pHuguAttxSiw6Oo7WhSQXeBsvZpEm1Le", #bang rendra dn
-            "https://drive.google.com/uc?export=view&id=1KZM9kZbB9MCjxL2ATgrucsp8hvZcJ4wZ", #kak salwa dn
-            "https://drive.google.com/uc?export=view&id=1cVzF1zzuyMCqqr049_b_Ii8C90VSzTtU", #bang yosia dn
-            "https://drive.google.com/uc?export=view&id=1BNxQt_4lPak5sUXf_EpaJH6SPMfahXBy", #bang ari dn
-            "https://drive.google.com/uc?export=view&id=1pTcPeRLCemnj8cQtaJemPaNbOXnhT9A8", #kak azizah dn
-            "https://drive.google.com/uc?export=view&id=1JtfQ_TAhrVvbEW9hgy5or0_MRzgpSdyy", #kak meira dn
-            "https://drive.google.com/uc?export=view&id=1A_9Hi4pNFXJ7bD5T0RKy0T0gRL9FJX8B", #bang rendi dn
-            "https://drive.google.com/uc?export=view&id=1WkkjzRI8PD6T4FAcOKxcpM5RIeoo3cO-", #kak renta dn
-            "https://drive.google.com/uc?export=view&id=10n-7tDMCB9Gx5su00unmArqAKb3RydDa", #bang josua dn
+            "https://drive.google.com/uc?export=view&id=15EFttnnvXS-7Sm7QXh_y8lFgEINciNbX", #bang dimas dn1
+            "https://drive.google.com/uc?export=view&id=1YOLB2M107IzbQUrFVsE6WwGM6qMana0j", #kak catherine dn1
+            "https://drive.google.com/uc?export=view&id=1bstxQLaGEDwZ3N8WdwfySvZXu5zhsdXW", #bang akbar dn1
+            "https://drive.google.com/uc?export=view&id=1QhqR1shEaS4yX4PCtbpgpdfHTLAyjGTf", #kak rani dn1
+            "https://drive.google.com/uc?export=view&id=177R0HOJELiV7C8JDNdcHdIWDQxy2LCY5", #bang rendra dn1
+            "https://drive.google.com/uc?export=view&id=1MfxXK7gIaOrrzLt_X-G7LKkWfF4_FO_v", #kak salwa dn1
+            "https://drive.google.com/uc?export=view&id=1Dc6cEIigpcTRpYxg2QVb2dQSJhmBjS-a", #bang yosia dn1
+            "https://drive.google.com/uc?export=view&id=1aMX5e8uTAgtKO8yfGENnuWX4b6aWkEr9", #bang ari dn1
+            "https://drive.google.com/uc?export=view&id=1JphnAYCdOaVlRRTr1rq2dPZIGY4wuLCg", #kak azizah dn1
+            "https://drive.google.com/uc?export=view&id=1jtTUSdZvngujnOow_-2u7MJWLsdh-9gx", #kak meira dn1
+            "https://drive.google.com/uc?export=view&id=1FQ-dgjgOB2rbmIpOFd8eTfbC1oOn_GQn", #bang rendi dn1
+            "https://drive.google.com/uc?export=view&id=1HVcwvlZKRiOz1Jzj1cb_Et2SEyNMVmf0", #kak renta dn1
+            "https://drive.google.com/uc?export=view&id=1Vc2-b-NGIRgjvyLBtH-BzFUT0gInX84p", #bang josua dn1
 
         ]
         data_list = [
