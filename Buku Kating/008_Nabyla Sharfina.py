@@ -639,8 +639,8 @@ elif menu == "Departemen MIKFES":
                 "asal"  : "Lubuk Linggau",
                 "alamat": "Jalan Nangka 4",
                 "hobbi" : "Olahraga",
-                "sosmed": "@rafadhilillahh13",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "sosmed": "@rafadhilillah",
+                "kesan" : "h13Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
