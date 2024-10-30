@@ -997,26 +997,26 @@ elif menu == "Departemen MEDKRAF":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1sWOBFSt1-F1zoryil5Fx3MVQ4ISFFQbJ", #bang yogy dn
-            "https://drive.google.com/uc?export=view&id=1oOIMQ0G-VwkwZ__1bC9Xeo2DH5uh3EMH", #kak ramadhita dn
+            "https://drive.google.com/uc?export=view&id=1MKZog11Em9eBmhkMIrPFLYnuS04JAzLm", #bang yogy dn1
+            "https://drive.google.com/uc?export=view&id=1MMAoQvGuz5jOXkkprOasPmjXZusLp8Xf", #kak ramadhita dn1
             "https://drive.google.com/uc?export=view&id=1Nyz-GQvzqXEK7dTe5UWIpI5WZPh48bl6", #kak nazwa dn1
-            "https://drive.google.com/uc?export=view&id=1yo8Y_EeHC8G9r-FeV55-9960M8VY7vVA", #bang bastian dn
-            "https://drive.google.com/uc?export=view&id=1IRloQPTpKQ0zqdYOH0RrXFgxeQ7MlkU8", #kak dea dn
+            "https://drive.google.com/uc?export=view&id=1NcKRI4kz8h9LeaE7NrUm0iMl6SyBH6bO", #bang bastian dn1
+            "https://drive.google.com/uc?export=view&id=1OLVezYCP62ROAu059b8fRpb-mIMsmirj", #kak dea dn1
             "https://drive.google.com/uc?export=view&id=1O0TZkX-i992YhjytYTijrywfPdbSrPlb", #kak esteria dn1
-            "https://drive.google.com/uc?export=view&id=19PFCwdrENV4r_lKjj1gbg7uN6SQVLv0v", #kak natasya ega dn
+            "https://drive.google.com/uc?export=view&id=1O0G1nSf1m8_IjA_RhGOZFsk18LBzkGTJ", #kak natasya ega dn1
             "https://drive.google.com/uc?export=view&id=1NmThtVbH0oCzKqh4TubWXUQIZQ9g5594", #kak novelia dn1
-            "https://drive.google.com/uc?export=view&id=15hDSaPPfJpbErrvlASkZLaKI-D8MpUHR", #kak jasmine dn
-            "https://drive.google.com/uc?export=view&id=1RiVFJJA5Rp-BK9pQW57qzpvgnJxm8PCz", #bang tobias dn
-            "https://drive.google.com/uc?export=view&id=1QSt1-YwV664MAtOfVkvYBsEXDJ1JGGr-", #kak yohana dn
-            "https://drive.google.com/uc?export=view&id=14PsVGxbFgzivV34_5h5zasCsWy5PHVk5", #bang rizki dn
-            "https://drive.google.com/uc?export=view&id=1_jhcd9O11tq7Qj-SuLbyZ9kVuFbmmY7z", #bang arafi dn
-            "https://drive.google.com/uc?export=view&id=12WU7Pg9za_lrxhxNmBEG53Ea411MkJfu", #kak uyi dn
+            "https://drive.google.com/uc?export=view&id=1OcpKQziE2cDVgOvLDSZRunHIfK0xbHvv", #kak jasmine dn1
+            "https://drive.google.com/uc?export=view&id=1Ne_YKKiaChfpMpt6w75O9jXfF_ybS_W4", #bang tobias dn1
+            "https://drive.google.com/uc?export=view&id=1OZgcohUpmlfcnliWLp5YoOw2H9WH_6I6", #kak yohana dn1
+            "https://drive.google.com/uc?export=view&id=1PKuhxcxPy_TfQJmT5iISHRKktnqKxCx8", #bang rizki dn1
+            "https://drive.google.com/uc?export=view&id=1MUHgePoav5npMCNBAHTP_15YU8nLdab3", #bang arafi dn1
+            "https://drive.google.com/uc?export=view&id=1P6JB27F1yeaLp1HXjDnLxMoqRT6RaanV", #kak uyi dn1
             "https://drive.google.com/uc?export=view&id=1cOrwwVrrwtXhEuNBoc8GMsio0RrGDja0", #kak chalifia dn
-            "https://drive.google.com/uc?export=view&id=1E6GXxvBauz1qyPwN48S9-uJXwczBa-JK", #bang irvan dn
-            "https://drive.google.com/uc?export=view&id=1vQxJkLeFBN8PwwSBAdvZ9YdYlV51f34F", #kak izza dn
-            "https://drive.google.com/uc?export=view&id=1E85NscnViNz3uH-MIRtgUDSUHyjcGNJ1", #kak zuhrah dn
-            "https://drive.google.com/uc?export=view&id=1BaPPwXFONK7OyxP7Ur6YmWc7sNdjVO_9", #bang raid dn
-            "https://drive.google.com/uc?export=view&id=1slu-o22MSwKg_BP5JDOUdvjbzAyaWNS7", #kak tria dn
+            "https://drive.google.com/uc?export=view&id=1NUtjz0C5hGd3LXqEHoerFGyjtoKOKNPf", #bang irvan dn1
+            "https://drive.google.com/uc?export=view&id=1MIOtduUnqVm8rIdxL0t3oLajtNhrVS-C", #kak izza dn1
+            "https://drive.google.com/uc?export=view&id=1N2iRRLQRDoNPKlqQOVFoJ6VsH4ZzeiCb", #kak zuhrah dn1
+            "https://drive.google.com/uc?export=view&id=1MZqNa-8nHmVv2fbXFuXql-3bd5lh0WmK", #bang raid dn1
+            "https://drive.google.com/uc?export=view&id=1NJ-0t3RtXyxms667D1yqiNBp7e_OMws_", #kak tria dn1
         ]
         data_list = [
             {
