@@ -1011,7 +1011,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1PKuhxcxPy_TfQJmT5iISHRKktnqKxCx8", #bang rizki dn1
             "https://drive.google.com/uc?export=view&id=1MUHgePoav5npMCNBAHTP_15YU8nLdab3", #bang arafi dn1
             "https://drive.google.com/uc?export=view&id=1P6JB27F1yeaLp1HXjDnLxMoqRT6RaanV", #kak uyi dn1
-            "https://drive.google.com/uc?export=view&id=1cOrwwVrrwtXhEuNBoc8GMsio0RrGDja0", #kak chalifia dn
+            "https://drive.google.com/uc?export=view&id=1ILdHALKB_KU_rl1I8iK4uTwKT3tk8DOU", #kak chalifia dn1
             "https://drive.google.com/uc?export=view&id=1NUtjz0C5hGd3LXqEHoerFGyjtoKOKNPf", #bang irvan dn1
             "https://drive.google.com/uc?export=view&id=1MIOtduUnqVm8rIdxL0t3oLajtNhrVS-C", #kak izza dn1
             "https://drive.google.com/uc?export=view&id=1N2iRRLQRDoNPKlqQOVFoJ6VsH4ZzeiCb", #kak zuhrah dn1
