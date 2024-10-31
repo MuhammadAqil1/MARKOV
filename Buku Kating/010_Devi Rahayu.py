@@ -1,4 +1,3 @@
-
 import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
@@ -22,6 +21,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+ punya_devi
+            "Departemen MEDKRAF",
+
+ main
         ],
         icons=[
             "people-fill",
@@ -559,56 +562,56 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama"  : "M. Farhan Athaulloh",
-                "nim"   : "121450156",
-                "umur"  : "22",
-                "asal"  : "Surakarta, Jawa Tengah",
-                "alamat": "Pahoman",
-                "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
-                "sosmed": "@fhrul.pdf",
+                "nim"   : "121450117",
+                "umur"  : "21",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Kota Baru",
+                "hobbi" : "Menolong",
+                "sosmed": "@mfarhan.ath",
                 "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
                 "nama"  : "Gede Moana",
-                "nim"   : "122450065",
+                "nim"   : "121450014",
                 "umur"  : "21",
-                "asal"  : "Sumatera Barat",
-                "alamat": "Way Huwi",
-                "hobbi" : "Main Game",
-                "sosmed": "@berlyyanda",
+                "asal"  : "Bekasi",
+                "alamat": "Korpri Raya",
+                "hobbi" : "Belajar dan main game",
+                "sosmed": "@gedemoenaa",
                 "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
                 "nama"  : "Jaclin Alcavella",
-                "nim"   : "122450022",
-                "umur"  : "20",
-                "asal"  : " Bandar Lampung",
-                "alamat": "Kemiling",
-                "hobbi" : "Marah-marah",
-                "sosmed": "@jeremia_s_",
+                "nim"   : "122450015",
+                "umur"  : "19",
+                "asal"  : "Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobbi" : "Berenang",
+                "sosmed": "@jaclinalcv_",
                 "kesan" : "Sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
             {
                 "nama"  : "Rafly Prabu Darmawan",
-                "nim"   : "122450065",
-                "umur"  : "21",
-                "asal"  : "Sumatera Barat",
-                "alamat": "Way Huwi",
+                "nim"   : "122450140",
+                "umur"  : "20",
+                "asal"  : "Bangka belitung",
+                "alamat": "Sukarame",
                 "hobbi" : "Main Game",
-                "sosmed": "@berlyyanda",
+                "sosmed": "@raflyy_pd2684",
                 "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
                 "nama"  : "Syalaisha Andini Putriansyah",
-                "nim"   : "122450022",
-                "umur"  : "20",
-                "asal"  : " Bandar Lampung",
-                "alamat": "Kemiling",
-                "hobbi" : "Marah-marah",
-                "sosmed": "@jeremia_s_",
+                "nim"   : "122450111",
+                "umur"  : "21",
+                "asal"  : "Tanggerang",
+                "alamat": "Sukarame",
+                "hobbi" : "Membaca",
+                "sosmed": "@syalaisha.i__",
                 "kesan" : "Sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
@@ -619,31 +622,164 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=1gwWAfM3G9C2_9I9nrau0zD9Xz2WGklc7", #bang rafi 
+            "https://drive.google.com/uc?export=view&id=1ZpQ4LLUzcruRRVqyKAoGiB3Q3pb8CZZ9", #kak anisa
+            "https://drive.google.com/uc?export=view&id=1MxoRjYSoxSHdxgweGbnNeNtob-FUjSkY", #bang ahmad
+            "https://drive.google.com/uc?export=view&id=1Hc_MelHgfhKu5O_AXNjx3IhfOxbYKjNc", #bang fadhil
+            "https://drive.google.com/uc?export=view&id=1a6rjtwMA4azGiEoCkgvuIyBYkEg-AESg", #kak syalaisha 
+            "https://drive.google.com/uc?export=view&id=1a6OmMrjdnhEEGZyAvZ9NKdUsrLs4OuI6", #kak dinda
+            "https://drive.google.com/uc?export=view&id=1bv5yoBVDliSEn3YcjFIYOoXONcSzQt9v", #kak marleta
+            "https://drive.google.com/uc?export=view&id=16bH8mxJejfUhxPdEghFlBNLTo6ynviID", #kak rut junita
+            "https://drive.google.com/uc?export=view&id=1u3Brr-WtqW6QOVZof8X7gaBRDBkqlQ0b", #kak syadza
+            "https://drive.google.com/uc?export=view&id=1CWyqP8SDCkyyONKT0lRzQewxYljkMhJ2", #bang eggi
+            "https://drive.google.com/uc?export=view&id=11f-3xrJ_dnSw47WIWN-eATRq93EMiECs", #kak febiya
+            "https://drive.google.com/uc?export=view&id=1ss6BZv949aLeV6CRnrhd7qRuv0CJCdfB", #kak happy syahrul
+            "https://drive.google.com/uc?export=view&id=1gMIue--eqJG1-2PPGs2mbvNDI0VFEovH", #bang randa
+
         ]
         data_list = [
             {
-                "nama"  : "Tri Murniya Ningsih",
-                "nim"   : "121450038",
+                "nama"  : "Rafi Fadhlillah",
+                "nim"   : "121450143",
                 "umur"  : "21",
-                "asal"  : "Bogor",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
-                "sosmed": "@trimurniyaa",
-                "kesan" : "kakaknya baik",  
-                "pesan" : "semoga lancar kuliahnya"
+                "asal"  : "Lubuk Linggau",
+                "alamat": "Jalan Nangka 4",
+                "hobbi" : "Olahraga",
+                "sosmed": "@rafadhilillahh13",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
-                "nama"  : "Annisa Cahyani Surya",
-                "nim"   : "121450114",
+                "nama"  : "Annisa Novantika",
+                "nim"   : "121450005",
                 "umur"  : "21",
-                "asal"  : "Tanggerang Selatan",
-                "alamat": "Way Huwi",
-                "hobbi" : "Membaca, Nonton",
-                "sosmed": "@annisacahyanisurya",
-                "kesan" : "kakaknya ramah",  
-                "pesan" : "semoga kuliahnya lancar"
+                "asal"  : "Lampung Utara",
+                "alamat": "Jl. Pulau Sebesi, Sukarame",
+                "hobbi" : "Memasak",
+                "sosmed": "@anovavona",
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+            },
+            {
+                "nama"  : "Ahmad Sahidin Akbar",
+                "nim"   : "122450044",
+                "umur"  : "20",
+                "asal"  : "Tulang Bawang",
+                "alamat": "Sukarame",
+                "hobbi" : "Olahraga",
+                "sosmed": "@sahid22__",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+            },
+            {
+                "nama"  : "Fadhil Fitra Wijaya",
+                "nim"   : "122450082",
+                "umur"  : "20",
+                "asal"  : "Bekasi",
+                "alamat": "Teluk Betung",
+                "hobbi" : "Main game",
+                "sosmed": "@fadhilfwee",
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+            },
+            {
+                "nama"  : "Syalaisha Andina Putriansyah",
+                "nim"   : "122450121",
+                "umur"  : "21",
+                "asal"  : "Tangerang",
+                "alamat": "Gang Yudhistira",
+                "hobbi" : "Baca jurnal",
+                "sosmed": "@dkselsd_31",
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+            },
+            {
+                "nama"  : "Dinda Nababan",
+                "nim"   : "122450120",
+                "umur"  : "20",
+                "asal"  : "Medan, Sumatera Utara",
+                "alamat": "Jalan Lapas",
+                "hobbi" : "Belajar",
+                "sosmed": "@dindanababan_",
+                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+            },
+            {
+                "nama"  : "Marleta Cornelia Leander",
+                "nim"   : "122450092",
+                "umur"  : "20",
+                "asal"  : "Depok, Jawa Barat",
+                "alamat": "Gang Nangka 3",
+                "hobbi" : "Review Jurnal",
+                "sosmed": "@marletacornelia",
+                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+            },
+            {
+                "nama"  : "Rut Junita Sari Siburian",
+                "nim"   : "122450103",
+                "umur"  : "20",
+                "asal"  : "Batam, Kepulauan Riau",
+                "alamat": "Gang Nangka 3",
+                "hobbi" : "Review Jurnal",
+                "sosmed": "@junitaa_0406",
+                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+            },
+            {
+                "nama"  : "Syadza Puspadari Azhar",
+                "nim"   : "122450072",
+                "umur"  : "20",
+                "asal"  : "Palembang",
+                "alamat": "Belwis",
+                "hobbi" : "Resume SG",
+                "sosmed": "@puspadrr",
+                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+            },
+            {
+                "nama"  : "Eggi satria",
+                "nim"   : "122450032",
+                "umur"  : "20",
+                "asal"  : "Sukabumi",
+                "alamat": "Korpri",
+                "hobbi" : "Ngoding WISATA",
+                "sosmed": "@egistr",
+                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+            },
+            {
+                "nama"  : "Febiya Jomy Pratiwi",
+                "nim"   : "122450074",
+                "umur"  : "20",
+                "asal"  : "Tulang Bawang",
+                "alamat": "Jalan Kelengkeng Raya",
+                "hobbi" : "Review jurnal",
+                "sosmed": "@pratiwifebiya",
+                "kesan" : "Sangat baik dan sangat mengasyikkan",  
+                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+            },
+             {
+                "nama"  : "Happy Syahrul Ramadhan",
+                "nim"   : "122450013",
+                "umur"  : "20",
+                "asal"  : "Lampung Timur",
+                "alamat": "Karang Anyar",
+                "hobbi" : "Main game",
+                "sosmed": "@sudo.syahrulramadhannn",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+            },
+            {
+                "nama"  : "Randa Andriana Putra",
+                "nim"   : "122450083",
+                "umur"  : "21",
+                "asal"  : "Banten",
+                "alamat": "Sukarame",
+                "hobbi" : "Tidur dan berkembang",
+                "sosmed": "@randaandriana_",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -652,31 +788,247 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=1MljWDhBILJNrwoJfNpNNyTcu5jrTquYT", #bang yogy
+            "https://drive.google.com/uc?export=view&id=1V-lxFNnfrDk6gXCHvnUFx1slmbqxNS9K", #kak ramadhita
+            "https://drive.google.com/uc?export=view&id=1FkO6wyYLAm0M1ek8wvdYQkq-m-kJNuOy", #kak nazwa
+            "https://drive.google.com/uc?export=view&id=1ujd_Turs6DZCtPxpniwzfhAwh4sjN8TG", #bang bastian
+            "https://drive.google.com/uc?export=view&id=1NLG3k08xu7pLiVA5ImEh5yIWRtcaJUPY", #kak dea
+            "https://drive.google.com/uc?export=view&id=1NVlILDNyi_PNOum301dm8xfQkzfdzPb7", #kak esteria
+            "https://drive.google.com/uc?export=view&id=1Elkt-G3l0yIBzzDJihXhLk2_DYdBazs3", #kak natasya ega
+            "https://drive.google.com/uc?export=view&id=1sQ429Li27bgW6f1lWFJUeNS-OpYw3pgu", #kak novelia
+            "https://drive.google.com/uc?export=view&id=1oGULYSi8HWvsZJwbqYWH0ZpmQ6EZcc4p", #kak jasmine
+            "https://drive.google.com/uc?export=view&id=1KuHI7klcfK0D9IqcNDrZt9hNiCAR_THH", #bang tobias
+            "https://drive.google.com/uc?export=view&id=1fOzSF8Kx0rfib9NK01t5GfB5FKc6MEXv", #kak yohana
+            "https://drive.google.com/uc?export=view&id=1eGtzmpieDaY684ZpX1H2ZPQ-iSKXWae5", #bang rizki
+            "https://drive.google.com/uc?export=view&id=1P7UtoxyDgLvJrVRE4EnOug5zTQcE0Mr0", #bang arafi
+            "https://drive.google.com/uc?export=view&id=1x98tb1__y1JyhP94aUnCnLNM_FH-DpiR", #kak uyi
+            "https://drive.google.com/uc?export=view&id=1VO-zctlzfA97qxnDNE-_lIwzr_ZBWmts", #kak chalifia
+            "https://drive.google.com/uc?export=view&id=1g6CMcQh8L4ABTczYUQ8rj8r0GzovMK8l", #bang irvan
+            "https://drive.google.com/uc?export=view&id=1kL0-Uhrzj-nDr74fTcGh5xhWEIULkD3x", #kak izza
+            "https://drive.google.com/uc?export=view&id=1u_GawpZIyxZx6iZykxcUGdBgxyN5G9EZ", #kak zuhrah
+            "https://drive.google.com/uc?export=view&id=1eBOt3gwU-oMFz_kHUDVWppL_Z43-ZoOi", #bang raid
+            "https://drive.google.com/uc?export=view&id=1rOCGe1e6_BmdqnxXSJBnvtYCe8XDFqEG", #kak tria
         ]
         data_list = [
             {
-                "nama"  : "Tri Murniya Ningsih",
-                "nim"   : "121450038",
-                "umur"  : "21",
-                "asal"  : "Bogor",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
-                "sosmed": "@trimurniyaa",
-                "kesan" : "kakaknya baik",  
-                "pesan" : "semoga lancar kuliahnya"
+                "nama"  : "Yogy Sae Tama",
+                "nim": "121450041",
+                "umur": "21 Tahun",
+                "asal": "Tangerang",
+                "alamat": "Jatimulyo",
+                "hobbi": "Bangun pagi",
+                "sosmed": "@yogyyyyyyy",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
-                "nama"  : "Annisa Cahyani Surya",
-                "nim"   : "121450114",
-                "umur"  : "21",
-                "asal"  : "Tanggerang Selatan",
+                "nama"  : "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21 Tahun",
+                "asal": "Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobbi": "Jalan - Jalan",
+                "sosmed": "@ramadhitaatifa",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+            },
+            {
+                "nama"  : "Nazwa Nabilla",
+                "nim": "121450122",
+                "umur": "21 Tahun",
+                "asal": "Jakarta Selatan",
+                "alamat": "Way kandis",
+                "hobbi": "Belajar",
+                "sosmed": "@nazwanbilla",
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+            },
+            {
+                "nama"  : "Bastian Heskia Silaban",
+                "nim": "122450130",
+                "umur": "21 Tahun",
+                "asal": "Batam, Kepulauan Riau",
+                "alamat": "Belwis",
+                "hobbi": "Main game",
+                "sosmed": "@bastiansilaban_",
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+            },
+            {
+                "nama"  : "Dea Mutia Risani",
+                "nim": "122450099",
+                "umur": "20 Tahun",
+                "asal": "Sumatera Barat",
+                "alamat": "Korpri",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@deaa.rsn",
+                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+            },
+            {
+                "nama"  : "Esteria Rohanauli Sidauruk",
+                "nim": "122450025",
+                "umur": "19 Tahun",
+                "asal": "Jakarta Selatan",
+                "alamat": "Belwis",
+                "hobbi": "Main golf bareng kadiv",
+                "sosmed": "@esteriars",
+                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+            },
+            {
+                "nama"  : "Natasya Ega Lina",
+                "nim": "122450024",
+                "umur": "19 Tahun",
+                "asal": "Jakarta Selatan",
+                "alamat": "Belwis",
+                "hobbi": "Jadi humas",
+                "sosmed": "@nateee__15",
+                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+            },
+            {
+                "nama"  : "Novelia Adinda",
+                "nim": "122450104",
+                "umur": "21 Tahun",
+                "asal": "Jakarta Timur",
+                "alamat": "Belwis",
+                "hobbi": "Tidur",
+                "sosmed": "@nvliaadinda",
+                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+            },
+            {
+                "nama"  : "Ratu Keisha Jasmine Deanova",
+                "nim": "122450106",
+                "umur": "20 Tahun",
+                "asal": "Jakarta Selatan",
+                "alamat": "Way Kandis",
+                "hobbi": "Main sepak takraw",
+                "sosmed": "@jasminednva",
+                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+            },
+            {
+                "nama"  : "Tobias David Manogari",
+                "nim": "122450091",
+                "umur": "20 Tahun",
+                "asal": "Sumatera Utara",
+                "alamat": "Pemda",
+                "hobbi": "Jogging",
+                "sosmed": "@tobiassiagian",
+                "kesan" : "Sangat baik dan sangat mengasyikkan",  
+                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+            },
+             {
+                "nama"  : "Yohana Manik",
+                "nim": "122450126",
+                "umur": "19 Tahun",
+                "asal": "Jakarta Selatan",
+                "alamat": "Belwais",
+                "hobbi": "Main Bowling",
+                "sosmed": "@yo_annamnk",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+            },
+            {
+                "nama"  : "Rizki Adrian Bennovry",
+                "nim": "121450073",
+                "umur": "21 Tahun",
+                "asal": "Bekasi",
+                "alamat": "TVRI",
+                "hobbi": "Bikin portofolio",
+                "sosmed": "@rzkdrnnn",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+            },
+            {
+                "nama"  : "Arafi Ramadhan Maulana",
+                "nim": "122450002",
+                "umur": "20 Tahun",
+                "asal": "Bandung",
                 "alamat": "Way Huwi",
-                "hobbi" : "Membaca, Nonton",
-                "sosmed": "@annisacahyanisurya",
-                "kesan" : "kakaknya ramah",  
-                "pesan" : "semoga kuliahnya lancar"
+                "hobbi": "Bertani",
+                "sosmed": "@rafiramadhanmaulana",
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+            },
+            {
+                "nama"  : "Asa Do'a Uyi",
+                "nim": "122450005",
+                "umur": "20 Tahun",
+                "asal": "Muara Enim",
+                "alamat": "Korpri",
+                "hobbi": "Tepuk Semangat",
+                "sosmed": "@u_yippy",
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+            },
+            {
+                "nama"  : "Chalifia Wananda",
+                "nim": "122450076",
+                "umur": "20 Tahun",
+                "asal": "Padang",
+                "alamat": "Sukarame",
+                "hobbi": "Q Time",
+                "sosmed": "@chlfawww",
+                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+            },
+            {
+                "nama"  : "Irvan Alfaritzi",
+                "nim": "122450093",
+                "umur": "21 Tahun",
+                "asal": "Sumatera Barat",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton youtube, main game",
+                "sosmed": "@alfaritziirvan",
+                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+            },
+            {
+                "nama"  : "Izza Lutfia",
+                "nim": "122450090",
+                "umur": "20 Tahun",
+                "asal": "Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Rubik",
+                "sosmed": "@izzalutfia",
+                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+            },
+            {
+                "nama"  : "Khaalishah Zuhrah Alyaa Vanefi",
+                "nim": "122450034",
+                "umur": "20 Tahun",
+                "asal": "Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobbi": "Mengaji",
+                "sosmed": "@alyaavanevi",
+                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+            },
+            {
+                "nama"  : "Raid Muhammad Naufal",
+                "nim": "122450027",
+                "umur": "20 Tahun",
+                "asal": "Lampung Tengah",
+                "alamat": "Sukarame",
+                "hobbi": "telat",
+                "sosmed": "@rayths_",
+                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+            },
+            {
+                "nama"  : "Tria Yunanni",
+                "nim": "122450062",
+                "umur": "20 Tahun",
+                "asal": "Way Kanan",
+                "alamat": "Sukarame",
+                "hobbi": "Baca Buku",
+                "sosmed": "@tria_y062",
+                "kesan" : "Sangat baik dan sangat mengasyikkan",  
+                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -851,31 +1203,117 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=1kw84ZeWxsIGi5SpaCQxDwi0ciZderNXm", #bang andrian
+            "https://drive.google.com/uc?export=view&id=10edVu6bQJajSGQ-SQIPqAlUACguP6Of_", #kak adisty
+            "https://drive.google.com/uc?export=view&id=1XFQ8uMKClueGRyuNawNW0Cc3_MMZ3UG1", #kak nabila
+            "https://drive.google.com/uc?export=view&id=1v32n9KWrMHk-GCYjKimvhe-bCpWM6Plu", #bang danang
+            "https://drive.google.com/uc?export=view&id=1UuAjREagT8a9qbIPPjBlpnbAHDVtiF9i", #bang farrel
+            "https://drive.google.com/uc?export=view&id=1mD9OjNBbBMQPgq_nrxcyJJOo__o4T3j6", #kak nabilah
+            "https://drive.google.com/uc?export=view&id=1j7nNfHcBJTmEFDmlvyMNsGucPeR-uQPv", #kak alvia
+            "https://drive.google.com/uc?export=view&id=14IvOGr1FKLUbdY3-E7bWmkK2lBC6SwnC", #bang dhafin
+            "https://drive.google.com/uc?export=view&id=1JseaxImcNGy9ncGJBe_i2gRKg_YPdNLH", #kak elia
+
+
         ]
         data_list = [
             {
-                "nama"  : "Tri Murniya Ningsih",
-                "nim"   : "121450038",
+                "nama"  : "Andrian Agustinus Lumban Gaol",
+                "nim"   : "121450090",
                 "umur"  : "21",
-                "asal"  : "Bogor",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
-                "sosmed": "@trimurniyaa",
-                "kesan" : "kakaknya baik",  
-                "pesan" : "semoga lancar kuliahnya"
+                "asal"  : "Sidikalang",
+                "alamat": "Dekat Penjara",
+                "hobbi" : "Lagi nyari",
+                "sosmed": "@andriangaol",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
-                "nama"  : "Annisa Cahyani Surya",
-                "nim"   : "121450114",
+                "nama"  : "Adisty Syawaida Ariyanto",
+                "nim"   : "121450136",
+                "umur"  : "22",
+                "asal"  : "Metro",
+                "alamat": "Sukarame ",
+                "hobbi" : "Nonton Film",
+                "sosmed": "@adistysa_",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+            },
+            {
+                "nama"  : "Nabila Azhari",
+                "nim"   : "121450029",
                 "umur"  : "21",
-                "asal"  : "Tanggerang Selatan",
-                "alamat": "Way Huwi",
-                "hobbi" : "Membaca, Nonton",
-                "sosmed": "@annisacahyanisurya",
-                "kesan" : "kakaknya ramah",  
-                "pesan" : "semoga kuliahnya lancar"
+                "asal"  : "Simalungun",
+                "alamat": "Airan ",
+                "hobbi" : "Menghitung Uang",
+                "sosmed": "@zhjung",
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+            },
+            {
+                "nama"  : "Danang Hilal Kurniawan",
+                "nim"   : "122450085",
+                "umur"  : "21",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Airan",
+                "hobbi" : "Belajar",
+                "sosmed": "@dananghk_",
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+            },
+            {
+                "nama"  : "Farrel Julio Akbar",
+                "nim"   : "122450110",
+                "umur"  : "20",
+                "asal"  : "Bogor",
+                "alamat": "Lapas",
+                "hobbi" : "Kayang",
+                "sosmed": "@farel_julio",
+                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+            },
+            {
+                "nama"  : "Nabilah Andika Fitriati",
+                "nim"   : "121450139",
+                "umur"  : "20",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Kedaton",
+                "hobbi" : "Tidur",
+                "sosmed": "@nabilahanftr",
+                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+            },
+            {
+                "nama"  : "Alvia Asrinda Br.Gintng",
+                "nim"   : "122450077",
+                "umur"  : "20",
+                "asal"  : "Binjai",
+                "alamat": "Korpri",
+                "hobbi" : "Nonton Winda",
+                "sosmed": "@alviagnting",
+                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+            },
+            {
+                "nama"  : "Dhafin Razaqa Luthfi",
+                "nim"   : "122450133",
+                "umur"  : "20",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi" : "Olahraga",
+                "sosmed": "@dhafinrzqa13",
+                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+            },
+            {
+                "nama"  : "Elia Meylani Simanjuntak",
+                "nim"   : "122450026",
+                "umur"  : "20",
+                "asal"  : "Bekasi",
+                "alamat": "Korpri",
+                "hobbi" : "Main Alat Musik",
+                "sosmed": "@meylanielia",
+                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -884,34 +1322,214 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Gp3hQ8LYJg7z7AOF9kZGpkS_N77shnzx",#lutfi
-            "https://drive.google.com/uc?export=view&id=1GZcOioJlC000XyfktJYUR2QJnDWhAuuM",#bintang
+            "https://drive.google.com/uc?export=view&id=1eq4blpsbenfJIENZrMgtTzma7kLlzrOg", #bang wahyu
+            "https://drive.google.com/uc?export=view&id=1T9T6-pMGe1gC7HFJNfvO4ExrIoY-EsQ_", #kak elok
+            "https://drive.google.com/uc?export=view&id=1Y5zmvGqLR0fY-DaQsx4il5dcRGx9wUa-", #kak arsyiah
+            "https://drive.google.com/uc?export=view&id=1aa-Qz7CaFfpH-Nkn4psWO9u6ohWKMYaP", #kak cintya
+            "https://drive.google.com/uc?export=view&id=1aLTdoCnDH11-t9O-vojucjvzfFi_eFdu", #kak najla
+            "https://drive.google.com/uc?export=view&id=1Xc-rtFu5EOOJ2akCzAvtNxbqVYLwirBf", #kak rahma
+            "https://drive.google.com/uc?export=view&id=1g-QqdzDBX5SXCAyH0fVU6jKD29IAqT_w", #kak try yani
+            "https://drive.google.com/uc?export=view&id=1-TzTaZOKZM-UX56HriYQeoIppfcxIi-P", #bang kaisar
+            "https://drive.google.com/uc?export=view&id=17_-J47YblIHp2VPjJ6OYrWEfshWO65tN", #kak dwi
+            "https://drive.google.com/uc?export=view&id=1PJWkVLXlh7QBUtw7-Cyx9OVqo7Ojh0QL", #bang gym
+            "https://drive.google.com/uc?export=view&id=1tBXSaQr1r-nNO7oYZ0zQD8CmW2NasYxk", #kak nasywa
+            "https://drive.google.com/uc?export=view&id=1UpvTijR-dXQpEBAKpIMXCK4K9ISrhWNF", #kak priska
+            "https://drive.google.com/uc?export=view&id=1YdWvLkBXSzMpaJZ--lpPtnZcND4g7TE8", #bang arsal
+            "https://drive.google.com/uc?export=view&id=1hhIBfQs8VrgWmxhuLRmRhlXgQ-Pih0KP", #bang abit
+            "https://drive.google.com/uc?export=view&id=1nXhIImeCa6ymVJZ1DvYVdhTVPpjaMOM6", #bang akmal
+            "https://drive.google.com/uc?export=view&id=103iD82xMCvOs2eFNPp7FO9D6vK-Qequ_", #bang hermawan
+            "https://drive.google.com/uc?export=view&id=1fSQtF0Y5-s3fs-8citD1rweBYd9zhWCb", #kak nisa
         ]
         data_list = [
             {
-                "nama"  : "Tri Murniya Ningsih",
-                "nim"   : "121450038",
-                "umur"  : "21",
-                "asal"  : "Bogor",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
-                "sosmed": "@trimurniyaa",
-                "kesan" : "kakaknya baik",  
-                "pesan" : "semoga lancar kuliahnya"
+                "nama"  : "Wahyudiyanto",
+                "nim"   : "121450040",
+                "umur"  : "22",
+                "asal"  : "Makassar ",
+                "alamat": "Sukarame",
+                "hobbi" : "Menonton Film",
+                "sosmed": "@",
+                "kesan" : "Sangat baik, sosok yang positif dan memberikan banyak hal dan motivasi dari berbagai pengalamannya",  
+                "pesan" : "Tetap semangat dan sehat selalu dalam menjalani setiap kegiatan himpunan dan tugas tanggung jawab yang diberikan"
             },
             {
-                "nama"  : "Annisa Cahyani Surya",
-                "nim"   : "121450114",
+                "nama"  : "Elok Fiola",
+                "nim"   : "122450051",
+                "umur"  : "19",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi" : "Editing",
+                "sosmed": "@elokfiola",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+            },
+            {
+                "nama"  : "Arsyiah Azahra",
+                "nim"   : "121450035",
                 "umur"  : "21",
-                "asal"  : "Tanggerang Selatan",
-                "alamat": "Way Huwi",
-                "hobbi" : "Membaca, Nonton",
-                "sosmed": "@annisacahyanisurya",
-                "kesan" : "kakaknya ramah",  
-                "pesan" : "semoga kuliahnya lancar"
+                "asal"  : "Bandar Lampung",
+                "alamat": "Tanjung Senang",
+                "hobbi" : "Nugas",
+                "sosmed": "@arsyiah.__",
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+            },
+            {
+                "nama"  : "Cintya Bella",
+                "nim"   : "122450066",
+                "umur"  : "20",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Teluk",
+                "hobbi" : "Ngegym",
+                "sosmed": "@cintyabella28",
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+            },
+            {
+                "nama"  : "Najla Juwairia",
+                "nim"   : "122450037",
+                "umur"  : "19",
+                "asal"  : "Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi" : "Menulis, Membaca, Fangirling",
+                "sosmed": "@nanana_minjoo",
+                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+            },
+            {
+                "nama"  : "Rahma Neliyana",
+                "nim"   : "122450036",
+                "umur"  : "20",
+                "asal"  : "Lampung",
+                "alamat": "Sukarame",
+                "hobbi" : "Baca Coding",
+                "sosmed": "@rahmanellyana",
+                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+            },
+            {
+                "nama"  : "Try Yani Rizki Nur Rohmah",
+                "nim"   : "122450020",
+                "umur"  : "20",
+                "asal"  : "Lampung Barat",
+                "alamat": "Korpri",
+                "hobbi" : "Bernyanyi dan Menonton",
+                "sosmed": "@tryyaniciaaa",
+                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+            },
+            {
+                "nama"  : "Muhammad Kaisar Firdaus",
+                "nim"   : "121450135",
+                "umur"  : "21",
+                "asal"  : "Pesawaran",
+                "alamat": "Pulau Damar",
+                "hobbi" : "Lagi nyari",
+                "sosmed": "@dino_lapet",
+                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+            },
+            {
+                "nama"  : "Dwi Ratna Anggraeni",
+                "nim"   : "122450008",
+                "umur"  : "20",
+                "asal"  : "Jambi",
+                "alamat": "Jalan Durian 5 Pemda",
+                "hobbi" : "Membaca",
+                "sosmed": "@dwiratnn_",
+                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+            },
+            {
+                "nama"  : "Gymnastiar Al Khoarizmy",
+                "nim"   : "122450096",
+                "umur"  : "20",
+                "asal"  : "Serang",
+                "alamat": "Lapangan Golf UIN",
+                "hobbi" : "Baca komik",
+                "sosmed": "@jimnn.as",
+                "kesan" : "Sangat baik dan sangat mengasyikkan",  
+                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+            },
+             {
+                "nama"  : "Nasywa Nur Afifah",
+                "nim"   : "122450125",
+                "umur"  : "20",
+                "asal"  : "Bekasi",
+                "alamat": "Jalan Durian 1 Pemda",
+                "hobbi" : "Nonton drakor",
+                "sosmed": "@nsywanaf",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+            },
+            {
+                "nama"  : "Priska Silvia Ferantiana",
+                "nim"   : "122450053",
+                "umur"  : "19",
+                "asal"  : "Palembang",
+                "alamat": "Jalan Nangka 2",
+                "hobbi" : "Baca novel yang bikin nangis",
+                "sosmed": "@prskslv",
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+            },
+            {
+                "nama"  : "Muhammad Arsal Ranjana Utama",
+                "nim"   : "121450111",
+                "umur"  : "21",
+                "asal"  : "Depok",
+                "alamat": "Jalan Nangka 4",
+                "hobbi" : "Ngoding",
+                "sosmed": "@arsal.utama",
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+            },
+            {
+                "nama"  : "Abit Ahmad Oktarian",
+                "nim"   : "122450042",
+                "umur"  : "19",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobbi" : "Ngoding, Gaming",
+                "sosmed": "@abitahmad",
+                "kesan" : "Sosok yang positif dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Teruslah menjadi kakak yang menginspirasi kami semua, tetap semangat kak dalam menjalani perkuliahannya"
+            },
+            {
+                "nama"  : "Akmal Faiz Abdillah",
+                "nim"   : "122450114",
+                "umur"  : "20",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Perumahan Griya Sukarame",
+                "hobbi" : "Main HP",
+                "sosmed": "@_akmal.faiz",
+                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+            },
+            {
+                "nama"  : "Hermawan Manurung",
+                "nim"   : "122450069",
+                "umur"  : "20",
+                "asal"  : "Bogor",
+                "alamat": "Dekat jalan tol, Wisma Hana Hani",
+                "hobbi" : "Bengong dan membaca buku",
+                "sosmed": "@hermawan.mnrng",
+                "kesan" : "Sangat menginspirasi kami, baik, asyik dan lucu",  
+                "pesan" : "Tetaplah menjadi sosok yang positif dan inspiratif dan tetap semangat kak dalam menjalani perkuliahan"
+            },
+            {
+                "nama"  : "Khusnun Nisa",
+                "nim"   : "122450078",
+                "umur"  : "20",
+                "asal"  : "Lampung Selatan",
+                "alamat": "Belwis",
+                "hobbi" : "Mengerjakan tugas",
+                "sosmed": "@khusnun_nisa335",
+                "kesan" : "Sangat baik, lucu dan mengasyikkan",  
+                "pesan" : "Semangat selalu dalam menjalani perkuliahannya kak"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
 # Tambahkan menu lainnya sesuai kebutuhan
-# Tambahkan menu lainnya sesuai kebutuhan
+
