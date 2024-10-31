@@ -21,10 +21,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
             "Departemen MEDKRAF",
-=======
->>>>>>> dfddbe5a6e75ce23cc2275d965a384525f891e6b
+=========
+>>>>>>>>> Temporary merge branch 2
         ],
         icons=[
             "people-fill",

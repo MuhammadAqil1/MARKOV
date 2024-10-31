@@ -307,7 +307,7 @@ elif menu == "Baleg":#Kesan dan pesan sudah selesai
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
-elif menu == "Senator":
+elif menu == "Senator":#Kesan dan Pesan sudah selesai
     def senator():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ElGWcygCJvPwrK4mrQfOVokU1BKtyv6Q", #kak lutfi
@@ -322,8 +322,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu",
                 "hobbi" : "Mendengarkan bang Bintang dengerin lagu",
                 "sosmed": "@anissaluthfi_",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Kakak ini menjelaskan dengan sangat jelas dan detail",  
+                "pesan" : "Semangat terus kak menjalani tugas sebagai Senator"
             },
             {
                 "nama"  : "Rian Bintang Wijaya",
@@ -333,8 +333,8 @@ elif menu == "Senator":
                 "alamat": "Kota Baru",
                 "hobbi" : "Mendengar Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Abang ini sangat bisa diandalkan",  
+                "pesan" : "Semoga sukses terus bang"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
