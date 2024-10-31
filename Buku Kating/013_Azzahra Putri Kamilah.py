@@ -1522,7 +1522,7 @@ elif menu == "Departemen SSD":
                 "hobbi" : "Main Alat Musik",
                 "sosmed": "@meylanielia",
                 "kesan" : "kakaknya lucu dan cantik sekali masyaallah",  
-                "pesan" : "tetap selalu tersenyum ya kak, jangan lupa jaga kesehatan"
+                "pesan" : "tetap selalu tersenyum kak, jangan lupa jaga kesehatan"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
