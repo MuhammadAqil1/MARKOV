@@ -96,7 +96,7 @@ def display_images_with_data(gambar_urls, data_list):
 menu = streamlit_menu()
 
 # BAGIAN SINI YANG HANYA BOLEH DIUABAH
-if menu == "Kesekjenan":
+if menu == "Kesekjenan":#Kesan dan Pesan sudah
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1PTrO8ors28_jtYNbO9Zpt2fse_mnGKme",
@@ -177,7 +177,7 @@ if menu == "Kesekjenan":
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
 
-elif menu == "Baleg":
+elif menu == "Baleg":#Kesan dan pesan sudah selesai
     def baleg():
         gambar_urls = [
             
@@ -201,8 +201,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "Baik dan lucu",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kakak ini ramah",  
+                "pesan" : "Semangat terus kak kuliahnya"
             },
             {
                 "nama"  : "Annisa Cahyani Surya",
@@ -212,8 +212,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini murah senyum",  
+                "pesan" : "Semoga sukses terus ya kak"
             },
             {
                 "nama"  : "Wulan Sabina",
@@ -223,8 +223,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini keren",  
+                "pesan" : "Semangat menjalani tugas-tugasnya kak"
             },
             {
                 "nama"  : "Annisa Dini Amaliya",
@@ -234,8 +234,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "vibe kakak positif",  
+                "pesan" : "Semangat kakak dalam organisasi"
             },
             {
                 "nama"  : "Anisa Fitriyani",
@@ -245,8 +245,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kesannya profesional",  
+                "pesan" : "Semangat kak membimbing adik-adiknya"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -256,8 +256,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat bang"
+                "kesan" : "kakak ini ganteng",  
+                "pesan" : "Semangat kuliahnya bang semoga cepat lulus"
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -267,8 +267,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kakak ini memancarkan positif",  
+                "pesan" : "Semangat kuliahnya lancar"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -278,8 +278,8 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat bang"
+                "kesan" : "Abang ini asik",  
+                "pesan" : "Semoga lulus kuliah dengan ipk yang memuaskan"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -289,8 +289,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini pendiam",  
+                "pesan" : "Semangat kak jangan putus semangat"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -300,8 +300,8 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat bang"
+                "kesan" : "Abang ini keren",  
+                "pesan" : "Semangat bang terus bang kuliahnya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
