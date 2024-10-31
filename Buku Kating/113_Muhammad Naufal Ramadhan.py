@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan" : "Seseorang yang hebat",  
-                "pesan" :"Semangat bang"
+                "kesan" : "Kakak ini hebat",  
+                "pesan" :"Semangat kuliahnya bang"
             },
             {
                 "nama"  : "Pandra Insani Putra Azwan",
@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan" : "kak pandra orangnya asik",  
-                "pesan" : "Semangat Kuliahnya bang"
+                "kesan" : "Bang Pandra orangnya lucu dan seru",  
+                "pesan" : "Semangat bang ngerjain ttugas-tugasnya"
             },
             {
                 "nama"  : "Meliza Wulandari",
@@ -137,8 +137,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kak Meliza asik",  
+                "pesan" : "Semoga sukses ya kak"
             },
             {
                 "nama"  : "Putri Maulida Chairani",
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi" : "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kakaknya keren",  
+                "pesan" : "Semangat terus kak"
             },
             {
                 "nama"  : "Hartiti Fadilah",
@@ -159,8 +159,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi" : "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakaknya asik dan lucu",  
+                "pesan" : "Semangat kak semoga cepat lulus kuliah dengan ipk yang memuaskan"
             },
             {
                 "nama"  : "Nadilla Andara Putri",
@@ -170,8 +170,8 @@ if menu == "Kesekjenan":
                 "alamat": "KotaBaru",
                 "hobbi" : "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan" : "baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini ramah",  
+                "pesan" : "Semangat kak menjalankan tugas-tugasnya semoga berjalan dengan baik"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
