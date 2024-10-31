@@ -386,7 +386,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Memancing keributan",
                 "sosmed": "@celisabethh_",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "kesan" : "Sangat ramah dan baik hati",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
@@ -397,7 +397,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Nabok orang",
                 "sosmed": "@afifahhnsrn",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "kesan" : "Sangat baik dan informatif dalam menerangkan suatu permasalahan",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
@@ -408,7 +408,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gang Perwira, Belwis",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@allyaislami_",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -430,7 +430,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan Senopati Raya 18",
                 "hobbi" : "Dengerin Rocky Gerung",
                 "sosmed": "@ferdy_kevin",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "kesan" : "Sangat menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
@@ -452,7 +452,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Hui",
                 "hobbi" : "Memasak",
                 "sosmed": "@_oktavianrwnda_",
-                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat seru dan baik hati",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
@@ -507,7 +507,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobbi" : "Belajar",
                 "sosmed": "@lnrd.__",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "kesan" : "Sangat baik dan ramah ",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
@@ -518,7 +518,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kota Baru",
                 "hobbi" : "Tidur",
                 "sosmed": "@presiliamg",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Sangat baik hati dan ramah",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -540,7 +540,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Airan Raya",
                 "hobbi" : "Bermain Game",
                 "sosmed": "@sahid_maul19",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "kesan" : "Baik hati",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
@@ -562,7 +562,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kota Baru",
                 "hobbi" : "Menolong",
                 "sosmed": "@mfarhan.ath",
-                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat seru dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
@@ -573,7 +573,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri Raya",
                 "hobbi" : "Belajar dan main game",
                 "sosmed": "@gedemoenaa",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
@@ -584,7 +584,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri",
                 "hobbi" : "Berenang",
                 "sosmed": "@jaclinalcv_",
-                "kesan" : "Sangat baik dan sangat mengasyikkan",  
+                "kesan" : "Sangat baik dan informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
             {
@@ -595,7 +595,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Main Game",
                 "sosmed": "@raflyy_pd2684",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
@@ -606,7 +606,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Membaca",
                 "sosmed": "@syalaisha.i__",
-                "kesan" : "Sangat baik dan sangat mengasyikkan",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
         ]
@@ -640,7 +640,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jalan Nangka 4",
                 "hobbi" : "Olahraga",
                 "sosmed": "@rafadhilillah",
-                "kesan" : "h13Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
@@ -662,7 +662,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobbi" : "Olahraga",
                 "sosmed": "@sahid22__",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "kesan" : "Banyak memberikan motivasi",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
@@ -684,7 +684,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gang Yudhistira",
                 "hobbi" : "Baca jurnal",
                 "sosmed": "@dkselsd_31",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Sangat baik hati dan ramah",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -695,7 +695,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jalan Lapas",
                 "hobbi" : "Belajar",
                 "sosmed": "@dindanababan_",
-                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "kesan" : "Menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
             },
             {
@@ -706,7 +706,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gang Nangka 3",
                 "hobbi" : "Review Jurnal",
                 "sosmed": "@marletacornelia",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "kesan" : "Baik hati dan sangat menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
@@ -761,7 +761,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Karang Anyar",
                 "hobbi" : "Main game",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "kesan" : "Baik dan ramah",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
@@ -772,7 +772,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobbi" : "Tidur dan berkembang",
                 "sosmed": "@randaandriana_",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "kesan" : "Banyak memberikan motivasi melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
 
@@ -843,7 +843,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Teluk",
                 "hobbi" : "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Baik hati dan ramah sekali",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -865,7 +865,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobbi" : "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "kesan" : "Sangat menginspirasi dalam kehidupan dan sangat baik hati ",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
@@ -876,7 +876,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Korpri",
                 "hobbi" : "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "kesan" : "Sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
             {
@@ -887,7 +887,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Pulau Damar",
                 "hobbi" : "Lagi nyari",
                 "sosmed": "@dino_lapet",
-                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat seru, mengasyikkan, dan informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
@@ -898,7 +898,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 5 Pemda",
                 "hobbi" : "Membaca",
                 "sosmed": "@dwiratnn_",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
@@ -920,7 +920,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@nsywanaf",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "kesan" : "Sangat ramah dan mengasyikkan",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
@@ -931,7 +931,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Nangka 2",
                 "hobbi" : "Baca novel yang bikin nangis",
                 "sosmed": "@prskslv",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "kesan" : "Baik hati dan ramah",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
@@ -953,7 +953,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Rajabasa",
                 "hobbi" : "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat seru",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -975,7 +975,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Dekat jalan tol, Wisma Hana Hani",
                 "hobbi" : "Bengong dan membaca buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "kesan" : "Sangat menginspirasi dalam kehidupan melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
@@ -986,7 +986,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Belwis",
                 "hobbi" : "Mengerjakan tugas",
                 "sosmed": "@khusnun_nisa335",
-                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "kesan" : "Sangat baik, mengasyikkan, dan seru ",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
         ]
@@ -1048,7 +1048,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way kandis",
                 "hobbi": "Belajar",
                 "sosmed": "@nazwanbilla",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "kesan" : "Sangat baik, ramah, dan, informatif dalam menerangkan suatu permasalahan",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
@@ -1059,7 +1059,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main game",
                 "sosmed": "@bastiansilaban_",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Sangat tegas, namun sangat informatif dalam menerangkan sesuatu",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -1070,7 +1070,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
-                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
             },
             {
@@ -1081,7 +1081,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "kesan" : "Banyak memberi masukan dan sangat menginspirasi dalam kehidupan ",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
@@ -1103,7 +1103,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat seru, ramah, dan  baik hati",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
@@ -1114,7 +1114,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Kandis",
                 "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Informatif dalam menjelaskan sesuatu, baik hati, dan banyak memberi masukan serta motivasi",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
@@ -1136,7 +1136,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "kesan" : "Sangat baik dan banyak memberi masukan serta semangat",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
@@ -1147,7 +1147,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "kesan" : "Sangat seru dan mengasyikkan",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
@@ -1158,7 +1158,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Huwi",
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
@@ -1169,7 +1169,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -1180,7 +1180,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
             },
             {
@@ -1202,7 +1202,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
-                "kesan" : "Sangat baik dan sangat mengasyikkan ",  
+                "kesan" : "Sangat baik, banyak memberi masukan serta semangat melalui pengalaman yang telah dilakukan ",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
             },
             {
@@ -1213,7 +1213,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
-                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat seru dan mengasyikan",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
@@ -1292,7 +1292,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan Dalam (Untung)",
                 "hobbi" : "Suka kucing tapi gak suka ngurusnya",
                 "sosmed": "@akbar_resdika",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
@@ -1302,7 +1302,7 @@ elif menu == "Departemen Internal":
                 "asal"  : "Kota Metro",
                 "alamat": "Rajabasa",
                 "hobbi" : "Dengar musik",
-                "sosmed": "@ranniu",
+                "sosmed": "@rannipu",
                 "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
@@ -1358,7 +1358,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Natar",
                 "hobbi" : "Berkebun",
                 "sosmed": "@azizahksma15",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
             {
@@ -1380,7 +1380,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Kost Benawang",
                 "hobbi" : "Menyanyi",
                 "sosmed": "@rexander",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
+                "kesan" : "Sangat baik dan dapat memberi masukan",  
                 "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
@@ -1391,7 +1391,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi" : "Membaca dan Memancing",
                 "sosmed": "@renta.shn",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "kesan" : "Baik hati dan ramah",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
@@ -1402,7 +1402,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi" : "Menonton",
                 "sosmed": "@josuapanggabean_",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
         ]
@@ -1444,7 +1444,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame ",
                 "hobbi" : "Nonton Film",
                 "sosmed": "@adistysa_",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "kesan" : "Sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
             },
             {
@@ -1455,7 +1455,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan ",
                 "hobbi" : "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "kesan" : "Sangat baik dan informatif dalam menerangkan suatu permasalahan",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
@@ -1466,7 +1466,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi" : "Belajar",
                 "sosmed": "@dananghk_",
-                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "kesan" : "Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi melalui pengalaman yang telah dilakukan",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
@@ -1477,7 +1477,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobbi" : "Kayang",
                 "sosmed": "@farel_julio",
-                "kesan" : "Sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "kesan" : "Sangat baik dan sangat mengasyikan",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
             },
             {
@@ -1488,7 +1488,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi" : "Tidur",
                 "sosmed": "@nabilahanftr",
-                "kesan" : "Sangat menginspirasi dalam kehidupan ",  
+                "kesan" : "Sangat baik hati dan ramah",  
                 "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
@@ -1510,7 +1510,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Bandar Lampung",
                 "hobbi" : "Olahraga",
                 "sosmed": "@dhafinrzqa13",
-                "kesan" : "Sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat seru dalam memberi penjelasan",  
                 "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
             },
             {
@@ -1521,7 +1521,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi" : "Main Alat Musik",
                 "sosmed": "@meylanielia",
-                "kesan" : "Sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "kesan" : "Sangat baik dan ramah",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
             },
         ]
