@@ -96,7 +96,7 @@ def display_images_with_data(gambar_urls, data_list):
 menu = streamlit_menu()
 
 # BAGIAN SINI YANG HANYA BOLEH DIUABAH
-if menu == "Kesekjenan":
+if menu == "Kesekjenan":#Kesan dan Pesan sudah
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1PTrO8ors28_jtYNbO9Zpt2fse_mnGKme",
@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan" : "Seseorang yang hebat",  
-                "pesan" :"Semangat bang"
+                "kesan" : "Kakak ini hebat",  
+                "pesan" :"Semangat kuliahnya bang"
             },
             {
                 "nama"  : "Pandra Insani Putra Azwan",
@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan" : "kak pandra orangnya asik",  
-                "pesan" : "Semangat Kuliahnya bang"
+                "kesan" : "Bang Pandra orangnya lucu dan seru",  
+                "pesan" : "Semangat bang ngerjain ttugas-tugasnya"
             },
             {
                 "nama"  : "Meliza Wulandari",
@@ -137,8 +137,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kak Meliza asik",  
+                "pesan" : "Semoga sukses ya kak"
             },
             {
                 "nama"  : "Putri Maulida Chairani",
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi" : "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kakaknya keren",  
+                "pesan" : "Semangat terus kak"
             },
             {
                 "nama"  : "Hartiti Fadilah",
@@ -159,8 +159,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi" : "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakaknya asik dan lucu",  
+                "pesan" : "Semangat kak semoga cepat lulus kuliah dengan ipk yang memuaskan"
             },
             {
                 "nama"  : "Nadilla Andara Putri",
@@ -170,14 +170,14 @@ if menu == "Kesekjenan":
                 "alamat": "KotaBaru",
                 "hobbi" : "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan" : "baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini ramah",  
+                "pesan" : "Semangat kak menjalankan tugas-tugasnya semoga berjalan dengan baik"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
 
-elif menu == "Baleg":
+elif menu == "Baleg":#Kesan dan pesan sudah selesai
     def baleg():
         gambar_urls = [
             
@@ -201,8 +201,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "Baik dan lucu",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kakak ini ramah",  
+                "pesan" : "Semangat terus kak kuliahnya"
             },
             {
                 "nama"  : "Annisa Cahyani Surya",
@@ -212,8 +212,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini murah senyum",  
+                "pesan" : "Semoga sukses terus ya kak"
             },
             {
                 "nama"  : "Wulan Sabina",
@@ -223,8 +223,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini keren",  
+                "pesan" : "Semangat menjalani tugas-tugasnya kak"
             },
             {
                 "nama"  : "Annisa Dini Amaliya",
@@ -234,8 +234,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "vibe kakak positif",  
+                "pesan" : "Semangat kakak dalam organisasi"
             },
             {
                 "nama"  : "Anisa Fitriyani",
@@ -245,8 +245,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kesannya profesional",  
+                "pesan" : "Semangat kak membimbing adik-adiknya"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -256,8 +256,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat bang"
+                "kesan" : "kakak ini ganteng",  
+                "pesan" : "Semangat kuliahnya bang semoga cepat lulus"
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -267,8 +267,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "kakak ini memancarkan positif",  
+                "pesan" : "Semangat kuliahnya lancar"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -278,8 +278,8 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat bang"
+                "kesan" : "Abang ini asik",  
+                "pesan" : "Semoga lulus kuliah dengan ipk yang memuaskan"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -289,8 +289,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat kak"
+                "kesan" : "Kakak ini pendiam",  
+                "pesan" : "Semangat kak jangan putus semangat"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -300,14 +300,14 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "Baik",  
-                "pesan" : "Semangat bang"
+                "kesan" : "Abang ini keren",  
+                "pesan" : "Semangat bang terus bang kuliahnya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
-elif menu == "Senator":
+elif menu == "Senator":#Kesan dan Pesan sudah selesai
     def senator():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ElGWcygCJvPwrK4mrQfOVokU1BKtyv6Q", #kak lutfi
@@ -322,8 +322,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu",
                 "hobbi" : "Mendengarkan bang Bintang dengerin lagu",
                 "sosmed": "@anissaluthfi_",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Kakak ini menjelaskan dengan sangat jelas dan detail",  
+                "pesan" : "Semangat terus kak menjalani tugas sebagai Senator"
             },
             {
                 "nama"  : "Rian Bintang Wijaya",
@@ -333,8 +333,8 @@ elif menu == "Senator":
                 "alamat": "Kota Baru",
                 "hobbi" : "Mendengar Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Abang ini sangat bisa diandalkan",  
+                "pesan" : "Semoga sukses terus bang"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -997,26 +997,26 @@ elif menu == "Departemen MEDKRAF":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1sWOBFSt1-F1zoryil5Fx3MVQ4ISFFQbJ", #bang yogy dn
-            "https://drive.google.com/uc?export=view&id=1oOIMQ0G-VwkwZ__1bC9Xeo2DH5uh3EMH", #kak ramadhita dn
+            "https://drive.google.com/uc?export=view&id=1MKZog11Em9eBmhkMIrPFLYnuS04JAzLm", #bang yogy dn1
+            "https://drive.google.com/uc?export=view&id=1MMAoQvGuz5jOXkkprOasPmjXZusLp8Xf", #kak ramadhita dn1
             "https://drive.google.com/uc?export=view&id=1Nyz-GQvzqXEK7dTe5UWIpI5WZPh48bl6", #kak nazwa dn1
-            "https://drive.google.com/uc?export=view&id=1yo8Y_EeHC8G9r-FeV55-9960M8VY7vVA", #bang bastian dn
-            "https://drive.google.com/uc?export=view&id=1IRloQPTpKQ0zqdYOH0RrXFgxeQ7MlkU8", #kak dea dn
+            "https://drive.google.com/uc?export=view&id=1NcKRI4kz8h9LeaE7NrUm0iMl6SyBH6bO", #bang bastian dn1
+            "https://drive.google.com/uc?export=view&id=1OLVezYCP62ROAu059b8fRpb-mIMsmirj", #kak dea dn1
             "https://drive.google.com/uc?export=view&id=1O0TZkX-i992YhjytYTijrywfPdbSrPlb", #kak esteria dn1
-            "https://drive.google.com/uc?export=view&id=19PFCwdrENV4r_lKjj1gbg7uN6SQVLv0v", #kak natasya ega dn
+            "https://drive.google.com/uc?export=view&id=1O0G1nSf1m8_IjA_RhGOZFsk18LBzkGTJ", #kak natasya ega dn1
             "https://drive.google.com/uc?export=view&id=1NmThtVbH0oCzKqh4TubWXUQIZQ9g5594", #kak novelia dn1
-            "https://drive.google.com/uc?export=view&id=15hDSaPPfJpbErrvlASkZLaKI-D8MpUHR", #kak jasmine dn
-            "https://drive.google.com/uc?export=view&id=1RiVFJJA5Rp-BK9pQW57qzpvgnJxm8PCz", #bang tobias dn
-            "https://drive.google.com/uc?export=view&id=1QSt1-YwV664MAtOfVkvYBsEXDJ1JGGr-", #kak yohana dn
-            "https://drive.google.com/uc?export=view&id=14PsVGxbFgzivV34_5h5zasCsWy5PHVk5", #bang rizki dn
-            "https://drive.google.com/uc?export=view&id=1_jhcd9O11tq7Qj-SuLbyZ9kVuFbmmY7z", #bang arafi dn
-            "https://drive.google.com/uc?export=view&id=12WU7Pg9za_lrxhxNmBEG53Ea411MkJfu", #kak uyi dn
-            "https://drive.google.com/uc?export=view&id=1cOrwwVrrwtXhEuNBoc8GMsio0RrGDja0", #kak chalifia dn
-            "https://drive.google.com/uc?export=view&id=1E6GXxvBauz1qyPwN48S9-uJXwczBa-JK", #bang irvan dn
-            "https://drive.google.com/uc?export=view&id=1vQxJkLeFBN8PwwSBAdvZ9YdYlV51f34F", #kak izza dn
-            "https://drive.google.com/uc?export=view&id=1E85NscnViNz3uH-MIRtgUDSUHyjcGNJ1", #kak zuhrah dn
-            "https://drive.google.com/uc?export=view&id=1BaPPwXFONK7OyxP7Ur6YmWc7sNdjVO_9", #bang raid dn
-            "https://drive.google.com/uc?export=view&id=1slu-o22MSwKg_BP5JDOUdvjbzAyaWNS7", #kak tria dn
+            "https://drive.google.com/uc?export=view&id=1OcpKQziE2cDVgOvLDSZRunHIfK0xbHvv", #kak jasmine dn1
+            "https://drive.google.com/uc?export=view&id=1Ne_YKKiaChfpMpt6w75O9jXfF_ybS_W4", #bang tobias dn1
+            "https://drive.google.com/uc?export=view&id=1OZgcohUpmlfcnliWLp5YoOw2H9WH_6I6", #kak yohana dn1
+            "https://drive.google.com/uc?export=view&id=1PKuhxcxPy_TfQJmT5iISHRKktnqKxCx8", #bang rizki dn1
+            "https://drive.google.com/uc?export=view&id=1MUHgePoav5npMCNBAHTP_15YU8nLdab3", #bang arafi dn1
+            "https://drive.google.com/uc?export=view&id=1P6JB27F1yeaLp1HXjDnLxMoqRT6RaanV", #kak uyi dn1
+            "https://drive.google.com/uc?export=view&id=1ILdHALKB_KU_rl1I8iK4uTwKT3tk8DOU", #kak chalifia dn1
+            "https://drive.google.com/uc?export=view&id=1NUtjz0C5hGd3LXqEHoerFGyjtoKOKNPf", #bang irvan dn1
+            "https://drive.google.com/uc?export=view&id=1MIOtduUnqVm8rIdxL0t3oLajtNhrVS-C", #kak izza dn1
+            "https://drive.google.com/uc?export=view&id=1N2iRRLQRDoNPKlqQOVFoJ6VsH4ZzeiCb", #kak zuhrah dn1
+            "https://drive.google.com/uc?export=view&id=1MZqNa-8nHmVv2fbXFuXql-3bd5lh0WmK", #bang raid dn1
+            "https://drive.google.com/uc?export=view&id=1NJ-0t3RtXyxms667D1yqiNBp7e_OMws_", #kak tria dn1
         ]
         data_list = [
             {
@@ -1246,19 +1246,19 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1txdHsmKrEwVGkKJF7DZiTDqQHoRaNPK0", #bang dimas dn
-            "https://drive.google.com/uc?export=view&id=1x4IwnZxnwCZkekqXZsHZnDO6pm55S8fr", #kak catherine dn
-            "https://drive.google.com/uc?export=view&id=1oLVtYjMqotS-DXtBwiPj1viFBCiE-Jdc", #bang akbar dn
-            "https://drive.google.com/uc?export=view&id=1rK8NJtN6iDFdHZRlihDigY5315ZwoQ_3", #kak rani dn
-            "https://drive.google.com/uc?export=view&id=1pHuguAttxSiw6Oo7WhSQXeBsvZpEm1Le", #bang rendra dn
-            "https://drive.google.com/uc?export=view&id=1KZM9kZbB9MCjxL2ATgrucsp8hvZcJ4wZ", #kak salwa dn
-            "https://drive.google.com/uc?export=view&id=1cVzF1zzuyMCqqr049_b_Ii8C90VSzTtU", #bang yosia dn
-            "https://drive.google.com/uc?export=view&id=1BNxQt_4lPak5sUXf_EpaJH6SPMfahXBy", #bang ari dn
-            "https://drive.google.com/uc?export=view&id=1pTcPeRLCemnj8cQtaJemPaNbOXnhT9A8", #kak azizah dn
-            "https://drive.google.com/uc?export=view&id=1JtfQ_TAhrVvbEW9hgy5or0_MRzgpSdyy", #kak meira dn
-            "https://drive.google.com/uc?export=view&id=1A_9Hi4pNFXJ7bD5T0RKy0T0gRL9FJX8B", #bang rendi dn
-            "https://drive.google.com/uc?export=view&id=1WkkjzRI8PD6T4FAcOKxcpM5RIeoo3cO-", #kak renta dn
-            "https://drive.google.com/uc?export=view&id=10n-7tDMCB9Gx5su00unmArqAKb3RydDa", #bang josua dn
+            "https://drive.google.com/uc?export=view&id=15EFttnnvXS-7Sm7QXh_y8lFgEINciNbX", #bang dimas dn1
+            "https://drive.google.com/uc?export=view&id=1YOLB2M107IzbQUrFVsE6WwGM6qMana0j", #kak catherine dn1
+            "https://drive.google.com/uc?export=view&id=1bstxQLaGEDwZ3N8WdwfySvZXu5zhsdXW", #bang akbar dn1
+            "https://drive.google.com/uc?export=view&id=1QhqR1shEaS4yX4PCtbpgpdfHTLAyjGTf", #kak rani dn1
+            "https://drive.google.com/uc?export=view&id=177R0HOJELiV7C8JDNdcHdIWDQxy2LCY5", #bang rendra dn1
+            "https://drive.google.com/uc?export=view&id=1MfxXK7gIaOrrzLt_X-G7LKkWfF4_FO_v", #kak salwa dn1
+            "https://drive.google.com/uc?export=view&id=1Dc6cEIigpcTRpYxg2QVb2dQSJhmBjS-a", #bang yosia dn1
+            "https://drive.google.com/uc?export=view&id=1aMX5e8uTAgtKO8yfGENnuWX4b6aWkEr9", #bang ari dn1
+            "https://drive.google.com/uc?export=view&id=1JphnAYCdOaVlRRTr1rq2dPZIGY4wuLCg", #kak azizah dn1
+            "https://drive.google.com/uc?export=view&id=1jtTUSdZvngujnOow_-2u7MJWLsdh-9gx", #kak meira dn1
+            "https://drive.google.com/uc?export=view&id=1FQ-dgjgOB2rbmIpOFd8eTfbC1oOn_GQn", #bang rendi dn1
+            "https://drive.google.com/uc?export=view&id=1HVcwvlZKRiOz1Jzj1cb_Et2SEyNMVmf0", #kak renta dn1
+            "https://drive.google.com/uc?export=view&id=1Vc2-b-NGIRgjvyLBtH-BzFUT0gInX84p", #bang josua dn1
 
         ]
         data_list = [
