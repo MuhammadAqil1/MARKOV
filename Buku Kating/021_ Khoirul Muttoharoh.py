@@ -1528,5 +1528,3 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
     ssd()    
 # Tambahkan menu lainnya sesuai kebutuhan
-
-# Tambahkan menu lainnya sesuai kebutuhan
