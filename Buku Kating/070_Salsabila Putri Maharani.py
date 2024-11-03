@@ -239,12 +239,12 @@ elif menu == "Baleg":
             },
             {
                 "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca al waqiah setiap magrib",
+                "sosmed": "@ansftynn_",
                 "kesan" : "Kakaknya baik dan memberikan banyak pelajaran kepada kami",  
                 "pesan" : "Terus semanggat dan tetap sehat selalu"
             },
@@ -585,7 +585,7 @@ elif menu == "Departemen PSDA":
                 "asal"  : " Bandar Lampung",
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
-                "sosmed": "@jeremia_s_",
+                "sosmed": "@jaclinalcv_",
                 "kesan" : "sosok yang penuh inisiatif dan selalu berpikir ke depan",  
                 "pesan" : "Tetap konsisten dan jangan menyerah"
             },
@@ -596,7 +596,7 @@ elif menu == "Departemen PSDA":
                 "asal"  : "Sumatera Barat",
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
-                "sosmed": "@berlyyanda",
+                "sosmed": "@raflyy_pd2684",
                 "kesan" : "pekerja keras dan selalu bisa diandalkan",  
                 "pesan" : "Semoga kamu terus berkembang dan meraih impianmu"
             },
@@ -607,7 +607,7 @@ elif menu == "Departemen PSDA":
                 "asal"  : " Bandar Lampung",
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
-                "sosmed": "@jeremia_s_",
+                "sosmed": "@syalaisha.i__",
                 "kesan" : "Sanggat lembut dan baik",  
                 "pesan" : "Jangan takut menghadapi tantangan baru"
             },
@@ -798,7 +798,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1eUlUImY5MyEAxY5CFsfAd4YroQ1iZxG6", #bang arsal dn
             "https://drive.google.com/uc?export=view&id=1xFO98SDwFrVQVy58v6TMgZlTN1dq2BHq", #bang abit dn
             "https://drive.google.com/uc?export=view&id=1ogD-gKZgcWLcpT4IQKgjxhj48fYU3WEM", #bang akmal dn
-            "https://drive.google.com/uc?export=view&id=1q0F6qesq_aYA2Z1FfGglYVoA-mQBL7cc", #bang hermawan dn
+            "https://drive.google.com/uc?export=view&id=1FQ0o-51FkM7FnGH_TbyxvYAvu16s32wb", #bang hermawan dn
             "https://drive.google.com/uc?export=view&id=15cSh2Pzd0xhX2OXn7aKbKhbWfdDeBlHl", #kak nisa dn
         ]
         data_list = [
@@ -1010,8 +1010,8 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1bHbRSfd_YprUO-c2Ax3dcOM1PjjqN7cT", #bang rizki dn
             "https://drive.google.com/uc?export=view&id=1UPzUg-IcC9vUcJfdV2PvcE7C_qzLeofI", #bang arafi dn
             "https://drive.google.com/uc?export=view&id=1UlRpXH8PRCr4ySR5yIokYKZoaKb7Saxb", #kak uyi dn
-            "https://drive.google.com/uc?export=view&id=1FJoJiSJ13b3aDbidC0zgr2f0ttpoRsuY", #kak chalifia dn
-            "https://drive.google.com/uc?export=view&id=1UmP7DcTrCOraC1TRxWZ-NzftQJEtB1D9", #bang irvan dn
+            "https://drive.google.com/uc?export=view&id=1bAe-mlX8E4zMKjwU-37V5qmrCot_C969", #kak chalifia dn
+            "https://drive.google.com/uc?export=view&id=1URVjU5M5B0L8nZOcLRS_tx94ku8wuUyt", #bang irvan dn
             "https://drive.google.com/uc?export=view&id=1UNfCi9_JwE9t2xhDcXh1RmidqjHK__7B", #kak izza dn
             "https://drive.google.com/uc?export=view&id=1Ucr4u2a7t80c2cSCnwVITkoknuXo7Xkq", #kak zuhrah dn
             "https://drive.google.com/uc?export=view&id=1UmP7DcTrCOraC1TRxWZ-NzftQJEtB1D9", #bang raid dn
@@ -1178,7 +1178,7 @@ elif menu == "Departemen Eksternal":
                 "umur"  : "20 Tahun",
                 "asal"  : "Padang",
                 "alamat": "Sukarame",
-                "hobbi" : "Q Time",
+                "hobbi" : "Quality Time",
                 "sosmed": "@chlfawww",
                 "kesan" : "terinspirasi oleh pengalaman dan wawasan yang Kakak",  
                 "pesan" : "Semoga pengalaman dan ilmu yang Kakak peroleh selama di kampus bisa bermanfaat bagi orang banyak"
