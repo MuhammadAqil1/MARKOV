@@ -643,17 +643,6 @@ elif menu == "Departemen MIKFES":
                 "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan "
             },
             {
-                "nama"  : "Annisa Novantika",
-                "nim"   : "121450005",
-                "umur"  : "21",
-                "asal"  : "Lampung Utara",
-                "alamat": "Jl. Pulau Sebesi, Sukarame",
-                "hobbi" : "Memasak",
-                "sosmed": "@anovavona",
-                "kesan" : "Banyak manfaat yang didapat",  
-                "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan ",
-            },
-            {
                 "nama"  : "Ahmad Sahidin Akbar",
                 "nim"   : "122450044",
                 "umur"  : "20",
@@ -662,7 +651,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi" : "Olahraga",
                 "sosmed": "@sahid22__",
                 "kesan" : "Banyak manfaat yang didapat",  
-                "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan ",
+                "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan "
             },
             {
                 "nama"  : "Fadhil Fitra Wijaya",
@@ -673,7 +662,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi" : "Main game",
                 "sosmed": "@fadhilfwee",
                 "kesan" : "Banyak manfaat yang didapat",  
-                "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan ",
+                "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan "
             },
             {
                 "nama"  : "Syalaisha Andina Putriansyah",
@@ -684,7 +673,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi" : "Baca jurnal",
                 "sosmed": "@dkselsd_31",
                 "kesan" : "Banyak manfaat yang didapat",  
-                "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan ",
+                "pesan" : "Sukses selalu untuk semua yang terlibat dan semoga dilancarkan kuliahnya serta lulus tepat waktu plus langsung dapet kerja yang diinginkan "
             },
             {
                 "nama"  : "Dinda Nababan",
@@ -787,7 +776,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1lTzl0IUbiMU2RhKY3szhmZP1jFwshsfJ", #kak arsyiah dn
             "https://drive.google.com/uc?export=view&id=13tmkskkmumDnLEEXcjpmQdoOc_dKyErc", #kak cintya dn
             "https://drive.google.com/uc?export=view&id=1XGUrNTRkwzoeDHZTAqINvjMxJjCz9Jlj", #kak najla dn
-            "https://drive.google.com/uc?export=view&id=1U12wKpj8fccnrcb0QOotAQvmwHRzK79j", #kak rahma dn
+            "https://drive.google.com/uc?export=view&id=1cIbyW1j8H4fWrxdWS6i9GF0GbrmKFU56", #kak rahma dn
             "https://drive.google.com/uc?export=view&id=14iiCFz9NDVFXxcrFMX-ABBeBU_3595no", #kak try yani dn
             "https://drive.google.com/uc?export=view&id=1HaiTQcYQTGsqzuHvNgpFu9TCQAUFPRZQ", #bang kaisar dn
             "https://drive.google.com/uc?export=view&id=1U2DNjNg7PWVO2kZd60_6RpHAHKmVPnNW", #kak dwi dn
