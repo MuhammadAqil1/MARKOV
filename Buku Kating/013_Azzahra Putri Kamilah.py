@@ -237,12 +237,12 @@ elif menu == "Baleg":
                 "pesan" : "tetap semangat kakak dan semoga sukses selalu"
             },
             {
-                "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
+               "nama"  : "Anisa Fitriyani",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
                 "sosmed": "@ansftynn_",
                 "kesan" : "agak susah membedakan banyak sekali yang namanya annisa, tapi kakak ini n nya ga double",  
                 "pesan" : "semangat selalu kak dan semoga sellau di berikan kelancaran "

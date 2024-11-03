@@ -243,7 +243,7 @@ elif menu == "Baleg":#Kesan dan pesan sudah selesai
                 "umur"  : "20",
                 "asal"  : "Batam",
                 "alamat": "Kalianda",
-                "hobbi" : "Membaca Al waqiah setiap magrib",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
                 "sosmed": "@ansftynn_",
                 "kesan" : "Peduli dengan kemajuan organisasi dan anggotanya",  
                 "pesan" : "Semoga segala yang Kakak lakukan selalu membawa keberkahan"

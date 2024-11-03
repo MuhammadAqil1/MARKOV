@@ -238,12 +238,12 @@ elif menu == "Baleg":
             },
             {
                 "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan", 
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
+                "sosmed": "@ansftynn_",
                 "kesan" : "Kakak sangat baik dalam membimbing dan menjelaskan tugas-tugas di badan legislatif",
                 "pesan" : "Semoga kakak selalu diberi kesehatan dan kelancaran dalam bertugas"
             },

@@ -238,13 +238,13 @@ elif menu == "Baleg":
                 "pesan" : "Semoga Kakak selalu dikelilingi orang-orang baik dan penuh cinta! Sukses, ya!"
             },
             {
-                "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
+               "nama"  : "Anisa Fitriyani",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
+                "sosmed": "@ansftynn_",
                 "kesan" : "Kakak asyik dan keren",  
                 "pesan" : "Semoga Kakak selalu dikelilingi orang-orang baik dan penuh cinta! Sukses, ya!"
             },
