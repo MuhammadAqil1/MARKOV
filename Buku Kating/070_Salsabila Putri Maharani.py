@@ -1,3 +1,4 @@
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
@@ -1527,5 +1528,4 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()    
-
-# Tambahkan menu lainnya sesuai kebutuhan
+ 

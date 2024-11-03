@@ -1,3 +1,4 @@
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
@@ -24,6 +25,7 @@ def streamlit_menu():
             "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -833,11 +835,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal"  : "Bandar Lampung",
                 "alamat": "Tanjung Senang",
                 "hobbi" : "Nugas",
-<<<<<<< HEAD
-                "sosmed": "@arsyiah.__",
-=======
                 "sosmed": "@arsyiah.",
->>>>>>> 639049de0a25d6c63ba13eae5dafa716c13464d7
                 "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
@@ -1533,10 +1531,4 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
     ssd()
 
-<<<<<<< HEAD
 
-# Tambahkan menu lainnya sesuai kebutuhan
-=======
->>>>>>> 639049de0a25d6c63ba13eae5dafa716c13464d7
-
-# Tambahkan menu lainnya sesuai kebutuhan
