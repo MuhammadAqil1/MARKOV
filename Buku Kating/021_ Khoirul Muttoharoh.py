@@ -236,18 +236,18 @@ elif menu == "Baleg":
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
                 "kesan" : "sangat menarik dan membuka wawasan saya tentang proses pengambilan keputusan di himpunan.",  
-                "pesan" : "Teruslah mengedepankan transparansi dan partisipasi dalam setiap kebijakan yang diambil ya kak."
+                "pesan" : "Teruslah mengedepankan transparansi dan partisipasi dalam setiap kebijakan yang diambil ya kak.",
             },
             {
                 "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
+                "nim"   : "122450019",
+                "umur"  : "20 tahun",
+                "asal"  : "Batam",
+                "alamat" : "Kalianda",
+                "hobbi" : "Membaca Al waqiah setiap magrib",
+                "sosmed" : "@ansftynn_",
                 "kesan" : "sangat informatif dan membuat saya lebih memahami peran penting komisi ini dalam himpunan.",  
-                "pesan" : " Semoga komisi ini terus berinovasi dan memberikan kontribusi nyata bagi perkembangan himpunan"
+                "pesan" : " Semoga komisi ini terus berinovasi dan memberikan kontribusi nyata bagi perkembangan himpunan",
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
