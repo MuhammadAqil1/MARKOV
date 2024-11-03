@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi": "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan": "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan": "Selalu dimudahkan segala sesuatu"
+                "kesan": "Abang sangat menginspirasi dalam menjelaskan peran kesekjenan, terutama tentang manajemen waktu dan koordinasi antar bidang. Saya jadi paham betul bagaimana pentingnya peran kesekjenan dalam kelancaran kegiatan himpunan",  
+                "pesan": "Semoga abang selalu diberikan kemudahan dalam menjalankan amanah di kesekjenan dan sukses dalam studi serta karirnya ke depan"
             },
             {
                 "nama": "Meliza Wulandari",
@@ -137,8 +137,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota baru",
                 "hobbi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "pengalaman yag kakak ceritakan sangat menginspirasi",  
-                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan": "Wawancara dengan kakak sangat menyenangkan, banyak pelajaran berharga tentang manajemen administrasi dan pengarsipan dalam himpunan yang bisa saya ambil",  
+                "pesan": "Semoga kakak terus bersemangat dalam menjalankan tugas di kesekjenan dan sukses dalam segala hal yang kakak lakukan"
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan": "Kakak sangat detail dalam menjelaskan alur kerja kesekjenan, membuat saya memahami betapa pentingnya administrasi yang baik dalam sebuah organisasi",  
+                "pesan": "Semoga kakak selalu diberi kelancaran dalam menjalankan tugas di kesekjenan dan sukses mencapai cita-cita"
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -159,8 +159,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan": "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan "
+                "kesan": "Sangat terkesan dengan dedikasi kakak dalam menjalankan tugas di kesekjenan, terutama dalam hal keuangan di dalam himpunan",  
+                "pesan": "Semoga kakak tetap konsisten dalam memberikan yang terbaik untuk himpunan dan sukses dalam perjalanan karir ke depannya"
             },
             {
                 "nama": "Nadilla Andara Putri",
@@ -170,8 +170,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan": "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan": "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan": "Kakak memberikan banyak insight berharga tentang pentingnya komunikasi dan koordinasi dalam kesekjenan, sangat membantu pemahaman saya tentang sistem kerja himpunan",  
+                "pesan": "Semoga kakak selalu diberikan kemudahan dalam menjalankan amanah dan sukses dalam mencapai semua impian"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -200,52 +200,52 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Kakak sangat detail dalam menjelaskan proses legislasi di himpunan, membuat saya jadi paham betul alur pembuatan kebijakan",
+                "pesan" : "Semoga kakak bisa terus berkontribusi dalam membuat kebijakan yang bermanfaat untuk HMSD kedepannya"
             },
             {
-                "nama"  : "Annisa Cahyani Surya",
+                "nama"  : "Annisa Cahyani Surya", 
                 "nim"   : "121450114",
                 "umur"  : "21",
                 "asal"  : "Tanggerang Selatan",
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Wawancara dengan kakak sangat menyenangkan, banyak insight baru tentang peran legislatif di himpunan",
+                "pesan" : "Terus semangat kak dalam menjalankan amanah di baleg, semoga sukses selalu"
             },
             {
                 "nama"  : "Wulan Sabina",
-                "nim"   : "121450150",
+                "nim"   : "121450150", 
                 "umur"  : "21",
                 "asal"  : "Medan",
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Kakak sangat inspiratif dalam menjelaskan pentingnya fungsi pengawasan di himpunan",
+                "pesan" : "Semoga ilmu yang kakak bagikan bisa bermanfaat untuk kemajuan HMSD kedepannya"
             },
             {
                 "nama"  : "Annisa Dini Amaliya",
                 "nim"   : "121450081",
-                "umur"  : "21",
+                "umur"  : "21", 
                 "asal"  : "Tanggerang",
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Banyak pelajaran berharga tentang fungsi baleg yang kakak bagikan selama wawancara",
+                "pesan" : "Tetap semangat menjalankan tugas di baleg kak, semoga selalu diberi kemudahan"
             },
             {
                 "nama"  : "Anisa Fitriyani",
                 "nim"   : "121450150",
                 "umur"  : "21",
-                "asal"  : "Medan",
+                "asal"  : "Medan", 
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Kakak sangat baik dalam membimbing dan menjelaskan tugas-tugas di badan legislatif",
+                "pesan" : "Semoga kakak selalu diberi kesehatan dan kelancaran dalam bertugas"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -255,8 +255,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Abang memberikan perspektif baru tentang pentingnya legislasi dalam organisasi kemahasiswaan",
+                "pesan" : "Terus berkarya bang dalam membuat peraturan yang progresif untuk HMSD"
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -266,8 +266,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Kakak sangat detail menjelaskan mekanisme pembuatan peraturan di himpunan",
+                "pesan" : "Semoga kakak selalu diberikan keberkahan dalam menjalankan amanah"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -277,8 +277,8 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Abang memberikan wawasan mendalam tentang peran strategis baleg dalam himpunan",
+                "pesan" : "Terus berkontribusi untuk kemajuan HMSD melalui kebijakan yang inovatif bang"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -288,8 +288,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Kakak sangat inspiratif dalam menjelaskan fungsi pengawasan dan legislasi",
+                "pesan" : "Semoga kakak selalu diberi kemudahan dalam menjalankan tugas di baleg"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -299,8 +299,8 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga dimudahkan dan dilancarkan apa yang disemogakan"
+                "kesan" : "Abang memberikan pemahaman yang jelas tentang proses pembuatan kebijakan",
+                "pesan" : "Terus semangat bang dalam mengawal kebijakan untuk kemajuan HMSD"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -315,25 +315,25 @@ elif menu == "Senator":
         data_list = [
             {
                 "nama"  : "Anissa Luthfi Alifia",
-                "nim"   : "121450093",
+                "nim"   : "121450093", 
                 "umur"  : "22",
                 "asal"  : "Lampung Tengah",
                 "alamat": "Kost Putri Rahayu",
                 "hobbi" : "Mendengarkan bang Bintang dengerin lagu",
                 "sosmed": "@anissaluthfi_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Kakak sangat menginspirasi dalam memberikan wawasan dan pengalaman yang berharga. Cara kakak menyampaikan cerita membuat saya termotivasi untuk terus berkembang",
+                "pesan" : "Semoga kakak selalu diberikan kesehatan, keberkahan, dan kesuksesan dalam setiap langkah. Terima kasih atas ilmu dan pengalaman yang telah dibagikan"
             },
             {
                 "nama"  : "Rian Bintang Wijaya",
                 "nim"   : "122450094",
-                "umur"  : "20",
+                "umur"  : "20", 
                 "asal"  : "Palembang, Sumatera Selatan",
                 "alamat": "Kota Baru",
                 "hobbi" : "Mendengar Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Abang adalah sosok yang sangat inspiratif dan memotivasi. Sharing pengalaman dan cerita dari abang membuat saya lebih berani untuk mencoba hal baru yang positif",
+                "pesan" : "Semoga abang selalu diberi kemudahan dalam menggapai cita-cita dan impian. Terus berbagi pengalaman yang berharga untuk adik-adik tingkat ya bang!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -350,15 +350,15 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1BHdS3-OKOrWmlSZO7ATf_GCMfNT2yx1V", #bang ferdy dn 
             "https://drive.google.com/uc?export=view&id=1WPGXifHQ5eb4F-GvghQAVGBFdSUMsZnY", #bang deri dn 
             "https://drive.google.com/uc?export=view&id=1yaAofgqhaSNEePpBd6Oh0hqmrE5P0KGD", #kak oktavia dn 
-            "https://drive.google.com/uc?export=view&id=", #bang deyvan 
-            "https://drive.google.com/uc?export=view&id=", #bang ibnu 
-            "https://drive.google.com/uc?export=view&id=", #bang jo 
-            "https://drive.google.com/uc?export=view&id=", #bang kemas 
-            "https://drive.google.com/uc?export=view&id=", #bang leonard 
-            "https://drive.google.com/uc?export=view&id=", #kak presilia 
-            "https://drive.google.com/uc?export=view&id=", #kak rafa 
+            "https://drive.google.com/uc?export=view&id=1AZwMhxy7RxGpwSxDms7t0YHMHpleWkxP", #bang deyvan 
+            "https://drive.google.com/uc?export=view&id=1Acm2Yfszz9v4Y2enVMQH6fsVro_SKwKs", #bang ibnu 
+            "https://drive.google.com/uc?export=view&id=1A2mG8BTa1uSJ2Z_cL3rkNeAKD7ML4CwM", #bang jo 
+            "https://drive.google.com/uc?export=view&id=1Aa9kqXI314m8Oq9XkCy9E6LGhwhQXp6E", #bang kemas 
+            "https://drive.google.com/uc?export=view&id=1Al1XL1H2o4TzFG7Ukvci6I-CYR6X0VXN", #bang leonard 
+            "https://drive.google.com/uc?export=view&id=1Aaaww68KgDglkkHd-KQwG6d2LWLXNQLH", #kak presilia 
+            "https://drive.google.com/uc?export=view&id=1AWHxqpKFr9Zqoor-TCHPagBz_m7M_Os9", #kak rafa 
             "https://drive.google.com/uc?export=view&id=1WdYZpDI9qwAJYrp70ZS3CY8BKXclLHJh", #bang sahid dn 
-            "https://drive.google.com/uc?export=view&id=", #kak vanes 
+            "https://drive.google.com/uc?export=view&id=1AH-9bGUPkAGp1ayKp0_qc2rKX8mD-3DI", #kak vanes 
             "https://drive.google.com/uc?export=view&id=151nlaE_-CU-_DSePFKXXuLRvikeFn3Ah", #bang ateng dn 
             "https://drive.google.com/uc?export=view&id=1in5H609G7RZ8htW0aBePB1hltrMrNwDy", #bang gede dn 
             "https://drive.google.com/uc?export=view&id=1p2e6X0AbZ2DDvvsL1kYr6kgU7R8leIJd", #kak jaclin dn 
@@ -375,8 +375,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobbi" : "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Abang sangat menginspirasi dalam memimpin dan mengelola sumber daya anggota himpunan. Cara abang memotivasi dan membimbing anggota sangat membangun",
+                "pesan" : "Semoga abang selalu diberi kemudahan dalam menjalankan amanah sebagai kepala departemen PSDA. Terus semangat dalam membangun dan mengembangkan potensi anggota himpunan!"
             },
             {
                 "nama"  : "Elisabeth Claudia Simanjuntak",
@@ -386,8 +386,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "walaupun belum mewawancarai kakak, saya yakin pengalaman yang kakak ceritakan pasti sangat menginspirasi",  
+                "pesan" : "Semoga dilancarkan semua kegiatannya di dalam maupun di luar perkuliahan dan tetap semangat kak"
             },
             {
                 "nama"  : "Nisrina Nur Afifah",
@@ -397,8 +397,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Nabok orang",
                 "sosmed": "@afifahhnsrn",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Setelah wawancara dengan kakak, saya mendapat banyak insight tentang bagaimana cara berorganisasi yang baik dan benar di Himpunan",  
+                "pesan" : "Semoga kakak selalu diberikan kesehatan dan kemudahan dalam menjalani perkuliahan. Terima kasih atas ilmu dan pengalaman yang telah dibagikan"
             },
             {
                 "nama"  : "Allya Nurul Islami Pasha",
@@ -408,8 +408,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gang Perwira, Belwis",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@allyaislami_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "Wawancara dengan kakak sangat berkesan karena kakak membagikan pengalaman yang menarik tentang bagaimana kaderisasi berlangsung",
+                "pesan" : "Semoga kakak selalu diberi kelancaran dalam menyelesaikan tugas kuliah dan organisasi"
             },
             {
                 "nama"  : "Farahanum Afifah Ardiansyah",
@@ -419,8 +419,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Tidur",
                 "sosmed": "@farahanumafifahh",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Kakak sangat ramah dan terbuka dalam membagikan pengalaman selama di HMSD",  
+                "pesan" : "Semoga kakak sukses dalam perkuliahan dan karirnya ke depan."
             },
             {
                 "nama"  : "Ferdy Kevin Naibaho",
@@ -430,8 +430,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan Senopati Raya 18",
                 "hobbi" : "Dengerin Rocky Gerung",
                 "sosmed": "@ferdy_kevin",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Wawancara dengan abang memberikan pandangan baru tentang sistem kaderisasi di HMSD dan lebih mengenal bagaimana divisi kaderisasi bekerja.",  
+                "pesan" : "Semoga kakak selalu diberi kemudahan dalam menggapai cita-cita. Terus berkarya dan menginspirasi orang lain"
             },
             {
                 "nama"  : "M. Deriansyah Okutra",
@@ -441,8 +441,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan Pagar Alam",
                 "hobbi" : "Bercerita horror",
                 "sosmed": "@dransyh_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Abang sangat inspiratif dalam membagikan pengalaman di HMSD.",  
+                "pesan" : "Semoga kakak selalu sukses dalam setiap langkah yang diambil. Terima kasih atas waktu dan ilmunya"
             },
             {
                 "nama"  : "Oktavia Nurwenda Puspita Sari",
@@ -452,41 +452,41 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Hui",
                 "hobbi" : "Memasak",
                 "sosmed": "@_oktavianrwnda_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "walaupun saya belum mewawancarai kakak,saya yakin kakak juga akan membagikan pengalaman yang menarik tentang bagaimana divisi PSDA melaksanakan tugas",  
+                "pesan" : "Semoga kakak selalu diberkahi kesuksesan dalam setiap langkah."
             },
             {
                 "nama"  : "Deyvan Loxefal",
-                "nim"   : "121450148",
+                "nim"   : "121450148", 
                 "umur"  : "21",
                 "asal"  : "Riau",
                 "alamat": "Pulau Damar",
                 "hobbi" : "Belajar",
                 "sosmed": "@depanloo",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Wawancara dengan abang sangat menarik, banyak insight tentang bagaimana divisi minat bakat mengembangkan potensi mahasiswa Sains Data",
+                "pesan" : "Semoga abang selalu diberikan kesehatan dan kesuksesan dalam menjalankan amanah di divisi minat bakat"
             },
             {
                 "nama"  : "Ibnu Farhan Al-Ghifari",
                 "nim"   : "121450121",
-                "umur"  : "21",
+                "umur"  : "21", 
                 "asal"  : "Jambi",
                 "alamat": "Pulau Damar, Kobam",
                 "hobbi" : "Bermain Game Online",
                 "sosmed": "@al_ghifari032",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Abang memberikan penjelasan yang detail tentang program kerja divisi minat bakat yang sangat bermanfaat",
+                "pesan" : "Semoga abang tetap semangat dalam mengembangkan bakat mahasiswa Sains Data melalui program-program yang inovatif"
             },
              {
                 "nama"  : "Johannes Krisjon Silitonga",
                 "nim"   : "122450043",
                 "umur"  : "19",
-                "asal"  : "Tanggerang",
+                "asal"  : "Tanggerang", 
                 "alamat": "Jalan Lapas",
                 "hobbi" : "Ngasprak",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Sangat terkesan dengan dedikasi abang dalam memfasilitasi pengembangan minat dan bakat mahasiswa",
+                "pesan" : "Terus berkarya dalam memajukan potensi mahasiswa Sains Data abang dan selalu dimudahkan dalam segala urusannya"
             },
             {
                 "nama"  : "Kemas Veriandra Ramadhan",
@@ -496,8 +496,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Golf Asri",
                 "hobbi" : "Bermain ular python digital",
                 "sosmed": "@kemasverii",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Wawancara dengan abang membuka wawasan tentang pentingnya mengembangkan soft skill melalui kegiatan minat bakat",
+                "pesan" : "Semoga dimudahkan dalam segala hal yang di cita-citakan"
             },
             {
                 "nama"  : "Leonard Andreas Napitupulu",
@@ -507,8 +507,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobbi" : "Belajar",
                 "sosmed": "@lnrd.__",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Abang sangat inspiratif dalam menjelaskan bagaimana divisi minat bakat berperan dalam pengembangan mahasiswa",
+                "pesan" : "Terus semangat dalam melakukan segala hal bang!!"
             },
             {
                 "nama"  : "Presilia",
@@ -518,8 +518,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "Mendapat banyak pembelajaran tentang bagaimana divisi minat bakat membantu mahasiswa mengembangkan potensi diri",
+                "pesan" : "Semoga kakak selalu diberi kemudahan dalam melakukan segala hal yang di cita-citakan"
             },
             {
                 "nama"  : "Rafa Aqilla Jungjunan",
@@ -529,8 +529,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi" : "Membaca webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Terkesan dengan dedikasi kakak dalam mengembangkan minat dan bakat mahasiswa Sains Data",
+                "pesan" : "Tetap semangat dalam hal apapun kak"
             },
             {
                 "nama"  : "Sahid Maulana",
@@ -540,8 +540,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Airan Raya",
                 "hobbi" : "Bermain Game",
                 "sosmed": "@sahid_maul19",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Wawancara dengan abang memberikan gambaran yang jelas tentang peran penting divisi minat bakat",
+                "pesan" : "Semoga abang selalu sukses dalam mengembangkan potensi mahasiswa melalui program-program yang menarik dan selalu dimudahkan mencapai segala sesuatu"
             },
             {
                 "nama"  : "Vanessa Olivia Rose",
@@ -551,52 +551,52 @@ elif menu == "Departemen PSDA":
                 "alamat": "Perumahan Korpri",
                 "hobbi" : "Belajar",
                 "sosmed": "@roselivnes__",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Sangat menginspirasi mendengar pengalaman kakak dalam mengelola kegiatan minat bakat di HMSD",
+                "pesan" : "Terus semangat dalam melakukan segala hal kak!!"
             },
             {
                 "nama"  : "M. Farhan Athaulloh",
-                "nim"   : "121450156",
+                "nim"   : "121450156", 
                 "umur"  : "22",
                 "asal"  : "Surakarta, Jawa Tengah",
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "Sangat terkesan dengan dedikasi abang dalam mengembangkan minat olahraga dan kompetisi mahasiswa Sains Data",
+                "pesan" : "Semoga abang selalu diberi kemudahan dalam menjalankan amanah dan terus bersemangat memajukan prestasi mahasiswa"
             },
             {
                 "nama"  : "Gede Moana",
                 "nim"   : "122450065",
-                "umur"  : "21",
+                "umur"  : "21", 
                 "asal"  : "Sumatera Barat",
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Wawancara dengan abang memberikan insight baru tentang pentingnya keseimbangan antara akademik dan prestasi non-akademik",
+                "pesan" : "Terus berkarya dan menginspirasi adik-adik untuk berprestasi dalam bidang olahraga dan kompetisi bang!"
             },
             {
                 "nama"  : "Jaclin Alcavella",
                 "nim"   : "122450022",
                 "umur"  : "20",
-                "asal"  : " Bandar Lampung",
+                "asal"  : " Bandar Lampung", 
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Kagum dengan penjelasan kakak mengenai program-program yang dijalankan divisi olahraga dan perlombaan untuk mengembangkan potensi mahasiswa",
+                "pesan" : "Semoga kakak selalu sukses dan bisa terus memotivasi mahasiswa untuk aktif dalam kegiatan olahraga dan kompetisi"
             },
             {
                 "nama"  : "Rafly Prabu Darmawan",
                 "nim"   : "122450065",
                 "umur"  : "21",
                 "asal"  : "Sumatera Barat",
-                "alamat": "Way Huwi",
+                "alamat": "Way Huwi", 
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Terinspirasi dengan semangat abang dalam memfasilitasi mahasiswa untuk berkembang melalui olahraga dan kompetisi",
+                "pesan" : "Tetap semangat menjalankan program-program yang bermanfaat untuk mahasiswa Sains Data bang!"
             },
             {
                 "nama"  : "Syalaisha Andini Putriansyah",
@@ -604,10 +604,10 @@ elif menu == "Departemen PSDA":
                 "umur"  : "20",
                 "asal"  : "Bandar Lampung",
                 "alamat": "Kemiling",
-                "hobbi" : "Marah-marah",
+                "hobbi" : "Marah-marah", 
                 "sosmed": "@jeremia_s_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Mendapat banyak pembelajaran tentang bagaimana divisi olahraga dan perlombaan berperan dalam pengembangan soft skill mahasiswa",
+                "pesan" : "Semoga kakak selalu diberi kelancaran dalam mengemban amanah dalam menjalankan tugas"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -629,19 +629,19 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1HspJcvrDjnVCzlESaKP8vPikA-OC1TFa", #kak febiya dn 
             "https://drive.google.com/uc?export=view&id=1HQpDeadQ5q_Wi2qsQIYw5x0hnWksrOSb", #kak happy syahrul dn 
             "https://drive.google.com/uc?export=view&id=1HZIzXu9YUxfiBL1QwRo51piheouiV4tg", #bang randa dn 
-            "https://drive.google.com/uc?export=view&id=", #kak vita 
+        
         ]
         data_list = [
             {
                 "nama"  : "Rafi Fadhlillah",
-                "nim"   : "121450038",
+                "nim"   : "121450038", 
                 "umur"  : "21",
                 "asal"  : "Bogor",
                 "alamat": "Raden Saleh",
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Abang sangat menginspirasi dalam memimpin departemen akademik dan keprofesian.",
+                "pesan" : "Semoga abang selalu diberi kemudahan dalam menjalankan amanah sebagai kepala departemen akademik dan keprofesian. Terus semangat dalam membangun dan mengembangkan potensi akademik anggota himpunan!"
             },
             {
                 "nama"  : "Annisa Novantika",
@@ -651,8 +651,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Pulau Sebesi, Sukarame",
                 "hobbi" : "Memasak",
                 "sosmed": "@anovavona",
-                "kesan" : "kakaknya ramah",  
-                "pesan" : "semoga kuliahnya lancar"
+                "kesan" : "kakaknya ramah dan ilmu yang dibagikan sangat bermanfaat",  
+                "pesan" : "semoga selalu dilancarkan segala sesuatu yang di semogakan"
             },
             {
                 "nama"  : "Ahmad Sahidin Akbar",
@@ -662,8 +662,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "ilmu yang abang berikan sangat bermanfaat",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat bang"
             },
             {
                 "nama"  : "Fadhil Fitra Wijaya",
@@ -674,7 +674,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi" : "Nabok orang",
                 "sosmed": "@afifahhnsrn",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "pesan" : "Semoga urusan kakakbaik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
                 "nama"  : "Syalaisha Andina Putriansyah",
@@ -689,25 +689,25 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama"  : "Dinda Nababan",
-                "nim"   : "122450056",
+                "nim"   : "122450056", 
                 "umur"  : "20",
                 "asal"  : "Padang, Sumatera Barat",
                 "alamat": "Sukarame",
                 "hobbi" : "Tidur",
                 "sosmed": "@farahanumafifahh",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Kakak sangat menginspirasi dalam menjelaskan pentingnya inovasi dan kajian akademik untuk pengembangan keilmuan sains data.",
+                "pesan" : "Semoga kakak selalu diberi kemudahan dalam menjalankan tugas di divisi PIKA. Terus semangat dalam mengembangkan inovasi di HMSD!"
             },
             {
                 "nama"  : "Marleta Cornelia Leander",
                 "nim"   : "122450107",
                 "umur"  : "19",
-                "asal"  : "Medan, Sumatera Utara",
+                "asal"  : "Medan, Sumatera Utara", 
                 "alamat": "Jalan Senopati Raya 18",
                 "hobbi" : "Dengerin Rocky Gerung",
                 "sosmed": "@ferdy_kevin",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Kakak sangat detail dalam menjelaskan proses pengembangan inovasi akademik. Pengetahuan yang kakak bagikan sangat bermanfaat untuk pengembangan skill akademik saya",
+                "pesan" : "Semoga kakak terus produktif menghasilkan karya inovatif yang berkualitas. Sukses selalu dalam segala hal kak!"
             },
             {
                 "nama"  : "Rut Junita Sari Siburian",
@@ -717,8 +717,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jalan Pagar Alam",
                 "hobbi" : "Bercerita horror",
                 "sosmed": "@dransyh_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Kakak sangat inspiratif dalam menjelaskan bagaimana divisi pusat inovasi dan kajian akademik bekerja sama dalam mengembangkan potensi akademik mahasiswa",
+                "pesan" : "Semoga kakak selalu sukses dalam menjalankan tugas. Terus berbagi ilmu dan pengalaman untuk adik-adik tingkat ya kak!"
             },
             {
                 "nama"  : "Syadza Puspadari Azhar",
@@ -728,30 +728,30 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Way Hui",
                 "hobbi" : "Memasak",
                 "sosmed": "@_oktavianrwnda_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "Kakak sangat kompeten dalam menjelaskan inovasi untuk pengembangan akademik. Wawasan yang kakak berikan sangat membantu pemahaman saya tentang pentingnya inovasi dalam bidang akademik",
+                "pesan" : "Semoga ilmu yang kakak miliki terus berkembang dan bermanfaat untuk kemajuan inovasi di HMSD. Tetap semangat membimbing adik-adik tingkat!"
             },
             {
                 "nama"  : "Eggi satria",
-                "nim"   : "121450148",
+                "nim"   : "121450148", 
                 "umur"  : "21",
                 "asal"  : "Riau",
                 "alamat": "Pulau Damar",
                 "hobbi" : "Belajar",
                 "sosmed": "@depanloo",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Abang sangat menginspirasi dalam menjelaskan pentingnya riset dan survei untuk pengembangan keilmuan sains data. Cara abang menyampaikan materi sangat mudah dipahami",
+                "pesan" : "Semoga abang selalu diberi kemudahan dalam menjalankan tugas di divisi survei dan riset. Terus semangat dalam mengembangkan penelitian di HMSD!"
             },
             {
                 "nama"  : "Febiya Jomy Pratiwi",
                 "nim"   : "121450121",
-                "umur"  : "21",
+                "umur"  : "21", 
                 "asal"  : "Jambi",
                 "alamat": "Pulau Damar, Kobam",
                 "hobbi" : "Bermain Game Online",
                 "sosmed": "@al_ghifari032",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Kakak sangat inspiratif dalam menjelaskan bagaimana divisi survei dan riset bekerja sama.",
+                "pesan" : "Semoga kakak selalu sukses dalam menjalankan tugas. Terus berbagi ilmu dan pengalaman untuk adik-adik tingkat ya kak!"
             },
              {
                 "nama"  : "Happy Syahrul Ramadhan",
@@ -761,8 +761,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jalan Lapas",
                 "hobbi" : "Ngasprak",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Abang sangat detail dalam menjelaskan teknik pengambilan dan analisis data survei. Pengetahuan yang abang bagikan sangat bermanfaat untuk pengembangan skill riset saya",
+                "pesan" : "Semoga abang terus produktif menghasilkan karya yang berkualitas. Sukses selalu dalam segala hal bang!"
             },
             {
                 "nama"  : "Randa Andriana Putra",
@@ -772,20 +772,10 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Golf Asri",
                 "hobbi" : "Bermain ular python digital",
                 "sosmed": "@kemasverii",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Abang sangat kompeten dalam menjelaskan riset untuk pengolahan data .yang abang berikan sangat membantu pemahaman saya",
+                "pesan" : "Semoga ilmu yang abang miliki terus berkembang dan bermanfaat untuk kemajuan riset di HMSD. Tetap semangat membimbing adik-adik tingkat!"
             },
-            {
-                "nama"  : "Vita Anggraini",
-                "nim"   : "121450153",
-                "umur"  : "21",
-                "asal"  : "Sumatera Utara",
-                "alamat": "Kobam",
-                "hobbi" : "Belajar",
-                "sosmed": "@lnrd.__",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
-            },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
@@ -820,8 +810,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobbi" : "Menonton Film",
                 "sosmed": "@",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Pengalaman yang abang bagikan sangat bermanfaat dan membantu mengenai dunia kreatif",  
+                "pesan" : "Tetap semangat bang dalam berkarya!!"
             },
             {
                 "nama"  : "Elok Fiola",
@@ -831,8 +821,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Bandar Lampung",
                 "hobbi" : "Editing",
                 "sosmed": "@elokfiola",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Ilmu yang kakak bagikan sangat membantu saya memahami dunia kreatif",  
+                "pesan" : "Semoga kakak terus berkarya dan menginspirasi banyak orang dengan kreativitas kakak. Sukses selalu!"
             },
             {
                 "nama"  : "Arsyiah Azahra",
@@ -842,8 +832,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Tanjung Senang",
                 "hobbi" : "Nugas",
                 "sosmed": "@arsyiah.__",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Sharing pengalaman kakak sangat bermanfaat",  
+                "pesan" : "Semoga selalu diberikan kemudahan dalam menjalankan segala hal kak"
             },
             {
                 "nama"  : "Cintya Bella",
@@ -853,8 +843,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Teluk",
                 "hobbi" : "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "Kakak sangat baik dalam memberikan tips membuat konten menarik. Pengetahuan yang kakak bagikan sangat bermanfaat",  
+                "pesan" : "Semoga kakak selalu semangat berkreasi dan menginspirasi banyak orang dengan karya-karya kakak"
             },
             {
                 "nama"  : "Najla Juwairia",
@@ -864,8 +854,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Airan",
                 "hobbi" : "Menulis, Membaca, Fangirling",
                 "sosmed": "@nanana_minjoo",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Kakak sangat informatif dalam menjelaskan pembuatan konten yang menarik. Ilmu yang kakak bagikan sangat bermanfaat",  
+                "pesan" : "Teruslah berkarya dan menginspirasi kak. Semoga selalu diberikan kesuksesan dalam berkarir di bidang kreatif"
             },
             {
                 "nama"  : "Rahma Neliyana",
@@ -875,8 +865,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobbi" : "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Sharing pengalaman bersama kakak sangat memotivasi dan seru abissss!!",  
+                "pesan" : "Semoga kakak semakin kreatif dalam berkarya. Sukses selalu untuk kakak!"
             },
             {
                 "nama"  : "Try Yani Rizki Nur Rohmah",
@@ -886,8 +876,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Korpri",
                 "hobbi" : "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Kakak sangat detail dalam menjelaskan proses kreatif pembuatan konten. Ilmu yang kakak bagikan sangat bermanfaat",  
+                "pesan" : "Terus berkarya dan menginspirasi kak. Semoga selalu diberikan ide-ide segar dalam berkreasi"
             },
             {
                 "nama"  : "Muhammad Kaisar Firdaus",
@@ -897,8 +887,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Pulau Damar",
                 "hobbi" : "Lagi nyari",
                 "sosmed": "@dino_lapet",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "Abang sangat kompeten dalam menjelaskan teknik fotografi dan videografi. Pengalaman yang abang bagikan sangat berharga",  
+                "pesan" : "Tetap semangat berkarya bang. Semoga selalu sukses dalam mengembangkan skill di bidang kreatif"
             },
             {
                 "nama"  : "Dwi Ratna Anggraeni",
@@ -909,7 +899,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi" : "Membaca",
                 "sosmed": "@dwiratnn_",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "pesan" : "Semoga kakak terus berkarya dan dimudahkan dalam mencapai impian. Sukses selalu kak!!"
             },
             {
                 "nama"  : "Gymnastiar Al Khoarizmy",
@@ -919,10 +909,10 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Lapangan Golf UIN",
                 "hobbi" : "Baca komik",
                 "sosmed": "@jimnn.as",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Pengalaman yang abang bagikan sangat bermanfaat",  
+                "pesan" : "Terus berkarya dan menginspirasi bang. Semoga selalu sukses dalam mengembangkan kreativitas"
             },
-             {
+            {
                 "nama"  : "Nasywa Nur Afifah",
                 "nim"   : "122450125",
                 "umur"  : "20",
@@ -930,8 +920,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@nsywanaf",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Sharing pengalaman kakak sangat memotivasi",  
+                "pesan" : "Semoga kakak selalu semangat berkarya dan menginspirasi banyak orang. Sukses terus!"
             },
             {
                 "nama"  : "Priska Silvia Ferantiana",
@@ -941,8 +931,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Nangka 2",
                 "hobbi" : "Baca novel yang bikin nangis",
                 "sosmed": "@prskslv",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Ilmu yang kakak bagikan sangat bermanfaat",  
+                "pesan" : "Terus berkarya dan berkembang kak. Semoga selalu sukses dalam mencapai impian"
             },
             {
                 "nama"  : "Muhammad Arsal Ranjana Utama",
@@ -952,8 +942,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Nangka 4",
                 "hobbi" : "Ngoding",
                 "sosmed": "@arsal.utama",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Abang sangat menginspirasi dalam menjelaskan pentingnya inovasi dalam berkarya. Pengalaman yang abang bagikan sangat berharga",  
+                "pesan" : "Semoga abang terus berkarya dan di mudahkan mencapai impian. Sukses selalu!"
             },
             {
                 "nama"  : "Abit Ahmad Oktarian",
@@ -963,8 +953,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Rajabasa",
                 "hobbi" : "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "Abang sangat detail dalam menjelaskan teknik desain grafis. Ilmu yang abang bagikan sangat membantu",  
+                "pesan" : "Tetap semangat berkarya bang. Semoga selalu sukses dalam mengembangkan kreativitas"
             },
             {
                 "nama"  : "Akmal Faiz Abdillah",
@@ -974,8 +964,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobbi" : "Main HP",
                 "sosmed": "@_akmal.faiz",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Abang sangat kompeten dalam menjelaskan proses pembuatan desain grafis. Sharing pengalaman abang sangat bermanfaat",  
+                "pesan" : "Terus berkarya dan menginspirasi bang. Semoga selalu diberikan ide-ide segar dalam berkreasi"
             },
             {
                 "nama"  : "Hermawan Manurung",
@@ -985,8 +975,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Dekat jalan tol, Wisma Hana Hani",
                 "hobbi" : "Bengong dan membaca buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Abang sangat inspiratif dalam menjelaskan pentingnya personal branding sejak dini. Pengalaman yang abang bagikan sangat memotivasi",  
+                "pesan" : "Semoga abang terus berkembang dan semakin kreatif dalam berkarya. Sukses selalu!"
             },
             {
                 "nama"  : "Khusnun Nisa",
@@ -996,8 +986,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Belwis",
                 "hobbi" : "Mengerjakan tugas",
                 "sosmed": "@khusnun_nisa335",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Ilmu yang kakak bagikan sangat bermanfaat dan seru",  
+                "pesan" : "Terus berkarya dan menginspirasi kak. Semoga selalu sukses dalam mengembangkan kreativitas"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1036,8 +1026,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jatimulyo",
                 "hobbi": "Bangun pagi",
                 "sosmed": "@yogyyyyyy",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Abang sangat menginspirasi dalam menjelaskan pentingnya kolaborasi dengan pihak luar untuk memajukan himpunan",  
+                "pesan" : "Semoga abang selalu diberikan kesehatan dan keberkahan dalam menjalani perkuliahan. Terima kasih atas ilmu dan pengalamannya yang berharga"
             },
             {
                 "nama"  : "Ramadhita Atifa Hendri",
@@ -1047,8 +1037,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Kakak sangat baik dalam memberikan wawasan tentang pentingnya membangun relasi dengan pihak eksternal",  
+                "pesan" : "Teruslah bersinar dan menginspirasi orang lain kak. Semoga sukses selalu dalam setiap langkah yang kakak ambil"
             },
             {
                 "nama"  : "Nazwa Nabilla",
@@ -1058,8 +1048,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way kandis",
                 "hobbi": "belajar",
                 "sosmed": "@nazwanbilla",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Pengalaman kakak dalam menjalin hubungan dengan pihak luar sangat berharga untuk dipelajari",  
+                "pesan" : "Kakak adalah inspirasi bagi kami semua. Semoga kakak selalu diberkahi kesuksesan dalam setiap usaha"
             },
             {
                 "nama"  : "Bastian Heskia Silaban",
@@ -1069,8 +1059,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "main game",
                 "sosmed": "@bastiansilaban_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "Abang memberikan insight yang bagus tentang cara membangun networking yang baik dengan pihak eksternal",  
+                "pesan" : "Terima kasih telah menjadi panutan yang luar biasa bang. Semoga abang terus berkembang dan mencapai impian"
             },
             {
                 "nama"  : "Dea Mutia Risani",
@@ -1080,8 +1070,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "dengerin musik",
                 "sosmed": "@deaa.rsn",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Kakak sangat detail dalam menjelaskan pentingnya menjaga hubungan baik dengan stakeholder eksternal",  
+                "pesan" : "Kakak adalah contoh pemimpin yang luar biasa. Semoga kakak selalu diberi kemudahan dalam menggapai cita-cita"
             },
             {
                 "nama"  : "Esteria Rohanauli Sidauruk",
@@ -1091,8 +1081,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Kakak memberikan pemahaman yang baik tentang cara berkomunikasi efektif dengan pihak eksternal",  
+                "pesan" : "Teruslah menjadi pribadi yang menginspirasi kak. Semoga kakak selalu diberikan kebahagiaan dalam setiap langkah"
             },
             {
                 "nama"  : "Natasya Ega Lina",
@@ -1102,8 +1092,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "jadi humas",
                 "sosmed": "@nateee__15",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Pengalaman kakak dalam menangani hubungan eksternal sangat inspiratif dan bermanfaat",  
+                "pesan" : "Kakak adalah inspirasi dalam kepemimpinan. Semoga kakak terus bersinar dan menginspirasi banyak orang"
             },
             {
                 "nama"  : "Novelia Adinda",
@@ -1113,8 +1103,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "Kakak sangat baik dalam menjelaskan strategi membangun kerjasama dengan pihak luar",  
+                "pesan" : "Terima kasih atas dedikasi dan inspirasinya kak. Semoga kakak selalu diberkahi dalam setiap langkah kehidupan"
             },
             {
                 "nama"  : "Ratu Keisha Jasmine Deanova",
@@ -1124,8 +1114,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Kandis",
                 "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Kakak memberikan wawasan yang luas tentang pentingnya membangun relasi eksternal yang berkelanjutan",  
+                "pesan" : "Kakak adalah teladan dalam memimpin. Semoga kakak terus sukses dan bahagia dalam menjalani hidup"
             },
             {
                 "nama"  : "Tobias David Manogari",
@@ -1135,8 +1125,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Abang sangat detail dalam menjelaskan cara menjalin hubungan profesional dengan pihak eksternal",  
+                "pesan" : "Terima kasih telah menjadi mentor yang luar biasa bang. Semoga abang selalu diberkahi kesuksesan"
             },
              {
                 "nama"  : "Yohana Manik",
@@ -1146,8 +1136,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Kakak memberikan insight yang bagus tentang pentingnya menjaga profesionalitas dengan pihak eksternal",  
+                "pesan" : "Kakak adalah inspirasi dalam berorganisasi. Semoga kakak terus diberi kemudahan dalam mencapai impian"
             },
             {
                 "nama"  : "Rizki Adrian Bennovry",
@@ -1157,8 +1147,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Abang sangat inspiratif dalam menjelaskan pentingnya networking yang baik untuk kemajuan himpunan",  
+                "pesan" : "Terima kasih atas bimbingan dan inspirasinya bang. Semoga abang selalu sukses dalam setiap usaha"
             },
             {
                 "nama"  : "Arafi Ramadhan Maulana",
@@ -1168,8 +1158,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Huwi",
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Abang memberikan pemahaman yang baik tentang pentingnya kolaborasi dengan pihak eksternal",  
+                "pesan" : "Abang adalah panutan dalam berorganisasi. Semoga abang terus diberkahi dalam setiap langkah kehidupan"
             },
             {
                 "nama"  : "Asa Do'a Uyi",
@@ -1179,8 +1169,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "Kakak sangat baik dalam menjelaskan cara membangun hubungan yang berkelanjutan dengan stakeholder",  
+                "pesan" : "Kakak adalah inspirasi dalam memimpin. Semoga kakak selalu bahagia dan sukses dalam menggapai mimpi"
             },
             {
                 "nama"  : "Chalifia Wananda",
@@ -1190,8 +1180,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Kakak memberikan insight yang berharga tentang pentingnya komunikasi efektif dengan pihak luar",  
+                "pesan" : "Terima kasih telah menjadi mentor yang hebat kak. Semoga kakak selalu diberi kemudahan dalam setiap usaha"
             },
             {
                 "nama"  : "Irvan Alfaritzi",
@@ -1201,8 +1191,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Abang sangat detail dalam menjelaskan strategi membangun relasi yang baik dengan pihak eksternal",  
+                "pesan" : "Abang adalah teladan dalam berorganisasi. Semoga abang terus sukses dan menginspirasi banyak orang"
             },
             {
                 "nama"  : "Izza Lutfia",
@@ -1212,8 +1202,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Kakak memberikan pemahaman yang baik tentang pentingnya menjaga profesionalitas dalam hubungan eksternal",  
+                "pesan" : "Kakak adalah inspirasi dalam kepemimpinan. Semoga kakak selalu diberkahi kebahagiaan dan kesuksesan"
             },
             {
                 "nama"  : "Khaalishah Zuhrah Alyaa Vanefi",
@@ -1223,8 +1213,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "Kakak sangat inspiratif dalam menjelaskan cara membangun networking yang berkelanjutan",  
+                "pesan" : "Terima kasih atas dedikasi dan inspirasinya kak. Semoga kakak terus bersinar dalam menggapai cita-cita"
             },
             {
                 "nama"  : "Raid Muhammad Naufal",
@@ -1234,8 +1224,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "telat",
                 "sosmed": "@rayths_",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Abang memberikan wawasan yang luas tentang pentingnya kolaborasi dengan berbagai pihak eksternal",  
+                "pesan" : "Abang adalah panutan yang luar biasa. Semoga abang selalu diberi kemudahan dalam mencapai impian"
             },
             {
                 "nama"  : "Tria Yunanni",
@@ -1245,8 +1235,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Buku",
                 "sosmed": "@tria_y062",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Kakak sangat baik dalam menjelaskan strategi membangun dan menjaga hubungan dengan stakeholder eksternal",  
+                "pesan" : "Kakak adalah inspirasi bagi kami semua. Semoga kakak terus sukses dan bahagia dalam menjalani hidup"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1276,11 +1266,11 @@ elif menu == "Departemen Internal":
                 "nim"   : "121450027",
                 "umur"  : "20",
                 "asal"  : "Tanggerang Selatan",
-                "alamat": "Way Kandis (Kobam)",
+                "alamat": "Way Kandis (Kobam)", 
                 "hobbi" : "Memancing keributan",
                 "sosmed": "@dimzrky_",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Abang sangat menginspirasi dalam membangun keharmonisan antar anggota himpunan. Cara abang memimpin dan mengelola internal sangat baik",
+                "pesan" : "Semoga abang selalu diberi kemudahan dalam menjalankan amanah sebagai kepala departemen internal. Terus semangat dalam membangun keharmonisan HMSD!"
             },
             {
                 "nama"  : "Catherine Firdhasari Maulina Sinaga",
@@ -1290,31 +1280,30 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi" : "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Kakak sangat baik dalam menjelaskan pentingnya menjaga keharmonisan antar anggota himpunan. Pengalaman kakak sangat berharga",
+                "pesan" : "Semoga kakak selalu diberikan kesehatan dan keberkahan. Terima kasih atas ilmu dan pengalamannya"
             },
             {
                 "nama"  : "Akbar Resdika",
-                "nama"  : "M.Akbar Resdika",
                 "nim"   : "121450066",
                 "umur"  : "20",
                 "asal"  : "Lampung Barat (Way Tenun)",
                 "alamat": "Labuhan Dalam (Untung)",
                 "hobbi" : "Suka kucing tapi gak suka ngurusnya",
                 "sosmed": "@akbar_resdika",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Abang memberikan pemahaman yang mendalam tentang pentingnya menjaga kekompakan dan keharmonisan dalam internal himpunan",
+                "pesan" : "Terus berkarya bang dalam membangun HMSD yang solid. Semoga selalu diberi kemudahan dalam setiap langkah"
             },
             {
                 "nama"  : "Rani Puspita sari",
-                "nim"   : "122450033",
+                "nim"   : "122450033", 
                 "umur"  : "20",
                 "asal"  : "Sumatera Barat",
                 "alamat": "Gang Perwira, Belwis",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@allyaislami_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "Kakak sangat detail dalam menjelaskan mekanisme kerja internal dan pentingnya menjaga hubungan baik antar anggota",
+                "pesan" : "Semoga kakak selalu sukses dan bahagia. Terima kasih telah berbagi pengalaman yang berharga tentang internal HMSD"
             },
             {
                 "nama"  : "Rendra Eka Prayoga",
@@ -1324,8 +1313,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Belwis",
                 "hobbi" : "Mancing Ikan Mas",
                 "sosmed": "@rendraepr",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "Abang memberikan wawasan yang luas tentang pentingnya koordinasi dan komunikasi dalam menjaga keharmonisan internal",
+                "pesan" : "Terus semangat bang dalam mengembangkan internal HMSD. Semoga selalu diberi kelancaran dalam setiap kegiatan"
             },
             {
                 "nama"  : "Salwa Farhanatussaidah",
@@ -1335,8 +1324,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi" : "Nonton",
                 "sosmed": "@slwfhn_694",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Kakak sangat inspiratif dalam menjelaskan cara membangun hubungan yang harmonis antar anggota himpunan",
+                "pesan" : "Semoga kakak selalu diberi keberkahan dan kesuksesan. Terima kasih atas ilmu tentang pentingnya keharmonisan dalam internal"
             },
             {
                 "nama"  : "Yosia Letare Banurea",
@@ -1346,41 +1335,41 @@ elif menu == "Departemen Internal":
                 "alamat": "Perum Griya Indah",
                 "hobbi" : "Tidur",
                 "sosmed": "@yosiabanurea",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Abang memberikan insight yang bagus tentang pentingnya menjaga kekompakan dan kebersamaan dalam internal himpunan",
+                "pesan" : "Terus berkarya bang dalam membangun internal yang solid. Semoga selalu diberi kemudahan dalam menjalankan amanah"
             },
             {
                 "nama"  : "Ari Sigit",
-                "nim"   : "121450069",
+                "nim"   : "121450069", 
                 "umur"  : "23",
                 "asal"  : "Lampung Barat",
                 "alamat": "Labuhan Ratu",
                 "hobbi" : "Futsal",
                 "sosmed": "@ari_sigit17",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "Abang memberikan wawasan yang mendalam tentang pentingnya menjaga keseimbangan antara nilai-nilai spiritual dalam dunia perkuliahan",
+                "pesan" : "Terus berkarya bang dalam mengembangkan kerohanian HMSD. Semoga selalu diberi keberkahan dalam setiap langkah"
             },
             {
                 "nama"  : "Azizah Kusumah Putri",
                 "nim"   : "122450068",
-                "umur"  : "21",
+                "umur"  : "21", 
                 "asal"  : "Lampung Selatan",
                 "alamat": "Natar",
                 "hobbi" : "Berkebun",
                 "sosmed": "@azizahksma15",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Kakak sangat inspiratif dalam menjelaskan bagaimana memadukan nilai-nilai agama dengan aktivitas perkuliahan",
+                "pesan" : "Semoga kakak selalu diberi kemudahan dalam menjalankan amanah. Terima kasih telah berbagi pengalaman yang berharga"
             },
             {
                 "nama"  : "Meira Listyaningrum",
                 "nim"   : "122450011",
                 "umur"  : "20",
-                "asal"  : "Pesawaran",
+                "asal"  : "Pesawaran", 
                 "alamat": "Airan",
                 "hobbi" : "Membaca",
                 "sosmed": "@meirasty_",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
+                "kesan" : "Kakak memberikan pemahaman yang baik tentang pentingnya keseimbangan antara kegiatan kerohanian dan organisasi",
+                "pesan" : "Semoga kakak selalu diberi keberkahan dan kesuksesan. Terus semangat dalam mengembangkan kerohanian HMSD"
             },
             {
                 "nama"  : "Rendi Alexander Hutagalung",
@@ -1390,8 +1379,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Kost Benawang",
                 "hobbi" : "Menyanyi",
                 "sosmed": "@rexander",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Abang memberikan insight yang bagus tentang bagaimana membangun karakter anggota himpunan melalui kegiatan kerohanian yang positif",
+                "pesan" : "Terus berkarya bang dalam membangun spiritualitas anggota HMSD. Semoga selalu diberi kemudahan dalam setiap langkah"
             },
             {
                 "nama"  : "Renta Siahaan",
@@ -1401,19 +1390,19 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi" : "Membaca dan Memancing",
                 "sosmed": "@renta.shn",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Kakak sangat detail dalam menjelaskan pentingnya nilai-nilai spiritual dalam membangun internal himpunan yang harmonis",
+                "pesan" : "Semoga kakak selalu diberi keberkahan dalam menjalankan amanah. Terima kasih telah berbagi pengalaman yang berharga"
             },
             {
                 "nama"  : "Josua Panggabean",
                 "nim"   : "122450061",
                 "umur"  : "21",
                 "asal"  : "Pematang Siantar",
-                "alamat": "Gerbang Barat",
+                "alamat": "Gerbang Barat", 
                 "hobbi" : "Menonton",
                 "sosmed": "@josuapanggabean_",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Abang memberikan pemahaman yang mendalam tentang bagaimana memadukan nilai kerohanian dengan aktivitas organisasi",
+                "pesan" : "Semoga abang selalu diberi kelancaran dalam setiap kegiatan"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1443,8 +1432,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Dekat Penjara",
                 "hobbi" : "Lagi nyari",
                 "sosmed": "@andriangaol",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi terutama bagaimana agar dapat memanfaatkan produk yang telah di buat",  
+                "pesan" : "Semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
             },
             {
                 "nama"  : "Adisty Syawaida Ariyanto",
@@ -1455,7 +1444,7 @@ elif menu == "Departemen SSD":
                 "hobbi" : "Nonton Film",
                 "sosmed": "@adistysa_",
                 "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "pesan" : "Semoga selalu dilancarkan kegiatannya di dalam maupun di luar perkuliahan "
             },
             {
                 "nama"  : "Nabila Azhari",
@@ -1465,8 +1454,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan ",
                 "hobbi" : "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi dan bermanfaat",  
+                "pesan" : "Semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
                 "nama"  : "Danang Hilal Kurniawan",
@@ -1476,8 +1465,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi" : "Belajar",
                 "sosmed": "@dananghk_",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
+                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi terutama dalam perdagangan produk yang baik dan benar",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani perkuliahan"
             },
             {
                 "nama"  : "Farrel Julio Akbar",
@@ -1487,8 +1476,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobbi" : "Kayang",
                 "sosmed": "@farel_julio",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jangan lupa jaga kesehatan"
+                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi terutama dalam hal pemasaran produk",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya bang!"
             },
             {
                 "nama"  : "Nabilah Andika Fitriati",
@@ -1498,8 +1487,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi" : "Tidur",
                 "sosmed": "@nabilahanftr",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani dunia perkuliahan"
+                "kesan" : "Kakak sangat menginspirasi dalam memberikan wawasan tentang cara mencari sponsor dan menjalin kerjasama yang baik dengan pihak luar",  
+                "pesan" : "Semoga kakak selalu diberi kemudahan dalam menjalankan tugas perkuliahan dan organisasi."
             },
             {
                 "nama"  : "Alvia Asrinda Br.Gintng",
@@ -1509,8 +1498,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi" : "Nonton Winda",
                 "sosmed": "@alviagnting",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
+                "kesan" : "Sharing pengalaman kakak tentang strategi pendekatan ke calon sponsor sangat bermanfaat dan membuka wawasan baru",  
+                "pesan" : "Tetap jaga kesehatan kak di tengah kesibukan kuliah dan organisasi. Semoga sukses selalu dalam setiap langkah!"
             },
             {
                 "nama"  : "Dhafin Razaqa Luthfi",
@@ -1520,8 +1509,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Bandar Lampung",
                 "hobbi" : "Olahraga",
                 "sosmed": "@dhafinrzqa13",
-                "kesan" : "pengalaman yang abang ceritakan sangat menginspirasi",  
-                "pesan" : "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak, semoga urusannya selalu dilancarkan"
+                "kesan" : "Abang memberikan insight yang sangat berharga tentang teknik negosiasi dan cara meyakinkan sponsor untuk bekerjasama",  
+                "pesan" : "Semoga abang selalu diberikan kelancaran dalam menyelesaikan studi dan amanah di organisasi. Terus berbagi ilmu yang bermanfaat!"
             },
             {
                 "nama"  : "Elia Meylani Simanjuntak",
@@ -1531,8 +1520,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi" : "Main Alat Musik",
                 "sosmed": "@meylanielia",
-                "kesan" : "pengalaman yang kakak ceritakan sangat menginspirasi",  
-                "pesan" : "Semangat terus kak dalam menjalani hari-harinya, semoga semua tugas dan tanggung jawab yang diemban dapat diselesaikan dengan lancar"
+                "kesan" : "Kakak sangat detail dalam menjelaskan proses pembuatan proposal sponsorship yang menarik dan profesional",  
+                "pesan" : "Semoga kakak selalu diberi kesehatan dan kemudahan dalam menggapai cita-cita. Terima kasih atas ilmu yang dibagikan!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
