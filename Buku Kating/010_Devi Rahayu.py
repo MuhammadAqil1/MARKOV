@@ -241,13 +241,13 @@ elif menu == "Baleg":
                 "pesan" : "Terus mendorong keterlibatan anggota dalam proses pengambilan keputusan dan terus berbagi insight dan pengalamannya, semangat selalu dalam menjalankan peran di himpunan ini"
             },
             {
-                "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
+               "nama"  : "Anisa Fitriyani",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
+                "sosmed": "@ansftynn_",
                 "kesan" : "Informatif dalam menjelaskan tentang berbagai aspek tugas dan tanggung jawab di komisi ini, sehingga dapat memahami dengan jelas peran penting yang dimiliki oleh komisi ini dalam pengambilan keputusan di himpunan",  
                 "pesan" : "Terus menjalankan upaya untuk menyebarluaskan informasi yang mendalam tentang peran dan fungsi di komisi ini, agar lebih banyak anggota himpunan dapat memahami pentingnya keterlibatan dalam setiap proses yang ada, semangat teru kak untuk kedepannya"
             },
