@@ -280,7 +280,7 @@ elif menu == "Baleg":
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
                 "kesan" : "sangat informatif dan memberikan perspektif baru tentang proses legislasi",  
-                "pesan" : " Terus berinovasi dan menjaga komunikasi yang baik"
+                "pesan" : "Terus berinovasi dan menjaga komunikasi yang baik"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
