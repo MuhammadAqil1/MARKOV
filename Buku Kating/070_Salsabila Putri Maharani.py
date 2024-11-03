@@ -1,3 +1,4 @@
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
@@ -240,12 +241,12 @@ elif menu == "Baleg":
             },
             {
                 "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
+                "sosmed": "@ansftynn_",
                 "kesan" : "Kakaknya baik dan memberikan banyak pelajaran kepada kami",  
                 "pesan" : "Terus semanggat dan tetap sehat selalu"
             },
@@ -1527,5 +1528,4 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()    
-
-# Tambahkan menu lainnya sesuai kebutuhan
+ 

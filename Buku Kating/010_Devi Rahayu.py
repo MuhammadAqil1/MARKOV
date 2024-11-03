@@ -1,3 +1,4 @@
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
@@ -24,6 +25,7 @@ def streamlit_menu():
             "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -1530,4 +1532,3 @@ elif menu == "Departemen SSD":
     ssd()
 
 
-# Tambahkan menu lainnya sesuai kebutuhan
