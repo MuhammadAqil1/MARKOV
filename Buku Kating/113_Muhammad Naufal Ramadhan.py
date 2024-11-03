@@ -239,12 +239,12 @@ elif menu == "Baleg":#Kesan dan pesan sudah selesai
             },
             {
                 "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al waqiah setiap magrib",
+                "sosmed": "@ansftynn_",
                 "kesan" : "Peduli dengan kemajuan organisasi dan anggotanya",  
                 "pesan" : "Semoga segala yang Kakak lakukan selalu membawa keberkahan"
             },
