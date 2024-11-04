@@ -247,7 +247,7 @@ elif menu == "Baleg":
                 "hobbi" : "Membaca Al waqiah setiap magrib",
                 "sosmed": "@ansftynn_",
                 "kesan" : "Sangat bersemangat!",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "pesan" : "Terima kasih telah memberikan banyak tawa dan keceriaan"
             },
             {
                 "nama"  : "Mirzan Yusuf Rabbani",
@@ -258,7 +258,7 @@ elif menu == "Baleg":
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
                 "kesan" : "Selalu ada untuk bersenang-senang",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "pesan" : "terimakasi bang, abang selalu bikin suasana jadi hidup!"
             },
             {
                 "nama"  : "Dhea Amelia Putri",
@@ -269,7 +269,7 @@ elif menu == "Baleg":
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
                 "kesan" : "Energinya bikin semangat!",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "pesan" : "Terima kasih telah membawa energi positif ke dalam kegiatan kita kak"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -280,7 +280,7 @@ elif menu == "Baleg":
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
                 "kesan" : "Abangnya selalu bikin hari jadi cerah",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "pesan" : "Terima kasih telah membuat wawancara menjadi menyenangkan sekali"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -291,7 +291,7 @@ elif menu == "Baleg":
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
                 "kesan" : "Selalu bikin suasana jadi hidup",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "pesan" : "Terima kasih telah menjadi kakak yang penuh keceriaan"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -301,8 +301,8 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "kesan" : "Selalu bikin kegiatan jadi menyenangkan",  
+                "pesan" : "Terima kasih, bang, sudah selalu bikin suasana jadi seru!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
