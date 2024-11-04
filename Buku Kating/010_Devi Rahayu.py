@@ -325,8 +325,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu",
                 "hobbi" : "Mendengarkan bang Bintang dengerin lagu",
                 "sosmed": "@anissaluthfi_",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Kehadirannya membawa semangat positif bagi semua orang, sangat informatif dalam menjelaskan suatu hal, bijaksana dan memberikan motivasi",  
+                "pesan" : "Terima kasih telah menjadi teladan dan semangat motivasi yang diberikan. Semoga sukses di mana pun kakak berada"
             },
             {
                 "nama"  : "Rian Bintang Wijaya",
@@ -336,8 +336,8 @@ elif menu == "Senator":
                 "alamat": "Kota Baru",
                 "hobbi" : "Mendengar Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "selalu menjelaskan setiap materi dengan jelas dan informatif, membuat hal yang rumit jadi lebih mudah dipahami. Terima kasih atas motivasi dan semangat yang selalu diberikan, sehingga kami merasa lebih percaya diri dalam menjalani proses ini. Semoga kakak terus sukses dan dapat membagikan ilmunya kepada siapapun",  
+                "pesan" : "Semangat dan optimisme kakak telah menjadi energi positif bagi kami. Semoga kakak terus sukses dan bahagia, dan dilancarkan perkuliahannya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -379,8 +379,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobbi" : "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan menjadi sosok yang memberikan banyak masukan serta motivasi melalui pengalaman yang telah dilakukan",  
-                "pesan" : "Tetap semangat kak dalam menjalani hari-harinya, semoga diperlancar dalam menyelesaikan tugas dan tanggung jawab yang sedang di emban"
+                "kesan" : "Selalu memberikan penjelasan yang sangat informatif dan mudah dipahami serta memberikan masukan yang berarti, juga memberikan kami dorongan untuk terus maju",  
+                "pesan" : "Terima kasih atas setiap penjelasan yang informatif dan nasihat berharga yang kakak bagikan. Semoga kakak terus diberikan kesuksesan dan bisa selalu menginspirasi orang lain dengan pengalaman yang telah dilalui"
             },
             {
                 "nama"  : "Elisabeth Claudia Simanjuntak",
@@ -390,8 +390,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "Sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
-                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat kak"
+                "kesan" : "Kehadiran kakak selalu membawa keceriaan dan kehangatan, baik dan ramah",  
+                "pesan" : "Semangat dan optimisme kakak telah menjadi energi positif bagi kami. Semoga kakak terus sukses dan bahagia."
             },
             {
                 "nama"  : "Nisrina Nur Afifah",
@@ -401,8 +401,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi" : "Nabok orang",
                 "sosmed": "@afifahhnsrn",
-                "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
-                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
+                "kesan" : "Kakak selalu menghadirkan energi positif di setiap pertemuan, membuat kami merasa semangat  dan selalu ada energi positif setiap kali kakak hadir",  
+                "pesan" : "Tetap semangat, Kak! Semoga setiap langkah yang kakak ambil dalam menjalankan tugas ini selalu dimudahkan dan mendapatkan hasil yang terbaik"
             },
             {
                 "nama"  : "Allya Nurul Islami Pasha",
