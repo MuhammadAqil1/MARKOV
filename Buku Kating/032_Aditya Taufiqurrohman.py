@@ -813,7 +813,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Bangun pagi",
                 "sosmed": "@yogyyyyyy",
                 "kesan" : "abangnya penuh dedikasi",  
-                "pesan" : "--"
+                "pesan" : "Kakak selalu berhasil bikin hari jadi lebih ceria"
             },
             {
                 "nama"  : "Ramadhita Atifa Hendri",
@@ -824,7 +824,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan" : "Kakak yang teliti",  
-                "pesan" : "--k"
+                "pesan" : "Terima kasih telah menjadi kakak yang super ramah"
             },
             {
                 "nama"  : "Nazwa Nabilla",
@@ -835,7 +835,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Belajar",
                 "sosmed": "@nazwanbilla",
                 "kesan" : "Kakak yang disiplin",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih telah menjadi kakak yang penuh kejutan"
             },
             {
                 "nama"  : "Bastian Heskia Silaban",
@@ -846,7 +846,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Main game",
                 "sosmed": "@bastiansilaban_",
                 "kesan" : "abangnya cekatan",  
-                "pesan" : "--"
+                "pesan" : "terimakasih bang telah berhasil bikin hari jadi lebih baik"
             },
             {
                 "nama"  : "Dea Mutia Risani",
@@ -857,7 +857,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan" : "Kakaknya ceria dan positif",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih kak, telah membawa keceriaan dalam setiap kegiatan tadi"
             },
             {
                 "nama"  : "Esteria Rohanauli Sidauruk",
@@ -868,7 +868,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
                 "kesan" : "Kakaknya penuh inovasi",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih telah memberikan banyak tawa dan kebahagiaan"
             },
             {
                 "nama"  : "Natasya Ega Lina",
@@ -879,7 +879,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Jadi humas",
                 "sosmed": "@nateee__15",
                 "kesan" : "Kakaknya penuh semangat",  
-                "pesan" : "--"
+                "pesan" : "tarima kasih, Kakak selalu berhasil bikin suasana jadi hidup"
             },
             {
                 "nama"  : "Novelia Adinda",
@@ -890,7 +890,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan" : "Kakak yang gigih",  
-                "pesan" : "--"
+                "pesan" : "Kakak selalu penuh dengan vibes positif"
             },
             {
                 "nama"  : "Ratu Keisha Jasmine Deanova",
@@ -901,7 +901,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
                 "kesan" : "Kakaknya sangat ramah",  
-                "pesan" : "--"
+                "pesan" : "terimakasih kak telah mengajar ads"
             },
             {
                 "nama"  : "Tobias David Manogari",
@@ -912,7 +912,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
                 "kesan" : "abangnya aktif dan penuh semangat",  
-                "pesan" : "--"
+                "pesan" : "abang selalu punya jokes yang bikin kita ketawa"
             },
              {
                 "nama"  : "Yohana Manik",
@@ -923,7 +923,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
                 "kesan" : "Kakaknya sangat peduli",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih telah menjadi kakak yang penuh energi"
             },
             {
                 "nama"  : "Rizki Adrian Bennovry",
@@ -934,7 +934,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan" : "abangnya sopan",  
-                "pesan" : "--"
+                "pesan" : "Abang selalu berhasil bikin suasana jadi fun dan hidup"
             },
             {
                 "nama"  : "Arafi Ramadhan Maulana",
@@ -945,7 +945,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
                 "kesan" : "abangnya penuh semangat dan humoris",  
-                "pesan" : "--"
+                "pesan" : "Abang selalu siap untuk bikin kegiatan jadi lebih menarik"
             },
             {
                 "nama"  : "Asa Do'a Uyi",
@@ -956,7 +956,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
                 "kesan" : "Pembimbing yang baik",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih kak, telah memberikan banyak momen seru"
             },
             {
                 "nama"  : "Chalifia Wananda",
@@ -967,7 +967,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
                 "kesan" : "Kakaknya sangat perhatian",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih kak telah menjadi kakak yang super fleksibel"
             },
             {
                 "nama"  : "Irvan Alfaritzi",
@@ -978,7 +978,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
                 "kesan" : "abangnya sangat gigih",  
-                "pesan" : "--"
+                "pesan" : "Abang selalu berhasil bikin hari-hari jadi lebih berwarna"
             },
             {
                 "nama"  : "Izza Lutfia",
@@ -989,7 +989,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
                 "kesan" : "Kakaknya sangat positif",  
-                "pesan" : "--"
+                "pesan" : "Kakak selalu punya cara untuk membuat waktu jadi cepat berlalu"
             },
             {
                 "nama"  : "Khaalishah Zuhrah Alyaa Vanefi",
@@ -1000,7 +1000,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
                 "kesan" : "Kakaknya keliatan galak",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih telah menjadi kakak yang penuh kejutan."
             },
             {
                 "nama"  : "Raid Muhammad Naufal",
@@ -1011,7 +1011,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "telat",
                 "sosmed": "@rayths_",
                 "kesan" : "abang yang rendah hati",  
-                "pesan" : "--"
+                "pesan" : "Terima kasih telah menjadi kakak yang penuh perhatian"
             },
             {
                 "nama"  : "Tria Yunanni",
@@ -1022,7 +1022,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Baca Buku",
                 "sosmed": "@tria_y062",
                 "kesan" : "kakak nya sangat ceria",  
-                "pesan" : "--"
+                "pesan" : "Kakak selalu berhasil bikin suasana jadi hangat"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
