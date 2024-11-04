@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "pesan" : "Semangat terus, Kak! Semoga bisa terus menginspirasi dan capai semua yang diimpikan!"
             },
             {
-                "nama"  : "Anisa Dini Amalia",
+                "nama"  : "Anisa Dini Amaliya",
                 "nim"   : "121450081",
                 "umur"  : "21",
                 "asal"  : "Tanggerang",
