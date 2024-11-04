@@ -102,9 +102,9 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1ej7DmMzYHXwadapoaPvJlZdmKtzVLTFn", #bggumilang
             "https://drive.google.com/uc?export=view&id=1eiIt1-2UZUwFwOlVQZLFyuqcZ6GpOu3l", #bgpandra
             "https://drive.google.com/uc?export=view&id=1etruHRzcR2-lYFdecuhA8kav7T6vmODx", #kkmeliza
-            "https://drive.google.com/uc?export=view&id=1esXziqrCLrZDxuNK1EHRfMZlR0qdmd_N", #kak putri
+            "https://drive.google.com/uc?export=view&id=1W5lHqLHi4H-FDyk7QAOplHotSYpEjHCo", #kak putri
             "https://drive.google.com/uc?export=view&id=1edMtSywTfMR0wHOjjXpPRw5JY3kNCFO5", #kak hartiti
-            "https://drive.google.com/uc?export=view&id=1evuxP1f1NUPMJtpdeohn9tDd8NEYm74l", #kak nadilla
+            "https://drive.google.com/uc?export=view&id=1RWzfvmts6Hp_U_STpy_2Xgs1opq5WXx_", #kak nadilla
         ]
         data_list = [
             {
@@ -237,12 +237,12 @@ elif menu == "Baleg":
                 "pesan" : "tetap semangat kakak dan semoga sukses selalu"
             },
             {
-                "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
+               "nama"  : "Anisa Fitriyani",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
                 "sosmed": "@ansftynn_",
                 "kesan" : "agak susah membedakan banyak sekali yang namanya annisa, tapi kakak ini n nya ga double",  
                 "pesan" : "semangat selalu kak dan semoga sellau di berikan kelancaran "
