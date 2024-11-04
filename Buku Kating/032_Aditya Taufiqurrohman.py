@@ -542,7 +542,7 @@ elif menu == "Departemen PSDA":
                 "hobbi" : "Bermain Game",
                 "sosmed": "@sahid_maul19",
                 "kesan" : "terasa familiar, tapi lupa liat dimana",  
-                "pesan" : "abang nya baik frendly dan memotivasi"
+                "pesan" : "terimaksih abang telah menjadi abang yang baik frendly dan memotivasi"
             },
             {
                 "nama"  : "Vanessa Olivia Rose",
