@@ -845,7 +845,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main game",
                 "sosmed": "@bastiansilaban_",
-                "kesan" : "abvangnya cekatan",  
+                "kesan" : "abangnya cekatan",  
                 "pesan" : "--"
             },
             {
@@ -1443,7 +1443,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan" : "Penuh kesabaran",  
                 "pesan" : "--"
             },
-            {
+             {
                 "nama"  : "Nasywa Nur Afifah",
                 "nim"   : "122450125",
                 "umur"  : "20",
@@ -1451,7 +1451,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@nsywanaf",
-                "kesan" : "Kakak yang disiplin",  
+                "kesan" : "Kakaknya suka berbagi",  
                 "pesan" : "--"
             },
             {
@@ -1484,7 +1484,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Rajabasa",
                 "hobbi" : "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
-                "kesan" : "asik dan banyak pengalamannya",  
+                "kesan" : "asik dan banyak sekali pengalamannya",  
                 "pesan" : "--"
             },
             {
@@ -1495,7 +1495,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobbi" : "Main HP",
                 "sosmed": "@_akmal.faiz",
-                "kesan" : "asik dan baik banget abangnya",  
+                "kesan" : "asik dan baik banget abannya",  
                 "pesan" : "--"
             },
             {
@@ -1506,7 +1506,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Dekat jalan tol, Wisma Hana Hani",
                 "hobbi" : "Bengong dan membaca buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan" : "abangnya sangat tekun dan gigih",  
+                "kesan" : "--",  
                 "pesan" : "--"
             },
             {
