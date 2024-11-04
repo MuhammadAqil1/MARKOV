@@ -176,6 +176,21 @@ fig2.patch.set_facecolor('#f8f9fa')
 plt.tight_layout()
 st.pyplot(fig2)
 
+st.markdown("""
+<p>Berdasarkan visualisasi heatmap di atas, dapat dilihat beberapa pola menarik dalam hubungan antara minat mahasiswa dan pemilihan divisi magang:</p>
+
+<ul>
+<li>Terdapat kecenderungan yang kuat antara minat mahasiswa dengan divisi magang yang dipilih, ditunjukkan oleh konsentrasi warna yang lebih gelap pada beberapa area tertentu</li>
+<li>Mahasiswa dengan minat teknologi lebih cenderung memilih divisi SNR dan PIKA</li>
+<li>Kategori minat kreatif memiliki distribusi yang merata di berbagai divisi dan paling banyak di divisi DESAIN</li>
+<li>Kategori minat olahraga paling banyak di divisi MANJAKAT dan KEHARMONISASIAN</li>
+<li>Beberapa divisi menunjukkan keragaman minat yang tinggi, mengindikasikan bahwa divisi tersebut membutuhkan berbagai keterampilan dan latar belakang</li>
+</ul>
+
+<p>Temuan ini menunjukkan bahwa meskipun ada korelasi yang kuat antara minat dan pemilihan divisi, pemilihan divisi magang juga dipengaruhi oleh faktor lain seperti kebutuhan divisi dan kemampuan mahasiswa.</p>
+""", unsafe_allow_html=True)
+
+
 # Tampilkan statistik dalam card
 st.subheader('📊 Statistik Ringkas')
 col1, col2, col3 = st.columns(3)
