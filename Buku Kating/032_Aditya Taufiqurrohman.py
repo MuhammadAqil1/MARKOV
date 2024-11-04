@@ -1506,7 +1506,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Dekat jalan tol, Wisma Hana Hani",
                 "hobbi" : "Bengong dan membaca buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan" : "--",  
+                "kesan" : "abangnya tekun dan gigih",  
                 "pesan" : "--"
             },
             {
