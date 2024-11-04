@@ -102,9 +102,9 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1ej7DmMzYHXwadapoaPvJlZdmKtzVLTFn", #bggumilang
             "https://drive.google.com/uc?export=view&id=1eiIt1-2UZUwFwOlVQZLFyuqcZ6GpOu3l", #bgpandra
             "https://drive.google.com/uc?export=view&id=1etruHRzcR2-lYFdecuhA8kav7T6vmODx", #kkmeliza
-            "https://drive.google.com/uc?export=view&id=1esXziqrCLrZDxuNK1EHRfMZlR0qdmd_N", #kak putri
+            "https://drive.google.com/uc?export=view&id=1W5lHqLHi4H-FDyk7QAOplHotSYpEjHCo", #kak putri
             "https://drive.google.com/uc?export=view&id=1edMtSywTfMR0wHOjjXpPRw5JY3kNCFO5", #kak hartiti
-            "https://drive.google.com/uc?export=view&id=1evuxP1f1NUPMJtpdeohn9tDd8NEYm74l", #kak nadilla
+            "https://drive.google.com/uc?export=view&id=1RWzfvmts6Hp_U_STpy_2Xgs1opq5WXx_", #kak nadilla
         ]
         data_list = [
             {
@@ -238,11 +238,11 @@ elif menu == "Baleg":
             },
             {
                 "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al-Waqiah setiap maghrib",
                 "sosmed": "@ansftynn_",
                 "kesan" : "agak susah membedakan banyak sekali yang namanya annisa, tapi kakak ini n nya ga double",  
                 "pesan" : "semangat selalu kak dan semoga sellau di berikan kelancaran "
@@ -299,7 +299,7 @@ elif menu == "Baleg":
                 "alamat": "Kemiling",
                 "hobbi" : "Marah-marah",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "abang asprak sayaa niehh",  
+                "kesan" : "abang asprak sayaa yg baik niehh",  
                 "pesan" : "yang sabar ya bang kalau ngasprakin RB"
             },
         ]
@@ -541,7 +541,7 @@ elif menu == "Departemen PSDA":
                 "hobbi" : "Bermain Game",
                 "sosmed": "@sahid_maul19",
                 "kesan" : "Sabangnya asik dan menginspirasi ",  
-                "pesan" : "jaga kesehatan bang"
+                "pesan" : "jaga kesehatan bang semangat selalu"
             },
             {
                 "nama"  : "Vanessa Olivia Rose",
@@ -1297,12 +1297,12 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama"  : "Rani Puspita sari",
-                "nim"   : "122450033",
+                "nim"   : "122450030",
                 "umur"  : "20",
-                "asal"  : "Sumatera Barat",
-                "alamat": "Gang Perwira, Belwis",
-                "hobbi" : "Nonton Dracin",
-                "sosmed": "@allyaislami_",
+                "asal"  : "Kota Metro",
+                "alamat": "Rajabasa",
+                "hobbi" : "Dengar musik",
+                "sosmed": "@rannipu",
                 "kesan" : "kakanya sangat informatif dan seru",  
                 "pesan" : "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
