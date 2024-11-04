@@ -1,18 +1,76 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import numpy as np
 import streamlit as st
 
-# Membaca data CSV
-df = pd.read_csv('C:/RAZIN/Kader/responses_clean.csv', delimiter=';')
+# Data
+data = {
+    "Divisi Magang": [
+        "KADERISASI", "KONTEN", "PIKA", "HUBUNGAN LUAR", "MANJAKAT",
+        "DESAIN", "KONTEN", "KEROHANIAN", "KEHARMONISASIAN", "KESEKRETARIATAN",
+        "BALEG", "PDD", "DESAIN", "KEHARMONISASIAN", "SNR",
+        "KADERISASI", "BALEG", "MANJAKAT", "KADERISASI", "KEROHANIAN",
+        "KADERISASI", "KEWIRAUSAHAAN", "BALEG", "HUBUNGAN LUAR", "PENGMAS",
+        "DESAIN", "HUBUNGAN LUAR", "KEHARMONISASIAN", "HUBUNGAN LUAR", "SENATOR",
+        "DESAIN", "KEROHANIAN", "SNR", "PIKA", "PDD",
+        "KEROHANIAN", "PDD", "PENGMAS", "KEROHANIAN", "PDD",
+        "HUBUNGAN LUAR", "HUBUNGAN LUAR", "HUBUNGAN LUAR", "MANJAKAT", "MANJAKAT",
+        "KESEKRETARIATAN", "KADERISASI", "BALEG", "BALEG", "MANJAKAT",
+        "KEROHANIAN", "KESEKRETARIATAN", "KEROHANIAN", "PIKA", "SNR",
+        "KEROHANIAN", "PENGMAS", "SNR", "KONTEN", "PENGMAS",
+        "PENGMAS", "ORBA", "PENGMAS", "KEWIRAUSAHAAN", "KEWIRAUSAHAAN",
+        "BALEG", "BALEG", "KEROHANIAN", "KEHARMONISASIAN", "MANJAKAT",
+        "PDD", "KEHARMONISASIAN", "BALEG", "KEBENDAHARAAN", "PIKA",
+        "KONTEN", "KADERISASI", "SNR", "DESAIN", "MANJAKAT",
+        "DESAIN", "PENGMAS", "KESEKRETARIATAN", "BALEG", "ORBA",
+        "PDD", "HUBUNGAN LUAR", "KONTEN", "KEHARMONISASIAN", "KEROHANIAN",
+        "KADERISASI", "PENGMAS", "DESAIN", "HUBUNGAN LUAR", "KADERISASI",
+        "KEBENDAHARAAN", "MANJAKAT", "HUBUNGAN LUAR", "SENATOR", "BALEG",
+        "ORBA", "SNR", "KEROHANIAN", "KEHARMONISASIAN", "KEBENDAHARAAN",
+        "ORBA", "PENGMAS", "PIKA", "BALEG", "SENATOR",
+        "KEROHANIAN", "SNR", "SNR","SNR","KEROHANIAN"
+    ],
+    "Minat": [
+        "Menulis", "Membuat Video", "Bidang Inovasi", "Menonton film", 
+        "Public speaking dan dengerin lagu", "Desain & Melukis", "Traveling",
+        "Membaca", "Main piano", "Membaca", "ngoding tapi ga jago",
+        "Membaca komik", "ngedesain", "Futsal, Voli, Roasting Orang",
+        "belajar data", "Billiard", "Menulis", "Badminton", "seni & nyanyi",
+        "Bermain Musik dan Futsal", "Membaca komik", "bisnis", "Dengerin musik",
+        "Bersepeda & Menjelajah", "mencari waktu tidur", "desain grafis",
+        "membaca / menonton", "Berenang", "Membaca", "Belajar hal baru",
+        "editing foto and video", "Bernyanyi & Bermain musik", "membaca",
+        "Cyber Security", "Fotografi", "Futsal dan Main game", "menonton youtube",
+        "Pengabdian Masyarakat", "Bernyanyi", "Hobi melamun", "jalan-jalan",
+        "jalan-jalan", "ngemc", "Olahraga", "Olahraga",
+        "Nyanyi, main musik, storytelling", "main game dan tidur", "Desain grafis",
+        "Futsal", "Dance", "Main game", "Dengarkan dan main musik", "Membaca",
+        "Teknologi Riset, Komunikasi Eksternal & Mencari pengalaman",
+        "sains dan teknologi", "sains dan teknologi", "Main badminton dan baca webtoon",
+        "menulis, menggambar", "Konten kreator", "Minat Belajar hobi main game",
+        "dance dan menulis", "Futsal dan volly", "Pengabdian Masyarakat", "Bisnis",
+        "bisnis", "Memasak, Memanah", "Menari", "mendengarkan musik", "Olahraga",
+        "olahraga", "Bernyanyi & Main piano", "Futsal, Voli, Roasting orang",
+        "main game", "Pengabdian Masyarakat", "proyek di bidang data",
+        "Membuat konten", "Bermain musik", "Membaca Komik", "Desain",
+        "Dengar musik Olahraga", "melukis", "belajar", "Mencoba hal baru dan nonton",
+        "Musik", "Menulis dan mendengarkan musik", "Fotografi", "Denger musik",
+        "badminton, nonton drakor", "Olahraga & Membaca",
+        "Saya suka bermain bulu tangkis dan bermain gitar", "bermain&tidur",
+        "berolahraga dan baking", "Desain", "belajar public speaking", "badminton",
+        "menyanyi,menari, nonton drakor,kpopan", "Olahraga", "Membaca", "Membaca",
+        "Membaca dan menulis", "menari", "Main game", "musik & dengerin musik",
+        "badminton", "Acara Sosial & Nonton Drakor", "menulis", "Main Game",
+        "Olahraga", "Membaca dan Menulis", "searching lomba lomba terutama di English branch",
+        "komunikasi", "Mendesain web dan memvisualisasikan data", "ngulik data","Membaca dan menggambar","Publick speaking"
+    ]
+}
+
+# Membuat DataFrame dari dictionary - perbaikan sintaks
+df = pd.DataFrame(data)
 
 # Mengubah kolom Minat menjadi lowercase
 df['Minat'] = df['Minat'].str.lower()
-
-# Setelah membaca CSV, tambahkan ini untuk melihat nama kolom yang tersedia
-print("Nama kolom yang tersedia:")
-print(df.columns)
 
 # Membuat fungsi untuk mengkategorikan minat
 def kategorikan_minat(minat):
@@ -47,7 +105,7 @@ st.markdown("""
         padding: 2rem;
         background-color: #f8f9fa;
     }
-    h1 {
+    h1 {                        
         color: #1e3d59;
         text-align: center;
         padding: 1.5rem;
@@ -55,19 +113,9 @@ st.markdown("""
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
-    .subheader {
-        color: #17a2b8;
-        margin-top: 2rem;
-    }
-    .article {
-        padding: 2rem;
-        background-color: white;
-        border-radius: 10px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        margin: 2rem 0;
-    }
+            
     </style>
-""", unsafe_allow_html=True)
+""", unsafe_allow_html=True) # Memasukkan syntax HTML ke dalam Streamlit
 
 # Judul aplikasi dengan styling
 st.title('📊 Analisis Minat Mahasiswa dan Divisi Magang')
@@ -127,50 +175,6 @@ ax2.set_facecolor('#f8f9fa')
 fig2.patch.set_facecolor('#f8f9fa')
 plt.tight_layout()
 st.pyplot(fig2)
-
-st.markdown("""
-<p>Melalui visualisasi heatmap, terlihat beberapa pola menarik:</p>
-<ul>
-<li>Terdapat korelasi positif yang kuat (>0.7) antara minat teknologi dengan pemilihan divisi IT dan Data</li>
-<li>Mahasiswa dengan minat kreatif cenderung memilih divisi desain dan multimedia</li>
-<li>Ada juga pola lintas bidang dimana beberapa mahasiswa mengkombinasikan minat mereka</li>
-<li>Sekitar 75% mahasiswa memilih divisi magang yang sejalan dengan minat utama mereka</li>
-</ul>
-
-<h3>3. Implikasi untuk Pengembangan Program</h3>
-<p>Temuan ini memberikan beberapa implikasi penting bagi institusi:</p>
-
-<h4>a. Pengembangan Program Magang yang Lebih Terarah</h4>
-<ul>
-<li>Menyediakan jalur magang yang lebih spesifik sesuai sub-kategori minat</li>
-<li>Mengembangkan program hybrid yang mengakomodasi kombinasi minat</li>
-<li>Memperkuat kerjasama dengan industri yang relevan</li>
-</ul>
-
-<h4>b. Penyesuaian Kurikulum</h4>
-<ul>
-<li>Memasukkan lebih banyak mata kuliah praktik sesuai tren minat</li>
-<li>Mengintegrasikan teknologi terkini dalam pembelajaran</li>
-<li>Menyediakan jalur spesialisasi yang lebih fleksibel</li>
-</ul>
-
-<h4>c. Peningkatan Efektivitas Penempatan</h4>
-<ul>
-<li>Mengembangkan sistem matching yang lebih sophisticated</li>
-<li>Memberikan bimbingan karir yang lebih personal</li>
-<li>Melakukan evaluasi berkala terhadap kepuasan magang</li>
-</ul>
-
-<h3>4. Rekomendasi Tindak Lanjut</h3>
-<p>Berdasarkan temuan ini, beberapa langkah yang dapat diambil:</p>
-<ul>
-<li>Melakukan survei mendalam tentang sub-kategori minat yang spesifik</li>
-<li>Mengembangkan program mentoring yang menghubungkan mahasiswa dengan praktisi</li>
-<li>Membuat sistem tracking untuk mengukur keberhasilan penempatan magang</li>
-<li>Menjalin kerjasama strategis dengan lebih banyak mitra industri</li>
-</ul>
-</div>
-""", unsafe_allow_html=True)
 
 # Tampilkan statistik dalam card
 st.subheader('📊 Statistik Ringkas')
