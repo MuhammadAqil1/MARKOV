@@ -834,7 +834,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur"  : "21",
                 "asal"  : "Bandar Lampung",
                 "alamat": "Tanjung Senang",
-                "hobbi" : "Nugas"
+                "hobbi" : "Nugas",
                 "sosmed": "@arsyiah.__",
                 "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
@@ -916,7 +916,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan" : "Sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
-             {
+            {
                 "nama"  : "Nasywa Nur Afifah",
                 "nim"   : "122450125",
                 "umur"  : "20",
