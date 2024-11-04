@@ -729,7 +729,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi" : "Resume SG",
                 "sosmed": "@puspadrr",
                 "kesan" : "kakaknya kalem dan Penuh perhatian",  
-                "pesan" : "--"
+                "pesan" : "Kakak selalu penuh dengan ide-ide seru yang bikin fun"
             },
             {
                 "nama"  : "Eggi satria",
@@ -739,7 +739,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi" : "Ngoding WISATA",
                 "sosmed": "@egistr",
-                "kesan" : "MANTAP MEN!!!",  
+                "kesan" : "senggol dong dplok MARKOV, MANTAP MEN!!!",  
                 "pesan" : "terus menyala terus abang kuh!!!!!!!!!!!!!!!!!!!!!"
             },
             {
