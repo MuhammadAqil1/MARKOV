@@ -227,7 +227,7 @@ elif menu == "Baleg":#Kesan dan pesan sudah selesai
                 "pesan" : "Sukses selalu buat kakak"
             },
             {
-                "nama"  : "Annisa Dini Amaliya",
+                "nama"  : "Anisa Dini Amaliya",
                 "nim"   : "121450081",
                 "umur"  : "21",
                 "asal"  : "Tanggerang",
@@ -282,7 +282,7 @@ elif menu == "Baleg":#Kesan dan pesan sudah selesai
                 "pesan" : "Semoga dapat lulus kuliah dengan ipk yang memuaskan"
             },
             {
-                "nama"  : "Berlianda Enda Putri",
+                "nama"  : "Berliana Enda Putri",
                 "nim"   : "122450065",
                 "umur"  : "21",
                 "asal"  : "Sumatera Barat",
@@ -446,7 +446,7 @@ elif menu == "Departemen PSDA":
                 "pesan" : "Semoga semua harapan dan cita-cita dapat tercapai"
             },
             {
-                "nama"  : "Oktavia Nurwenda Puspita Sari",
+                "nama"  : "Oktavia Nurwinda Puspita Sari",
                 "nim"   : "122450041",
                 "umur"  : "20",
                 "asal"  : "Lampung Timur",
@@ -524,7 +524,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama"  : "Rafa Aqilla Jungjunan",
-                "nim"   : "122450148",
+                "nim"   : "122450142",
                 "umur"  : "20",
                 "asal"  : "Riau",
                 "alamat": "Belwis",
@@ -546,7 +546,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama"  : "Vanessa Olivia Rose",
-                "nim"   : "121450068",
+                "nim"   : "121450108",
                 "umur"  : "20",
                 "asal"  : "Jakarta",
                 "alamat": "Perumahan Korpri",
@@ -1275,7 +1275,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama"  : "Catherine Firdhasari Maulina Sinaga",
-                "nim"   : "121450071",
+                "nim"   : "121450072",
                 "umur"  : "20",
                 "asal"  : "Sumatera Utara",
                 "alamat": "Airan",
@@ -1438,7 +1438,7 @@ elif menu == "Departemen SSD":
                 "pesan" : "Semangat menjalani kegiatannya, semoga dilancarkan"
             },
             {
-                "nama"  : "Adisty Syawaida Ariyanto",
+                "nama"  : "Adisty Syawalda Ariyanto",
                 "nim"   : "121450136",
                 "umur"  : "22",
                 "asal"  : "Metro",
