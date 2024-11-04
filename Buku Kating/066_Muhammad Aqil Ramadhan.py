@@ -787,7 +787,6 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1oMCF7hDGLogqBdEs1uBFQ2_ohf-VAxQg", #bang abit dn
             "https://drive.google.com/uc?export=view&id=1oFKT-b5xP-5QI8nM3TQsDywbR9PH2OOE", #bang akmal dn
             "https://drive.google.com/uc?export=view&id=1nxJHtCk5zk6FEQtd0jX_uoAd03O6PQcZ", #bang hermawan dn
-            "https://drive.google.com/uc?export=view&id=1fq239NPmX37uzdRH_2hRVWC98bQ50eLe", #kak nisa dn
         ]
         data_list = [
             {
@@ -966,17 +965,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan" : "abangnya super duper baik",  
                 "pesan" : "semoga kuliahnya lancar dan makin sukse bang"
             },
-            {
-                "nama"  : "Khusnun Nisa",
-                "nim"   : "122450078",
-                "umur"  : "20",
-                "asal"  : "Lampung Selatan",
-                "alamat": "Belwis",
-                "hobbi" : "Mengerjakan tugas",
-                "sosmed": "@khusnun_nisa335",
-                "kesan" : "kakaknya baik ",  
-                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya serta jangan lupa untuk jaga kesehatan"
-            },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
