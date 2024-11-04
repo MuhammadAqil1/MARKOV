@@ -21,8 +21,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -239,6 +241,7 @@ elif menu == "Baleg":
                 "pesan" : "Terus mendorong keterlibatan anggota dalam proses pengambilan keputusan dan terus berbagi insight dan pengalamannya, semangat selalu dalam menjalankan peran di himpunan ini"
             },
             {
+
                 "nama"  : "Anisa Fitriyani",
                 "nim"   : "121450150",
                 "umur"  : "21",
@@ -831,7 +834,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur"  : "21",
                 "asal"  : "Bandar Lampung",
                 "alamat": "Tanjung Senang",
-                "hobbi" : "Nugas",
+                "hobbi" : "Nugas"
                 "sosmed": "@arsyiah.__",
                 "kesan" : "Sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
@@ -1527,7 +1530,4 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
-
-
-# Tambahkan menu lainnya sesuai kebutuhan
 
