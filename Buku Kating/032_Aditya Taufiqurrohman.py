@@ -203,7 +203,7 @@ elif menu == "Baleg":
                 "hobbi" : "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "sosmed": "@trimurniyaa",
                 "kesan" : "baik asik banget pokoknya!!",  
-                "pesan" : "SEMANGAT TERUSS KAKAK!!!"
+                "pesan" : "Terima kasih kak, telah mendengarkan aspirasi kami dengan tulus dan SEMANGAT TERUSS KAKAK!!!"
             },
             {
                 "nama"  : "Annisa Cahyani Surya",
@@ -213,8 +213,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Membaca, Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "kesan" : "Kakaknya super asik!",  
+                "pesan" : "semangat dan integritas Baleg selalu menginspirasi dan SEMANGAT TERUSS KAKAK!!!"
             },
             {
                 "nama"  : "Wulan Sabina",
@@ -224,29 +224,29 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Nonton Drakor",
                 "sosmed": "@wlnsbn0",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "kesan" : "Selalu bikin suasana jadi seru",  
+                "pesan" : "terima kasih kak, sehat selalu dan SEMANGAT TERUSS KAKAK!!!"
             },
             {
-                "nama"  : "Annisa Dini Amaliya",
+                "nama"  : "Anisa Dini Amaliya",
                 "nim"   : "121450081",
                 "umur"  : "21",
                 "asal"  : "Tanggerang",
                 "alamat": "Jati Agung",
                 "hobbi" : "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
-                "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
+                "kesan" : "Kakak yang penuh keceriaan!",  
+                "pesan" : "SEMANGAT TERUSS KAKAK!!!"
             },
             {
                 "nama"  : "Anisa Fitriyani",
-                "nim"   : "121450150",
-                "umur"  : "21",
-                "asal"  : "Medan",
-                "alamat": "Raden Saleh",
-                "hobbi" : "Nonton Drakor",
-                "sosmed": "@wlnsbn0",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "nim"   : "122450019",
+                "umur"  : "20",
+                "asal"  : "Batam",
+                "alamat": "Kalianda",
+                "hobbi" : "Membaca Al waqiah setiap magrib",
+                "sosmed": "@ansftynn_",
+                "kesan" : "Sangat bersemangat!",  
                 "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
@@ -257,7 +257,7 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi" : "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "kesan" : "Selalu ada untuk bersenang-senang",  
                 "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
@@ -268,7 +268,7 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Suka Ikut Tes SKD",
                 "sosmed": "@dhea_wedding",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "kesan" : "Energinya bikin semangat!",  
                 "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
@@ -279,7 +279,7 @@ elif menu == "Baleg":
                 "alamat": "Pahoman",
                 "hobbi" : "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "kesan" : "Abangnya selalu bikin hari jadi cerah",  
                 "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
@@ -290,7 +290,7 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "baik asik banget pokok nya semua kakak dan abang di BALEG!!!",  
+                "kesan" : "Selalu bikin suasana jadi hidup",  
                 "pesan" : "SEMANGAT TERUSS KAKAK ABANG!!!"
             },
             {
@@ -446,7 +446,7 @@ elif menu == "Departemen PSDA":
                 "pesan" : "Terima kasih bang, sudah membantu"
             },
             {
-                "nama"  : "Oktavia Nurwenda Puspita Sari",
+                "nama"  : "Oktavia Nurwinda Puspita Sari",
                 "nim"   : "122450041",
                 "umur"  : "20",
                 "asal"  : "Lampung Timur",
@@ -524,7 +524,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama"  : "Rafa Aqilla Jungjunan",
-                "nim"   : "122450148",
+                "nim"   : "122450142",
                 "umur"  : "20",
                 "asal"  : "Riau",
                 "alamat": "Belwis",
@@ -546,7 +546,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama"  : "Vanessa Olivia Rose",
-                "nim"   : "121450068",
+                "nim"   : "121450108",
                 "umur"  : "20",
                 "asal"  : "Jakarta",
                 "alamat": "Perumahan Korpri",
@@ -1059,7 +1059,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama"  : "Catherine Firdhasari Maulina Sinaga",
-                "nim"   : "121450071",
+                "nim"   : "121450072",
                 "umur"  : "20",
                 "asal"  : "Sumatera Utara",
                 "alamat": "Airan",
@@ -1220,7 +1220,7 @@ elif menu == "Departemen SSD":
 
             },
             {
-                "nama"  : "Adisty Syawaida Arianto",
+                "nama"  : "Adisty Syawalda Arianto",
                 "nim"   : "121450136",
                 "umur"  : "22",
                 "asal"  : "Metro",
